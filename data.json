@@ -49,8 +49,26 @@
     "title": "Kalkylator med JS, HTML och CSS",
     "description": "Jag har nyligen lagt till detta projekt i min portfölj för att förbättra mina färdigheter inom webbutveckling. Kalkylatorn är skapad med HTML, CSS och JavaScript och syftar till att förstärka min förståelse för dessa språk samt min förmåga att skapa interaktiva webbapplikationer. Mitt mål som blivande webbutvecklare är att bredda min kompetens inom området och skapa användbara applikationer. Genom detta projekt utvecklar jag mina färdigheter och förmåga att skapa interaktiva användargränssnitt. Jag strävar efter att fortsätta utforska och lära mig mer inom webbutveckling för att bli en mångsidigare och mer kompetent utvecklare.",
     "tools": ["HTML", "CSS", "JS"],
-    "link": "",
+    "link": "https://www.karinwebdesigner.com/calc/index.html",
+    "linkToGithub": "https://github.com/karinEkenberg/calc",
+    "image": "/build/images/calc.PNG"
+  },
+  {
+    "id": 6,
+    "title": "Ekenberg's Graphical Waters",
+    "description": "Som en engagerad webbutvecklarstudent och kreativ själ har jag skapat detta konstgalleri för att utforska och utveckla mina färdigheter inom HTML, CSS och JavaScript. Inspirerad av en informativ tutorial från YouTube använde jag mig av den som en startpunkt och anpassade designen för att passa min vision och kreativa uttryck. Jag har inte bara implementerat de tekniker som jag lärt mig genom tutorialen, utan jag har också gjort betydande anpassningar och lagt till min egen prägel genom att använda de färdigheter jag förvärvat under min utbildning som webbutvecklare. Den här webbplatsen representerar en kombination av handledningens grundläggande koncept och mina personliga inslag, vilket skapar en unik plattform för att dela min konst och webbutvecklingsfärdigheter. Alla konstverk som du ser här är skapade av mig, Karin Ekenberg. Att använda mina egna verk till detta galleri ger mig möjlighet att förena min passion för webbutveckling med min kreativitet inom akvarell och grafisk design. Genom att utforska galleriet kan du inte bara uppleva mina konstnärliga uttryck utan även se hur jag har implementerat olika tekniker inom webbutveckling för att skapa en responsiv och användarvänlig design. Tack för att du besöker mitt galleri och för att du delar den här resan med mig!",
+    "tools": ["HTML", "CSS", "JS"],
+    "link": "https://www.karinwebdesigner.com/gallery/index.html",
     "linkToGithub": "",
-    "image": "/build/images/wwstyle.PNG"
+    "image": "/build/images/gallerie.PNG"
+  },
+  {
+    "id": 7,
+    "title": "Sidoprojekt HTML, CSS och JavaScript",
+    "description": "Under min hektiska studietid prioriterade jag att skapa ett sidoprojekt, en hemsida byggd från grunden med HTML, CSS och JavaScript. Trots tidspressen ville jag utforska min passion för webbutveckling och testa JavaScript genom att integrera interaktiva funktioner, inklusive färgtemaändringar och användbara uträkningar. Sidoprojektet representerar inte bara min tekniska kompetens utan visar även min förmåga att hitta glädje i att skapa och utforska nya aspekter av webbutveckling.",
+    "tools": ["HTML", "CSS", "JS"],
+    "link": "https://www.karinwebdesigner.com/jsFunctions/index.html",
+    "linkToGithub": "",
+    "image": "/build/images/javascript.webp"
   }
 ]
