@@ -1,40 +1,56 @@
 [
-    {
-        "id": 1,
-        "title": "Design och UX",
-        "description": "Jag skapade en användarvänlig webbplats för en fiktiv advokatbyrå med fokus på enkel navigation och tydlig presentation av tjänster för privatpersoner, hyresvärdar och företagare. Designen är modern med tydlig kontaktinformation, minimalistisk text, och sociala medie-ikoner i footern. Färgschemat med marinblått och vita nyanser förmedlar professionalism och förtroende, medan användartester visade att strukturen var lätt att förstå och navigera. Sidan är också mobilanpassad och inkluderar tillgänglighetsfunktioner som alt-taggar och god kontrast.",
-        "tools": ["WordPress", "PHP"],
-        "link": "https://fastighetsradgivarna.karinwebdesigner.com/",
-        "linkToGithub": "",
-        "image": "/build/images/fr.PNG"
-    },
-    {
-      "id": 2,
-      "title": "Publiceringsverktyg",
-      "description": "Jag skapade en webbplats som hjälper barn att lära sig tysk grammatik genom klickbara element som spelar upp ljud och visar bokstäver. Projektet innefattade utveckling av egna plugins med PHP, JavaScript och CSS, samt användning av WordPress för enkel navigation och mobilanpassning. Sidan är designad för att vara lättanvänd för barn, och har testats med fokus på användarvänlighet och funktionalitet.",
-      "tools": ["WordPress", "PHP"],
-      "link": "https://wordpress.karinwebdesigner.com/",
-      "linkToGithub": "https://github.com/karinEkenberg/wordpress-plugin",
-      "image": "/build/images/lara-abc.PNG"    
-    },
-    {
-      "id": 3,
-      "title": "LIA 1",
-      "description": "Under min LIA1 arbetade jag med att utveckla och förbättra webbplatser med WordPress och Elementor. Ett av mina projekt var att skapa en hemsida för en gruskund som behövde uppgradera sin webbplats med funktioner som möjliggjorde beställning av grus i olika mängder, samt visning av produkter och kategorier. För detta projekt använde jag WordPress som CMS och WooCommerce för e-handel. Jag byggde sidan med Elementor  som page builder och integrerade olika JavaScript-bibliotek som jQuery UI och core-js. Utöver det arbetade jag med att förbättra en annan befintlig webbplats där jag implementerade en mörk läge (dark mode) och gjorde andra förbättringar. Ingen av de webbplatser jag arbetade med har gått live än, men jag har fått värdefull erfarenhet i att använda dessa verktyg och teknologier för att skapa och optimera webbplatser.",
-      "tools": ["WordPress", "PHP"],
-      "link": "",
-      "linkToGithub": "",
-      "image": "/build/images/webitdemo.PNG"
-    },
-    {
-        "id": 4,
-        "title": "Walking With Style",
-        "description": "Walking With Style är en e-handelsplattform som jag och en klasskompis utvecklade som ett grupparbete. Plattformen gör det möjligt för användare att bläddra bland produkter, lägga till dem i en varukorg och lämna kommentarer. Byggd med ASP.NET MVC och Entity Framework Core, erbjuder den en enkel navigering mellan produkter och detaljerad information om varje vara, inklusive bilder och priser. Användare kan även lägga till produkter i sin varukorg och redigera den innan köpet slutförs. Kommentarsfunktionen låter kunder dela sina åsikter och skapa en gemenskap kring produkterna. Vi stötte dock på tekniska problem med databashanteringen, vilket ledde till att vissa funktioner inte blev fullt implementerade. Till exempel var admin-funktionaliteten för att hantera produkter inte fullt fungerande och synlig för alla användare, trots att den endast skulle vara tillgänglig för administratörer. Vi hade även planer på att visa antalet produkter i varukorgen vid varukorgsikonen, men på grund av databasbegränsningar blev detta inte möjligt. Trots dessa utmaningar har vi skapat en fungerande plattform med en solid grund för framtida utveckling. En textfil med exempelprodukter ingår för att enkelt testa plattformens funktionalitet.",
-        "tools": ["ASP.NET MVC", "Entity Framework Core","C#", "SQL Server", "HTML", "JS", "Bootstrap CSS", ""],
-        "link": "",
-        "linkToGithub": "https://github.com/PixelWizardsTuc/WWStyle",
-        "image": "/build/images/wwstyle.PNG"
-    }
-  ]
-
-
+  {
+    "id": 1,
+    "title": "Design och UX",
+    "description": "Jag skapade en användarvänlig webbplats för en fiktiv advokatbyrå med fokus på enkel navigation och tydlig presentation av tjänster för privatpersoner, hyresvärdar och företagare. Designen är modern med tydlig kontaktinformation, minimalistisk text, och sociala medie-ikoner i footern. Färgschemat med marinblått och vita nyanser förmedlar professionalism och förtroende, medan användartester visade att strukturen var lätt att förstå och navigera. Sidan är också mobilanpassad och inkluderar tillgänglighetsfunktioner som alt-taggar och god kontrast.",
+    "tools": ["WordPress", "PHP"],
+    "link": "https://fastighetsradgivarna.karinwebdesigner.com/",
+    "linkToGithub": "",
+    "image": "/build/images/fr.PNG"
+  },
+  {
+    "id": 2,
+    "title": "Publiceringsverktyg",
+    "description": "Jag skapade en webbplats som hjälper barn att lära sig tysk grammatik genom klickbara element som spelar upp ljud och visar bokstäver. Projektet innefattade utveckling av egna plugins med PHP, JavaScript och CSS, samt användning av WordPress för enkel navigation och mobilanpassning. Sidan är designad för att vara lättanvänd för barn, och har testats med fokus på användarvänlighet och funktionalitet.",
+    "tools": ["WordPress", "PHP"],
+    "link": "https://wordpress.karinwebdesigner.com/",
+    "linkToGithub": "https://github.com/karinEkenberg/wordpress-plugin",
+    "image": "/build/images/lara-abc.PNG"
+  },
+  {
+    "id": 3,
+    "title": "LIA 1",
+    "description": "Under min LIA1 arbetade jag med att utveckla och förbättra webbplatser med WordPress och Elementor. Ett av mina projekt var att skapa en hemsida för en gruskund som behövde uppgradera sin webbplats med funktioner som möjliggjorde beställning av grus i olika mängder, samt visning av produkter och kategorier. För detta projekt använde jag WordPress som CMS och WooCommerce för e-handel. Jag byggde sidan med Elementor  som page builder och integrerade olika JavaScript-bibliotek som jQuery UI och core-js. Utöver det arbetade jag med att förbättra en annan befintlig webbplats där jag implementerade en mörk läge (dark mode) och gjorde andra förbättringar. Ingen av de webbplatser jag arbetade med har gått live än, men jag har fått värdefull erfarenhet i att använda dessa verktyg och teknologier för att skapa och optimera webbplatser.",
+    "tools": ["WordPress", "PHP"],
+    "link": "",
+    "linkToGithub": "",
+    "image": "/build/images/webitdemo.PNG"
+  },
+  {
+    "id": 4,
+    "title": "Walking With Style",
+    "description": "Walking With Style är en e-handelsplattform som jag och en klasskompis utvecklade som ett grupparbete. Plattformen gör det möjligt för användare att bläddra bland produkter, lägga till dem i en varukorg och lämna kommentarer. Byggd med ASP.NET MVC och Entity Framework Core, erbjuder den en enkel navigering mellan produkter och detaljerad information om varje vara, inklusive bilder och priser. Användare kan även lägga till produkter i sin varukorg och redigera den innan köpet slutförs. Kommentarsfunktionen låter kunder dela sina åsikter och skapa en gemenskap kring produkterna. Vi stötte dock på tekniska problem med databashanteringen, vilket ledde till att vissa funktioner inte blev fullt implementerade. Till exempel var admin-funktionaliteten för att hantera produkter inte fullt fungerande och synlig för alla användare, trots att den endast skulle vara tillgänglig för administratörer. Vi hade även planer på att visa antalet produkter i varukorgen vid varukorgsikonen, men på grund av databasbegränsningar blev detta inte möjligt. Trots dessa utmaningar har vi skapat en fungerande plattform med en solid grund för framtida utveckling. En textfil med exempelprodukter ingår för att enkelt testa plattformens funktionalitet.",
+    "tools": [
+      "ASP.NET MVC",
+      "Entity Framework Core",
+      "C#",
+      "SQL Server",
+      "HTML",
+      "JS",
+      "Bootstrap CSS",
+      ""
+    ],
+    "link": "",
+    "linkToGithub": "https://github.com/PixelWizardsTuc/WWStyle",
+    "image": "/build/images/wwstyle.PNG"
+  },
+  {
+    "id": 5,
+    "title": "Kalkylator med JS, HTML och CSS",
+    "description": "Jag har nyligen lagt till detta projekt i min portfölj för att förbättra mina färdigheter inom webbutveckling. Kalkylatorn är skapad med HTML, CSS och JavaScript och syftar till att förstärka min förståelse för dessa språk samt min förmåga att skapa interaktiva webbapplikationer. Mitt mål som blivande webbutvecklare är att bredda min kompetens inom området och skapa användbara applikationer. Genom detta projekt utvecklar jag mina färdigheter och förmåga att skapa interaktiva användargränssnitt. Jag strävar efter att fortsätta utforska och lära mig mer inom webbutveckling för att bli en mångsidigare och mer kompetent utvecklare.",
+    "tools": ["HTML", "CSS", "JS"],
+    "link": "",
+    "linkToGithub": "",
+    "image": "/build/images/wwstyle.PNG"
+  }
+]
