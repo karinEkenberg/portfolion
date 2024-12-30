@@ -103,20 +103,11 @@
     "description": "Mitt nästa projekt var en djupdykning i användningen av agila metoder och Scrum, vilket markerade mitt första samarbetsprojekt. Vårt uppdrag var att utveckla tre webbsidor för en kommun, inklusive information om deras badhus och fritidsgård. Genom att sätta Scrum i fokus lärde vi oss att optimera vår arbetsprocess och samarbete. Att navigera i gruppdynamiken och balansera individuella styrkor och svagheter var en nyckelaspekt av projektet. Genom regelbundna sprintmöten och konstant kommunikation blev vi en mer effektiv och samspelt grupp. Jag såg både mig själv och vårt team växa som individer och som en kollektiv enhet. Att ta oss igenom utmaningar och nå vårt mål tillsammans var otroligt tillfredsställande.",
     "tools": ["Javascript", "HTML", "CSS"],
     "link": "https://www.karinwebdesigner.com/agilt-projektarbete-kommunen/index.html",
-    "linkToGithub": "",
+    "linkToGithub": "https://github.com/tuc-pixel-wizards/agilt-projektarbete-kommunen",
     "image": "/build/images/kommunen.webp" 
   },
   {
     "id": 12,
-    "title": "Webbshop",
-    "description": "Det här projektet genomfördes som en del av kursen om HTML och CSS, där jag tillämpade agila utvecklingsmetoder för att skapa en webbshop. Shoppen fokuserade främst på den visuella aspekten, och det fanns inga komplexa programmeringslösningar som ingick. Genom att använda mig av grundläggande HTML och CSS, var mitt mål att skapa en estetiskt tilltalande och intuitiv användarupplevelse. Genomförandet av projektet var en exceptionellt lärorik resa. Det var både roligt och utmanande på många sätt. Jag är stolt över resultatet och ser tillbaka på detta projekt med glädje och stolthet. Det har också ökat min entusiasm att fortsätta förbättra mina webbutvecklingsfärdigheter i framtida projekt.",
-    "tools": ["Javascript", "HTML", "CSS"],
-    "link": "https://www.karinwebdesigner.com/agilt-projektarbete-kommunen/index.html",
-    "linkToGithub": "",
-    "image": "/build/images/webshopp.webp" 
-  },
-  {
-    "id": 13,
     "title": "Webbshop",
     "description": "Det här projektet genomfördes som en del av kursen om HTML och CSS, där jag tillämpade agila utvecklingsmetoder för att skapa en webbshop. Shoppen fokuserade främst på den visuella aspekten, och det fanns inga komplexa programmeringslösningar som ingick. Genom att använda mig av grundläggande HTML och CSS, var mitt mål att skapa en estetiskt tilltalande och intuitiv användarupplevelse. Genomförandet av projektet var en exceptionellt lärorik resa. Det var både roligt och utmanande på många sätt. Jag är stolt över resultatet och ser tillbaka på detta projekt med glädje och stolthet. Det har också ökat min entusiasm att fortsätta förbättra mina webbutvecklingsfärdigheter i framtida projekt.",
     "tools": ["HTML", "CSS"],
@@ -125,13 +116,31 @@
     "image": "/build/images/webshopp.webp" 
   },
   {
-    "id": 14,
+    "id": 13,
     "title": "Internets utveckling",
-    "description": "Det här projektet genomfördes som en del av kursen om HTML och CSS, där jag tillämpade agila utvecklingsmetoder för att skapa en webbshop. Shoppen fokuserade främst på den visuella aspekten, och det fanns inga komplexa programmeringslösningar som ingick. Genom att använda mig av grundläggande HTML och CSS, var mitt mål att skapa en estetiskt tilltalande och intuitiv användarupplevelse. Genomförandet av projektet var en exceptionellt lärorik resa. Det var både roligt och utmanande på många sätt. Jag är stolt över resultatet och ser tillbaka på detta projekt med glädje och stolthet. Det har också ökat min entusiasm att fortsätta förbättra mina webbutvecklingsfärdigheter i framtida projekt.",
+    "description": "Mitt första projekt involverade skapandet av en responsiv hemsida med fokus på ämnen som internets utveckling, agila metoder och inspirerande personer. Denna utforskning var oerhört lärorik och givande, då den möjliggjorde för mig att integrera kreativitet och teknisk kompetens på ett sammanhängande sätt. Genom att fördjupa mig i projektet blev jag mer medveten om möjligheterna som finns inom webbutveckling. Dessa två inledande projekt var en del av en kurs om HTML och CSS där vi använde oss av agila arbetsmetoder. En hörnsten var att främja användarvänlighet och att förstå värdet av ett samspelt teamarbete genom Scrum. Genom att följa dessa metoder blev jag mer bekväm med att navigera i komplexa projekt och hantera utmaningar med en proaktiv inställning.",
     "tools": ["HTML", "CSS"],
     "link": "https://www.karinwebdesigner.com/webb-3/index.html",
     "linkToGithub": "",
-    "image": "/build/images/agilt.webp" 
+    "image": "/build/images/agilt.webp"  
+  },
+  {
+    "id": 14,
+    "title": "Webcomic",
+    "description": "Välkommen till Sagan om Björn och Selma, en magisk värld där fantasi och äventyr går hand i hand! Denna webcomic är skapad med kärlek och dedikation, främst för mina fantastiska barn, som inte bara är min inspiration utan också mina största fans. Sagan om Björn och Selma är en sagolik resa genom en färgglad och fantasifull värld, skapad med hjälp av HTML, CSS och illustrationer gjorda i Krita. Genom att kombinera min tekniska expertis och min kreativa passion har jag formgett en interaktiv berättelse som fångar barnens fantasi och skapar en magisk upplevelse för dem. Det som gör Sagan om Björn och Selma extra speciell är att den är inspirerad av mina egna barns fantastiska idéer och drömmar. Genom att lyssna på deras berättelser och låta deras fantasi flöda fritt har jag kunnat skapa en webcomic som inte bara är en källa till glädje för dem utan också för alla som tar del av den.",
+    "tools": ["HTML", "CSS", "Krita"],
+    "link": "https://www.karinwebdesigner.com/webcomic/",
+    "linkToGithub": "",
+    "image": "/build/images/bjorn-selma.PNG" 
+  },
+  {
+    "id": 15, 
+    "title": "Webcomic",
+    "description": "Välkommen till Sagan om Björn och Selma, en magisk värld där fantasi och äventyr går hand i hand! Denna webcomic är skapad med kärlek och dedikation, främst för mina fantastiska barn, som inte bara är min inspiration utan också mina största fans. Sagan om Björn och Selma är en sagolik resa genom en färgglad och fantasifull värld, skapad med hjälp av HTML, CSS och illustrationer gjorda i Krita. Genom att kombinera min tekniska expertis och min kreativa passion har jag formgett en interaktiv berättelse som fångar barnens fantasi och skapar en magisk upplevelse för dem. Det som gör Sagan om Björn och Selma extra speciell är att den är inspirerad av mina egna barns fantastiska idéer och drömmar. Genom att lyssna på deras berättelser och låta deras fantasi flöda fritt har jag kunnat skapa en webcomic som inte bara är en källa till glädje för dem utan också för alla som tar del av den.",
+    "tools": ["HTML", "CSS", "Krita"],
+    "link": "https://www.karinwebdesigner.com/webcomic/",
+    "linkToGithub": "",
+    "image": "/build/images/bjorn-selma.PNG" 
   }
 
 ]
