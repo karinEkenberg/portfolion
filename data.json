@@ -1,6 +1,21 @@
 [
   {
-    "id": 1,
+    "id": 16,
+    "title": "alkdla",
+    "description": "Välkommen till mitt lilla IoT-projekt - ett säkerhetssystem för övervakning av ytterdörren. Genom att kombinera grundläggande tekniska färdigheter och en vilja att experimentera har jag skapat detta system med komponenter som kablar, breadboard, Reed-switch-sensor och Raspberry Pi Pico WH. Med hjälp av enklare verktyg som VSCode med Pymkr-tillägg och grundläggande programmering, har jag skapat en funktionell och prisvärd lösning. Utforska min tutorial för att se hur du kan skapa en liknande lösning. Detta projekt visar på min förmåga att utforska nya områden och använda teknik på ett praktiskt sätt, även som nybörjare inom ämnet. Tack för att du tar dig tid att titta närmare på mitt enkla IoT-säkerhetssystemprojekt!",
+    "tools": [
+      "Raspberry Pi Pico WH",
+      "Reed-switch-sensor",
+      "Breadboard",
+      "Python",
+      "Krita"
+    ],
+    "link": "https://www.karinwebdesigner.com/webcomic/",
+    "linkToGithub": "",
+    "image": "/build/images/iot.PNG"
+  },
+  {
+    "id": 15,
     "title": "Design och UX",
     "description": "Jag skapade en användarvänlig webbplats för en fiktiv advokatbyrå med fokus på enkel navigation och tydlig presentation av tjänster för privatpersoner, hyresvärdar och företagare. Designen är modern med tydlig kontaktinformation, minimalistisk text, och sociala medie-ikoner i footern. Färgschemat med marinblått och vita nyanser förmedlar professionalism och förtroende, medan användartester visade att strukturen var lätt att förstå och navigera. Sidan är också mobilanpassad och inkluderar tillgänglighetsfunktioner som alt-taggar och god kontrast.",
     "tools": ["WordPress", "PHP"],
@@ -9,7 +24,7 @@
     "image": "/build/images/fr.PNG"
   },
   {
-    "id": 2,
+    "id": 14,
     "title": "Publiceringsverktyg",
     "description": "Jag skapade en webbplats som hjälper barn att lära sig tysk grammatik genom klickbara element som spelar upp ljud och visar bokstäver. Projektet innefattade utveckling av egna plugins med PHP, JavaScript och CSS, samt användning av WordPress för enkel navigation och mobilanpassning. Sidan är designad för att vara lättanvänd för barn, och har testats med fokus på användarvänlighet och funktionalitet.",
     "tools": ["WordPress", "PHP"],
@@ -18,7 +33,7 @@
     "image": "/build/images/lara-abc.PNG"
   },
   {
-    "id": 3,
+    "id": 13,
     "title": "LIA 1",
     "description": "Under min LIA1 arbetade jag med att utveckla och förbättra webbplatser med WordPress och Elementor. Ett av mina projekt var att skapa en hemsida för en gruskund som behövde uppgradera sin webbplats med funktioner som möjliggjorde beställning av grus i olika mängder, samt visning av produkter och kategorier. För detta projekt använde jag WordPress som CMS och WooCommerce för e-handel. Jag byggde sidan med Elementor  som page builder och integrerade olika JavaScript-bibliotek som jQuery UI och core-js. Utöver det arbetade jag med att förbättra en annan befintlig webbplats där jag implementerade en mörk läge (dark mode) och gjorde andra förbättringar. Ingen av de webbplatser jag arbetade med har gått live än, men jag har fått värdefull erfarenhet i att använda dessa verktyg och teknologier för att skapa och optimera webbplatser.",
     "tools": ["WordPress", "PHP"],
@@ -27,7 +42,7 @@
     "image": "/build/images/webitdemo.PNG"
   },
   {
-    "id": 4,
+    "id": 12,
     "title": "Walking With Style",
     "description": "Walking With Style är en e-handelsplattform som jag och en klasskompis utvecklade som ett grupparbete. Plattformen gör det möjligt för användare att bläddra bland produkter, lägga till dem i en varukorg och lämna kommentarer. Byggd med ASP.NET MVC och Entity Framework Core, erbjuder den en enkel navigering mellan produkter och detaljerad information om varje vara, inklusive bilder och priser. Användare kan även lägga till produkter i sin varukorg och redigera den innan köpet slutförs. Kommentarsfunktionen låter kunder dela sina åsikter och skapa en gemenskap kring produkterna. Vi stötte dock på tekniska problem med databashanteringen, vilket ledde till att vissa funktioner inte blev fullt implementerade. Till exempel var admin-funktionaliteten för att hantera produkter inte fullt fungerande och synlig för alla användare, trots att den endast skulle vara tillgänglig för administratörer. Vi hade även planer på att visa antalet produkter i varukorgen vid varukorgsikonen, men på grund av databasbegränsningar blev detta inte möjligt. Trots dessa utmaningar har vi skapat en fungerande plattform med en solid grund för framtida utveckling. En textfil med exempelprodukter ingår för att enkelt testa plattformens funktionalitet.",
     "tools": [
@@ -44,7 +59,7 @@
     "image": "/build/images/wwstyle.PNG"
   },
   {
-    "id": 5,
+    "id": 11,
     "title": "Kalkylator med JS, HTML och CSS",
     "description": "Jag har nyligen lagt till detta projekt i min portfölj för att förbättra mina färdigheter inom webbutveckling. Kalkylatorn är skapad med HTML, CSS och JavaScript och syftar till att förstärka min förståelse för dessa språk samt min förmåga att skapa interaktiva webbapplikationer. Mitt mål som blivande webbutvecklare är att bredda min kompetens inom området och skapa användbara applikationer. Genom detta projekt utvecklar jag mina färdigheter och förmåga att skapa interaktiva användargränssnitt. Jag strävar efter att fortsätta utforska och lära mig mer inom webbutveckling för att bli en mångsidigare och mer kompetent utvecklare.",
     "tools": ["HTML", "CSS", "JS"],
@@ -53,16 +68,16 @@
     "image": "/build/images/calc.PNG"
   },
   {
-    "id": 6,
+    "id": 10,
     "title": "Ekenberg's Graphical Waters",
     "description": "Som en engagerad webbutvecklarstudent och kreativ själ har jag skapat detta konstgalleri för att utforska och utveckla mina färdigheter inom HTML, CSS och JavaScript. Inspirerad av en informativ tutorial från YouTube använde jag mig av den som en startpunkt och anpassade designen för att passa min vision och kreativa uttryck. Jag har inte bara implementerat de tekniker som jag lärt mig genom tutorialen, utan jag har också gjort betydande anpassningar och lagt till min egen prägel genom att använda de färdigheter jag förvärvat under min utbildning som webbutvecklare. Den här webbplatsen representerar en kombination av handledningens grundläggande koncept och mina personliga inslag, vilket skapar en unik plattform för att dela min konst och webbutvecklingsfärdigheter. Alla konstverk som du ser här är skapade av mig, Karin Ekenberg. Att använda mina egna verk till detta galleri ger mig möjlighet att förena min passion för webbutveckling med min kreativitet inom akvarell och grafisk design. Genom att utforska galleriet kan du inte bara uppleva mina konstnärliga uttryck utan även se hur jag har implementerat olika tekniker inom webbutveckling för att skapa en responsiv och användarvänlig design. Tack för att du besöker mitt galleri och för att du delar den här resan med mig!",
-    "tools": ["HTML", "CSS", "JS"],
+    "tools": ["HTML", "CSS", "JS", "Krita"],
     "link": "https://www.karinwebdesigner.com/gallery/index.html",
     "linkToGithub": "",
     "image": "/build/images/gallerie.PNG"
   },
   {
-    "id": 7,
+    "id": 9,
     "title": "Sidoprojekt HTML, CSS och JavaScript",
     "description": "Under min hektiska studietid prioriterade jag att skapa ett sidoprojekt, en hemsida byggd från grunden med HTML, CSS och JavaScript. Trots tidspressen ville jag utforska min passion för webbutveckling och testa JavaScript genom att integrera interaktiva funktioner, inklusive färgtemaändringar och användbara uträkningar. Sidoprojektet representerar inte bara min tekniska kompetens utan visar även min förmåga att hitta glädje i att skapa och utforska nya aspekter av webbutveckling.",
     "tools": ["HTML", "CSS", "JS"],
@@ -80,67 +95,72 @@
     "image": "/build/images/calccsharp.PNG"
   },
   {
-    "id": 9,
+    "id": 7,
     "title": "Uppgift 1 JavaScript",
     "description": "I min första uppgift förbättrade jag användarinteraktionen genom att implementera JavaScript-funktioner i befintlig HTML och CSS. En eventlistener på knappen button-contact hämtar och loggar e-postvärdet vid klick. Jag skapade även dynamiska funktioner för att uppdatera telefonfältet och förbättra sökupplevelsen genom att lägga till en händelselyssnare på e-postinmatningsfältet. För att visa olika bilprodukter skapade jag en dynamisk funktion för att skapa och lägga till produktkort baserat på fördefinierade bilobjekt. Varje bilkort inkluderar bild, information och en prislänk. Trots framgångarna stötte jag på utmaningar, särskilt med dynamiskt genererade klassnamn och en pågående tidsbegränsad nedräkning som behöver ytterligare förbättringar i framtiden.",
     "tools": ["Javascript", "HTML", "CSS"],
     "link": "",
     "linkToGithub": "https://github.com/karinEkenberg/uppgiftJS/tree/main/HederligeHarryJS2-main/HederligeHarryJS2-main",
-    "image": "/build/images/javascript1.PNG" 
+    "image": "/build/images/javascript1.PNG"
   },
   {
-    "id": 10,
+    "id": 6,
     "title": "Uppgift 2 JavaScript",
     "description": "I min andra uppgift har jag anpassat sidans användargränssnitt genom att integrera NiceSelect-biblioteket, vilket ger en mer stilren design till det befintliga HTML-select-elementet med id a-select. För att skapa ett interaktivt kortspel har jag implementerat dynamiska funktioner för varje kort (changePic, changePicTwo, ..., changePicTwelve), där användarens klick utlöser bildbyten mellan img/questionmark.webp och andra illustrationer, personligt skapade av mig. Eventlisteners har inkorporerats för att hantera användarens klick på varje kort, och en NiceSelect-instans har lagts till för förbättrad sökbar funktionalitet. I ett försök att inkludera en tidsbegränsning har jag experimenterat med setInterval, trots dynamiska klassnamnsutmaningar. Vid behov överväger jag att använda alternativa identifieringsmetoder som ID eller data-attribut. Trots oförutsedda hinder strävar jag efter att skapa en engagerande användarupplevelse och ser fram emot att fullborda projektet vid tillfälle.",
     "tools": ["Javascript", "HTML", "CSS"],
     "link": "",
     "linkToGithub": "https://github.com/karinEkenberg/memory/tree/main/SpeletJS-main/SpeletJS-main",
-    "image": "/build/images/javascript2.PNG" 
+    "image": "/build/images/javascript2.PNG"
   },
   {
-    "id": 11,
+    "id": 5,
     "title": "Grupparbete kommunen",
     "description": "Mitt nästa projekt var en djupdykning i användningen av agila metoder och Scrum, vilket markerade mitt första samarbetsprojekt. Vårt uppdrag var att utveckla tre webbsidor för en kommun, inklusive information om deras badhus och fritidsgård. Genom att sätta Scrum i fokus lärde vi oss att optimera vår arbetsprocess och samarbete. Att navigera i gruppdynamiken och balansera individuella styrkor och svagheter var en nyckelaspekt av projektet. Genom regelbundna sprintmöten och konstant kommunikation blev vi en mer effektiv och samspelt grupp. Jag såg både mig själv och vårt team växa som individer och som en kollektiv enhet. Att ta oss igenom utmaningar och nå vårt mål tillsammans var otroligt tillfredsställande.",
     "tools": ["Javascript", "HTML", "CSS"],
     "link": "https://www.karinwebdesigner.com/agilt-projektarbete-kommunen/index.html",
     "linkToGithub": "https://github.com/tuc-pixel-wizards/agilt-projektarbete-kommunen",
-    "image": "/build/images/kommunen.webp" 
+    "image": "/build/images/kommunen.webp"
   },
   {
-    "id": 12,
+    "id": 4,
     "title": "Webbshop",
     "description": "Det här projektet genomfördes som en del av kursen om HTML och CSS, där jag tillämpade agila utvecklingsmetoder för att skapa en webbshop. Shoppen fokuserade främst på den visuella aspekten, och det fanns inga komplexa programmeringslösningar som ingick. Genom att använda mig av grundläggande HTML och CSS, var mitt mål att skapa en estetiskt tilltalande och intuitiv användarupplevelse. Genomförandet av projektet var en exceptionellt lärorik resa. Det var både roligt och utmanande på många sätt. Jag är stolt över resultatet och ser tillbaka på detta projekt med glädje och stolthet. Det har också ökat min entusiasm att fortsätta förbättra mina webbutvecklingsfärdigheter i framtida projekt.",
     "tools": ["HTML", "CSS"],
     "link": "https://www.karinwebdesigner.com/webb-9/index.html",
     "linkToGithub": "",
-    "image": "/build/images/webshopp.webp" 
+    "image": "/build/images/webshopp.webp"
   },
   {
-    "id": 13,
+    "id": 3,
     "title": "Internets utveckling",
     "description": "Mitt första projekt involverade skapandet av en responsiv hemsida med fokus på ämnen som internets utveckling, agila metoder och inspirerande personer. Denna utforskning var oerhört lärorik och givande, då den möjliggjorde för mig att integrera kreativitet och teknisk kompetens på ett sammanhängande sätt. Genom att fördjupa mig i projektet blev jag mer medveten om möjligheterna som finns inom webbutveckling. Dessa två inledande projekt var en del av en kurs om HTML och CSS där vi använde oss av agila arbetsmetoder. En hörnsten var att främja användarvänlighet och att förstå värdet av ett samspelt teamarbete genom Scrum. Genom att följa dessa metoder blev jag mer bekväm med att navigera i komplexa projekt och hantera utmaningar med en proaktiv inställning.",
     "tools": ["HTML", "CSS"],
     "link": "https://www.karinwebdesigner.com/webb-3/index.html",
     "linkToGithub": "",
-    "image": "/build/images/agilt.webp"  
+    "image": "/build/images/agilt.webp"
   },
   {
-    "id": 14,
+    "id": 2,
     "title": "Webcomic",
     "description": "Välkommen till Sagan om Björn och Selma, en magisk värld där fantasi och äventyr går hand i hand! Denna webcomic är skapad med kärlek och dedikation, främst för mina fantastiska barn, som inte bara är min inspiration utan också mina största fans. Sagan om Björn och Selma är en sagolik resa genom en färgglad och fantasifull värld, skapad med hjälp av HTML, CSS och illustrationer gjorda i Krita. Genom att kombinera min tekniska expertis och min kreativa passion har jag formgett en interaktiv berättelse som fångar barnens fantasi och skapar en magisk upplevelse för dem. Det som gör Sagan om Björn och Selma extra speciell är att den är inspirerad av mina egna barns fantastiska idéer och drömmar. Genom att lyssna på deras berättelser och låta deras fantasi flöda fritt har jag kunnat skapa en webcomic som inte bara är en källa till glädje för dem utan också för alla som tar del av den.",
     "tools": ["HTML", "CSS", "Krita"],
     "link": "https://www.karinwebdesigner.com/webcomic/",
     "linkToGithub": "",
-    "image": "/build/images/bjorn-selma.PNG" 
+    "image": "/build/images/bjorn-selma.PNG"
   },
   {
-    "id": 15, 
-    "title": "Webcomic",
-    "description": "Välkommen till Sagan om Björn och Selma, en magisk värld där fantasi och äventyr går hand i hand! Denna webcomic är skapad med kärlek och dedikation, främst för mina fantastiska barn, som inte bara är min inspiration utan också mina största fans. Sagan om Björn och Selma är en sagolik resa genom en färgglad och fantasifull värld, skapad med hjälp av HTML, CSS och illustrationer gjorda i Krita. Genom att kombinera min tekniska expertis och min kreativa passion har jag formgett en interaktiv berättelse som fångar barnens fantasi och skapar en magisk upplevelse för dem. Det som gör Sagan om Björn och Selma extra speciell är att den är inspirerad av mina egna barns fantastiska idéer och drömmar. Genom att lyssna på deras berättelser och låta deras fantasi flöda fritt har jag kunnat skapa en webcomic som inte bara är en källa till glädje för dem utan också för alla som tar del av den.",
-    "tools": ["HTML", "CSS", "Krita"],
+    "id": 1,
+    "title": "IoT",
+    "description": "Välkommen till mitt lilla IoT-projekt - ett säkerhetssystem för övervakning av ytterdörren. Genom att kombinera grundläggande tekniska färdigheter och en vilja att experimentera har jag skapat detta system med komponenter som kablar, breadboard, Reed-switch-sensor och Raspberry Pi Pico WH. Med hjälp av enklare verktyg som VSCode med Pymkr-tillägg och grundläggande programmering, har jag skapat en funktionell och prisvärd lösning. Utforska min tutorial för att se hur du kan skapa en liknande lösning. Detta projekt visar på min förmåga att utforska nya områden och använda teknik på ett praktiskt sätt, även som nybörjare inom ämnet. Tack för att du tar dig tid att titta närmare på mitt enkla IoT-säkerhetssystemprojekt!",
+    "tools": [
+      "Raspberry Pi Pico WH",
+      "Reed-switch-sensor",
+      "Breadboard",
+      "Python",
+      "Krita"
+    ],
     "link": "https://www.karinwebdesigner.com/webcomic/",
     "linkToGithub": "",
-    "image": "/build/images/bjorn-selma.PNG" 
+    "image": "/build/images/iot.PNG"
   }
-
 ]
