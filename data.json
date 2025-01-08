@@ -1,20 +1,5 @@
 [
   {
-    "id": 16,
-    "title": "alkdla",
-    "description": "Välkommen till mitt lilla IoT-projekt - ett säkerhetssystem för övervakning av ytterdörren. Genom att kombinera grundläggande tekniska färdigheter och en vilja att experimentera har jag skapat detta system med komponenter som kablar, breadboard, Reed-switch-sensor och Raspberry Pi Pico WH. Med hjälp av enklare verktyg som VSCode med Pymkr-tillägg och grundläggande programmering, har jag skapat en funktionell och prisvärd lösning. Utforska min tutorial för att se hur du kan skapa en liknande lösning. Detta projekt visar på min förmåga att utforska nya områden och använda teknik på ett praktiskt sätt, även som nybörjare inom ämnet. Tack för att du tar dig tid att titta närmare på mitt enkla IoT-säkerhetssystemprojekt!",
-    "tools": [
-      "Raspberry Pi Pico WH",
-      "Reed-switch-sensor",
-      "Breadboard",
-      "Python",
-      "Krita"
-    ],
-    "link": "https://www.karinwebdesigner.com/webcomic/",
-    "linkToGithub": "",
-    "image": "/build/images/iot.PNG"
-  },
-  {
     "id": 15,
     "title": "Design och UX",
     "description": "Jag skapade en användarvänlig webbplats för en fiktiv advokatbyrå med fokus på enkel navigation och tydlig presentation av tjänster för privatpersoner, hyresvärdar och företagare. Designen är modern med tydlig kontaktinformation, minimalistisk text, och sociala medie-ikoner i footern. Färgschemat med marinblått och vita nyanser förmedlar professionalism och förtroende, medan användartester visade att strukturen var lätt att förstå och navigera. Sidan är också mobilanpassad och inkluderar tillgänglighetsfunktioner som alt-taggar och god kontrast.",
@@ -65,7 +50,7 @@
     "tools": ["HTML", "CSS", "JS"],
     "link": "https://www.karinwebdesigner.com/calc/index.html",
     "linkToGithub": "https://github.com/karinEkenberg/calc",
-    "image": "/build/images/calc.PNG"
+    "image": "/build/images/calcJs.PNG"
   },
   {
     "id": 10,
@@ -74,7 +59,7 @@
     "tools": ["HTML", "CSS", "JS", "Krita"],
     "link": "https://www.karinwebdesigner.com/gallery/index.html",
     "linkToGithub": "",
-    "image": "/build/images/gallerie.PNG"
+    "image": "/build/images/gallery.PNG"
   },
   {
     "id": 9,
@@ -83,7 +68,7 @@
     "tools": ["HTML", "CSS", "JS"],
     "link": "https://www.karinwebdesigner.com/jsFunctions/index.html",
     "linkToGithub": "",
-    "image": "/build/images/javascript.webp"
+    "image": "/build/images/webpulse.PNG"
   },
   {
     "id": 8,
@@ -101,7 +86,7 @@
     "tools": ["Javascript", "HTML", "CSS"],
     "link": "",
     "linkToGithub": "https://github.com/karinEkenberg/uppgiftJS/tree/main/HederligeHarryJS2-main/HederligeHarryJS2-main",
-    "image": "/build/images/javascript1.PNG"
+    "image": "/build/images/hederligeharrry.PNG"
   },
   {
     "id": 6,
@@ -110,7 +95,7 @@
     "tools": ["Javascript", "HTML", "CSS"],
     "link": "",
     "linkToGithub": "https://github.com/karinEkenberg/memory/tree/main/SpeletJS-main/SpeletJS-main",
-    "image": "/build/images/javascript2.PNG"
+    "image": "/build/images/memory.PNG"
   },
   {
     "id": 5,
@@ -119,7 +104,7 @@
     "tools": ["Javascript", "HTML", "CSS"],
     "link": "https://www.karinwebdesigner.com/agilt-projektarbete-kommunen/index.html",
     "linkToGithub": "https://github.com/tuc-pixel-wizards/agilt-projektarbete-kommunen",
-    "image": "/build/images/kommunen.webp"
+    "image": "/build/images/kommun.PNG"
   },
   {
     "id": 4,
@@ -128,16 +113,16 @@
     "tools": ["HTML", "CSS"],
     "link": "https://www.karinwebdesigner.com/webb-9/index.html",
     "linkToGithub": "",
-    "image": "/build/images/webshopp.webp"
+    "image": "/build/images/moggHornan.PNG"
   },
   {
     "id": 3,
     "title": "Internets utveckling",
     "description": "Mitt första projekt involverade skapandet av en responsiv hemsida med fokus på ämnen som internets utveckling, agila metoder och inspirerande personer. Denna utforskning var oerhört lärorik och givande, då den möjliggjorde för mig att integrera kreativitet och teknisk kompetens på ett sammanhängande sätt. Genom att fördjupa mig i projektet blev jag mer medveten om möjligheterna som finns inom webbutveckling. Dessa två inledande projekt var en del av en kurs om HTML och CSS där vi använde oss av agila arbetsmetoder. En hörnsten var att främja användarvänlighet och att förstå värdet av ett samspelt teamarbete genom Scrum. Genom att följa dessa metoder blev jag mer bekväm med att navigera i komplexa projekt och hantera utmaningar med en proaktiv inställning.",
-    "tools": ["HTML", "CSS"],
+    "tools": ["HTML", "CSS", "Krita"],
     "link": "https://www.karinwebdesigner.com/webb-3/index.html",
     "linkToGithub": "",
-    "image": "/build/images/agilt.webp"
+    "image": "/build/images/historia.PNG"
   },
   {
     "id": 2,
@@ -146,7 +131,7 @@
     "tools": ["HTML", "CSS", "Krita"],
     "link": "https://www.karinwebdesigner.com/webcomic/",
     "linkToGithub": "",
-    "image": "/build/images/bjorn-selma.PNG"
+    "image": "/build/images/bjornOselma.PNG"
   },
   {
     "id": 1,
