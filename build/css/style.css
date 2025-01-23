@@ -619,10 +619,6 @@ video {
   height: auto;
 }
 
-.w-60 {
-  width: 15rem;
-}
-
 .w-\[95\%\] {
   width: 95%;
 }
@@ -641,10 +637,6 @@ video {
 
 .justify-center {
   justify-content: center;
-}
-
-.justify-evenly {
-  justify-content: space-evenly;
 }
 
 .overflow-hidden {
@@ -708,11 +700,6 @@ video {
 .text-2xl {
   font-size: 1.5rem;
   line-height: 2rem;
-}
-
-.text-4xl {
-  font-size: 2.25rem;
-  line-height: 2.5rem;
 }
 
 .text-5xl {
