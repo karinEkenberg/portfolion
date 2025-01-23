@@ -1,5 +1,8 @@
 module.exports = {
-  content: ["./build/*.html", "./*.js"], // Matchar HTML och JS-filer
+  content: [
+    "./build/*.html", 
+    "./build/js/*.js",
+  ], 
   theme: {
     extend: {
       colors: {
