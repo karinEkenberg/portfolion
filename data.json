@@ -1,6 +1,6 @@
 [
   {
-    "id": 15,
+    "id": 18,
     "title": "Design och UX",
     "description": "Jag skapade en användarvänlig webbplats för en fiktiv advokatbyrå med fokus på enkel navigation och tydlig presentation av tjänster för privatpersoner, hyresvärdar och företagare. Designen är modern med tydlig kontaktinformation, minimalistisk text, och sociala medie-ikoner i footern. Färgschemat med marinblått och vita nyanser förmedlar professionalism och förtroende, medan användartester visade att strukturen var lätt att förstå och navigera. Sidan är också mobilanpassad och inkluderar tillgänglighetsfunktioner som alt-taggar och god kontrast.",
     "tools": ["WordPress", "PHP"],
@@ -9,7 +9,7 @@
     "image": "/build/images/fr.PNG"
   },
   {
-    "id": 14,
+    "id": 17,
     "title": "Publiceringsverktyg",
     "description": "Jag skapade en webbplats som hjälper barn att lära sig tysk grammatik genom klickbara element som spelar upp ljud och visar bokstäver. Projektet innefattade utveckling av egna plugins med PHP, JavaScript och CSS, samt användning av WordPress för enkel navigation och mobilanpassning. Sidan är designad för att vara lättanvänd för barn, och har testats med fokus på användarvänlighet och funktionalitet.",
     "tools": ["WordPress", "PHP"],
@@ -18,16 +18,16 @@
     "image": "/build/images/lara-abc.PNG"
   },
   {
-    "id": 13,
+    "id": 16,
     "title": "LIA 1",
     "description": "Under min LIA1 arbetade jag med att utveckla och förbättra webbplatser med WordPress och Elementor. Ett av mina projekt var att skapa en hemsida för en gruskund som behövde uppgradera sin webbplats med funktioner som möjliggjorde beställning av grus i olika mängder, samt visning av produkter och kategorier. För detta projekt använde jag WordPress som CMS och WooCommerce för e-handel. Jag byggde sidan med Elementor  som page builder och integrerade olika JavaScript-bibliotek som jQuery UI och core-js. Utöver det arbetade jag med att förbättra en annan befintlig webbplats där jag implementerade en mörk läge (dark mode) och gjorde andra förbättringar. Ingen av de webbplatser jag arbetade med har gått live än, men jag har fått värdefull erfarenhet i att använda dessa verktyg och teknologier för att skapa och optimera webbplatser.",
     "tools": ["WordPress", "PHP"],
-    "link": "",
+    "link": "https://ggshop.utvsajt.se/",
     "linkToGithub": "",
-    "image": "/build/images/webitdemo.PNG"
+    "image": "/build/images/ggshop.PNG"
   },
   {
-    "id": 12,
+    "id": 15,
     "title": "Walking With Style",
     "description": "Walking With Style är en e-handelsplattform som jag och en klasskompis utvecklade som ett grupparbete. Plattformen gör det möjligt för användare att bläddra bland produkter, lägga till dem i en varukorg och lämna kommentarer. Byggd med ASP.NET MVC och Entity Framework Core, erbjuder den en enkel navigering mellan produkter och detaljerad information om varje vara, inklusive bilder och priser. Användare kan även lägga till produkter i sin varukorg och redigera den innan köpet slutförs. Kommentarsfunktionen låter kunder dela sina åsikter och skapa en gemenskap kring produkterna. Vi stötte dock på tekniska problem med databashanteringen, vilket ledde till att vissa funktioner inte blev fullt implementerade. Till exempel var admin-funktionaliteten för att hantera produkter inte fullt fungerande och synlig för alla användare, trots att den endast skulle vara tillgänglig för administratörer. Vi hade även planer på att visa antalet produkter i varukorgen vid varukorgsikonen, men på grund av databasbegränsningar blev detta inte möjligt. Trots dessa utmaningar har vi skapat en fungerande plattform med en solid grund för framtida utveckling. En textfil med exempelprodukter ingår för att enkelt testa plattformens funktionalitet.",
     "tools": [
@@ -44,7 +44,7 @@
     "image": "/build/images/wwstyle.PNG"
   },
   {
-    "id": 11,
+    "id": 14,
     "title": "Kalkylator med JS, HTML och CSS",
     "description": "Jag har nyligen lagt till detta projekt i min portfölj för att förbättra mina färdigheter inom webbutveckling. Kalkylatorn är skapad med HTML, CSS och JavaScript och syftar till att förstärka min förståelse för dessa språk samt min förmåga att skapa interaktiva webbapplikationer. Mitt mål som blivande webbutvecklare är att bredda min kompetens inom området och skapa användbara applikationer. Genom detta projekt utvecklar jag mina färdigheter och förmåga att skapa interaktiva användargränssnitt. Jag strävar efter att fortsätta utforska och lära mig mer inom webbutveckling för att bli en mångsidigare och mer kompetent utvecklare.",
     "tools": ["HTML", "CSS", "JS"],
@@ -53,7 +53,7 @@
     "image": "/build/images/calcJs.PNG"
   },
   {
-    "id": 10,
+    "id": 13,
     "title": "Ekenberg's Graphical Waters",
     "description": "Som en engagerad webbutvecklarstudent och kreativ själ har jag skapat detta konstgalleri för att utforska och utveckla mina färdigheter inom HTML, CSS och JavaScript. Inspirerad av en informativ tutorial från YouTube använde jag mig av den som en startpunkt och anpassade designen för att passa min vision och kreativa uttryck. Jag har inte bara implementerat de tekniker som jag lärt mig genom tutorialen, utan jag har också gjort betydande anpassningar och lagt till min egen prägel genom att använda de färdigheter jag förvärvat under min utbildning som webbutvecklare. Den här webbplatsen representerar en kombination av handledningens grundläggande koncept och mina personliga inslag, vilket skapar en unik plattform för att dela min konst och webbutvecklingsfärdigheter. Alla konstverk som du ser här är skapade av mig, Karin Ekenberg. Att använda mina egna verk till detta galleri ger mig möjlighet att förena min passion för webbutveckling med min kreativitet inom akvarell och grafisk design. Genom att utforska galleriet kan du inte bara uppleva mina konstnärliga uttryck utan även se hur jag har implementerat olika tekniker inom webbutveckling för att skapa en responsiv och användarvänlig design. Tack för att du besöker mitt galleri och för att du delar den här resan med mig!",
     "tools": ["HTML", "CSS", "JS", "Krita"],
@@ -62,7 +62,7 @@
     "image": "/build/images/gallery.PNG"
   },
   {
-    "id": 9,
+    "id": 12,
     "title": "Sidoprojekt HTML, CSS och JavaScript",
     "description": "Under min hektiska studietid prioriterade jag att skapa ett sidoprojekt, en hemsida byggd från grunden med HTML, CSS och JavaScript. Trots tidspressen ville jag utforska min passion för webbutveckling och testa JavaScript genom att integrera interaktiva funktioner, inklusive färgtemaändringar och användbara uträkningar. Sidoprojektet representerar inte bara min tekniska kompetens utan visar även min förmåga att hitta glädje i att skapa och utforska nya aspekter av webbutveckling.",
     "tools": ["HTML", "CSS", "JS"],
@@ -71,7 +71,7 @@
     "image": "/build/images/webpulse.PNG"
   },
   {
-    "id": 8,
+    "id": 11,
     "title": "Miniräknare i C#",
     "description": "I mitt C#-program har jag utvecklat en miniräknare med användarvänlig struktur och tydliga metoder för olika beräkningar. Genom att använda klasser och loopar har jag skapat en flexibel plattform där användaren kan välja mellan grundläggande aritmetik, beräkning av geometriska områden och trigonometriska funktioner. Resultaten sparas och kan visas i en lista för användarens referens. Jag har fokuserat på att integrera användarvänliga meddelanden och felhantering för en förbättrad användarupplevelse. I det andra programmet har jag byggt en annorlunda miniräknare med möjlighet att utföra flera komplexa beräkningar. Programmet tillåter användaren att genomföra grundläggande aritmetik samt beräkna områden för olika geometriska figurer. Jag har inkluderat visuella anvisningar och felhantering för att göra programmet mer robust och användarvänligt.",
     "tools": ["C#"],
@@ -80,7 +80,7 @@
     "image": "/build/images/calccsharp.PNG"
   },
   {
-    "id": 7,
+    "id": 10,
     "title": "Uppgift 1 JavaScript",
     "description": "I min första uppgift förbättrade jag användarinteraktionen genom att implementera JavaScript-funktioner i befintlig HTML och CSS. En eventlistener på knappen button-contact hämtar och loggar e-postvärdet vid klick. Jag skapade även dynamiska funktioner för att uppdatera telefonfältet och förbättra sökupplevelsen genom att lägga till en händelselyssnare på e-postinmatningsfältet. För att visa olika bilprodukter skapade jag en dynamisk funktion för att skapa och lägga till produktkort baserat på fördefinierade bilobjekt. Varje bilkort inkluderar bild, information och en prislänk. Trots framgångarna stötte jag på utmaningar, särskilt med dynamiskt genererade klassnamn och en pågående tidsbegränsad nedräkning som behöver ytterligare förbättringar i framtiden.",
     "tools": ["Javascript", "HTML", "CSS"],
@@ -89,7 +89,7 @@
     "image": "/build/images/hederligeharrry.PNG"
   },
   {
-    "id": 6,
+    "id": 9,
     "title": "Uppgift 2 JavaScript",
     "description": "I min andra uppgift har jag anpassat sidans användargränssnitt genom att integrera NiceSelect-biblioteket, vilket ger en mer stilren design till det befintliga HTML-select-elementet med id a-select. För att skapa ett interaktivt kortspel har jag implementerat dynamiska funktioner för varje kort (changePic, changePicTwo, ..., changePicTwelve), där användarens klick utlöser bildbyten mellan img/questionmark.webp och andra illustrationer, personligt skapade av mig. Eventlisteners har inkorporerats för att hantera användarens klick på varje kort, och en NiceSelect-instans har lagts till för förbättrad sökbar funktionalitet. I ett försök att inkludera en tidsbegränsning har jag experimenterat med setInterval, trots dynamiska klassnamnsutmaningar. Vid behov överväger jag att använda alternativa identifieringsmetoder som ID eller data-attribut. Trots oförutsedda hinder strävar jag efter att skapa en engagerande användarupplevelse och ser fram emot att fullborda projektet vid tillfälle.",
     "tools": ["Javascript", "HTML", "CSS"],
@@ -98,9 +98,36 @@
     "image": "/build/images/memory.PNG"
   },
   {
+    "id": 8,
+    "title": "Old portfolio",
+    "description": "When I started my education at TUC to become a webdeveloper I made this simple portfolio with just HTML and CSS.",
+    "tools": ["HTML", "CSS"],
+    "link": "https://www.karinwebdesigner.com/",
+    "linkToGithub": "",
+    "image": "/build/images/old-portfolio.PNG"
+  },
+  {
+    "id": 7,
+    "title": "Group project - The Bathhouse",
+    "description": "Part of the first group project was also a fictional bathhouse that was part of Grönviksdal municipality.",
+    "tools": ["Javascript", "HTML", "CSS"],
+    "link": "https://www.karinwebdesigner.com/agilt-projektarbete-kommunen/agilt-projektarbete-badhuset/",
+    "linkToGithub": "https://github.com/tuc-pixel-wizards/agilt-projektarbete-badhuset",
+    "image": "/build/images/badhuset.PNG"
+  },
+  {
+    "id": 6,
+    "title": "Group project - Youth Recreation Center",
+    "description": "Part of the first group project was the youth recreation center in Grönviksdal municipality.",
+    "tools": ["HTML", "CSS"],
+    "link": "https://www.karinwebdesigner.com/agilt-projektarbete-kommunen/agilt-projektarbete-fritidsgarden/",
+    "linkToGithub": "https://github.com/tuc-pixel-wizards/agilt-projektarbete-fritidsgarden",
+    "image": "/build/images/fritidsgarden.PNG"
+  },
+  {
     "id": 5,
-    "title": "Grupparbete kommunen",
-    "description": "Mitt nästa projekt var en djupdykning i användningen av agila metoder och Scrum, vilket markerade mitt första samarbetsprojekt. Vårt uppdrag var att utveckla tre webbsidor för en kommun, inklusive information om deras badhus och fritidsgård. Genom att sätta Scrum i fokus lärde vi oss att optimera vår arbetsprocess och samarbete. Att navigera i gruppdynamiken och balansera individuella styrkor och svagheter var en nyckelaspekt av projektet. Genom regelbundna sprintmöten och konstant kommunikation blev vi en mer effektiv och samspelt grupp. Jag såg både mig själv och vårt team växa som individer och som en kollektiv enhet. Att ta oss igenom utmaningar och nå vårt mål tillsammans var otroligt tillfredsställande.",
+    "title": "Group project - Grönviksdal Municipality",
+    "description": "My first experience with agile methods and scrum was the group work Grönvikdal Municipality",
     "tools": ["Javascript", "HTML", "CSS"],
     "link": "https://www.karinwebdesigner.com/agilt-projektarbete-kommunen/index.html",
     "linkToGithub": "https://github.com/tuc-pixel-wizards/agilt-projektarbete-kommunen",

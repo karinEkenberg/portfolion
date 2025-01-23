@@ -41,7 +41,9 @@ fetch("/data.json")
             Show More
           </button>
         </div>
+        <div>
         <p class="text-center"><strong>Tools:</strong> ${project.tools.join(", ")}.</p>
+        </div>
               <p class="text-center pb-5">${link} | ${githubLink}</p>
       `;
 
