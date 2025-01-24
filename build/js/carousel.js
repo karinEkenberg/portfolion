@@ -7,8 +7,37 @@ export function loadCarousel() {
       // Lägger in karusellens HTML i en specifik container på sidan
       document.getElementById("carousel-placeholder").innerHTML = data;
 
-      // Initiera karusellen efter att HTML har laddats in
-      initializeCarousel();
+      // Ladda in techstack.json
+      fetch("./techstack.json")
+        .then((response) => response.json())
+        .then((data) => {
+          // Skapa HTML för varje techstack
+          const carousel = document.getElementById("carousel");
+
+          data.forEach((item) => {
+            const carouselItem = document.createElement("div");
+            carouselItem.classList.add("w-16", "flex-shrink-0");
+
+            const img = document.createElement("img");
+            img.src = item.img;
+            img.alt = item.name;
+            img.classList.add("w-16", "h-auto");
+
+            const name = document.createElement("p");
+            name.classList.add("text-center", "text-white");
+            name.innerText = item.name;
+
+            carouselItem.appendChild(img);
+            carouselItem.appendChild(name);
+            carousel.appendChild(carouselItem);
+          });
+
+          // Initiera karusellen efter att bilder och namn har lagts till
+          initializeCarousel();
+        })
+        .catch((error) =>
+          console.error("Error loading techstack.json:", error)
+        );
     })
     .catch((error) => console.error("Error loading carousel:", error));
 }
@@ -31,5 +60,5 @@ export function initializeCarousel() {
   carousel.style.width = `${totalWidth}%`;
 
   // Applicera CSS-animationen för kontinuerlig rörelse
-  carousel.style.animation = "scrollCarousel 30s linear infinite";
+  carousel.style.animation = "scrollCarousel 60s linear infinite"; // För långsammare rörelse
 }
