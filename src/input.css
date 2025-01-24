@@ -1,3 +1,24 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* För att skapa en oändlig, kontinuerlig rörelse */
+#carousel {
+  display: flex;
+  width: 200%; /* Dubbla bredden så vi kan visa alla bilder två gånger */
+  animation: scrollCarousel 60s linear infinite; /* Animationen varar i 30 sekunder per cykel */
+}
+@keyframes scrollCarousel {
+  0% {
+    transform: translateX(0); /* Starta från början */
+  }
+  100% {
+    transform: translateX(-50%); /* Flytta hela karusellen till mitten */
+  }
+}
+
+#carousel {
+  display: flex;
+  width: 200%; /* Dubbel bredd så vi kan visa alla bilder två gånger */
+  animation: scrollCarousel 60s linear infinite; /* Gör rörelsen långsammare */
+}
