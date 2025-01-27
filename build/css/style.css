@@ -592,6 +592,10 @@ video {
   position: relative;
 }
 
+.m-0 {
+  margin: 0px;
+}
+
 .mx-0 {
   margin-left: 0px;
   margin-right: 0px;
@@ -630,8 +634,32 @@ video {
   width: 100%;
 }
 
+.w-1 {
+  width: 0.25rem;
+}
+
+.w-10 {
+  width: 2.5rem;
+}
+
+.w-80 {
+  width: 20rem;
+}
+
+.w-\[80\] {
+  width: 80;
+}
+
+.w-14 {
+  width: 3.5rem;
+}
+
 .flex-shrink-0 {
   flex-shrink: 0;
+}
+
+.flex-row {
+  flex-direction: row;
 }
 
 .flex-col {
@@ -646,12 +674,20 @@ video {
   justify-content: center;
 }
 
+.justify-between {
+  justify-content: space-between;
+}
+
 .justify-evenly {
   justify-content: space-evenly;
 }
 
 .gap-10 {
   gap: 2.5rem;
+}
+
+.gap-5 {
+  gap: 1.25rem;
 }
 
 .overflow-hidden {
@@ -720,6 +756,10 @@ video {
   font-weight: 700;
 }
 
+.font-semibold {
+  font-weight: 600;
+}
+
 .text-white {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity, 1));
@@ -760,36 +800,6 @@ video {
   transition-duration: 300ms;
 }
 
-/* För att skapa en oändlig, kontinuerlig rörelse */
-
-#carousel {
-  display: flex;
-  width: 200%;
-  /* Dubbla bredden så vi kan visa alla bilder två gånger */
-  animation: scrollCarousel 60s linear infinite;
-  /* Animationen varar i 30 sekunder per cykel */
-}
-
-@keyframes scrollCarousel {
-  0% {
-    transform: translateX(0);
-    /* Starta från början */
-  }
-
-  100% {
-    transform: translateX(-50%);
-    /* Flytta hela karusellen till mitten */
-  }
-}
-
-#carousel {
-  display: flex;
-  width: 200%;
-  /* Dubbel bredd så vi kan visa alla bilder två gånger */
-  animation: scrollCarousel 60s linear infinite;
-  /* Gör rörelsen långsammare */
-}
-
 .hover\:shadow-xl:hover {
   --tw-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1);
   --tw-shadow-colored: 0 20px 25px -5px var(--tw-shadow-color), 0 8px 10px -6px var(--tw-shadow-color);
@@ -811,3 +821,5 @@ video {
     width: 25%;
   }
 }
+
+

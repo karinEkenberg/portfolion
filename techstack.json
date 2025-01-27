@@ -28,10 +28,6 @@
     "img": "./images/wordpress-color-svgrepo-com.svg"
   },
   {
-    "name": "Adobe Illustrator",
-    "img": "./images/adobe-illustrator-cc-logo-svgrepo-com.svg"
-  },
-  {
     "name": "C#",
     "img": "./images/csharp2-svgrepo-com.svg"
   },
@@ -50,5 +46,9 @@
   {
     "name": "HTML",
     "img": "./images/html-5-svgrepo-com.svg"
+  },
+  {
+    "name": "Adobe Illustrator",
+    "img": "./images/adobe-illustrator-cc-logo-svgrepo-com.svg"
   }
 ]
