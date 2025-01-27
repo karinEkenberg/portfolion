@@ -12,7 +12,7 @@ export function projects() {
           "w-full",
           "lg:w-1/4",
           "text-whiteish",
-          "bg-darkestish",
+          "bg-darkish",
           "shadow-lg",
           "rounded-lg",
           "hover:shadow-xl",
