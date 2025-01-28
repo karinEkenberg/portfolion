@@ -10,9 +10,9 @@ export function projects() {
         const projectDiv = document.createElement("div");
         projectDiv.classList.add(
           "w-full",
-          "lg:w-1/4",
+          "lg:w-[30%]",
           "text-whiteish",
-          "bg-darkish",
+          "bg-darkestish",
           "shadow-lg",
           "rounded-lg",
           "hover:shadow-xl",
