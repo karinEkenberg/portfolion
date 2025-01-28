@@ -2,6 +2,7 @@ import { Header } from "./header.js";
 import { projects } from "./projects.js";
 import { Skills, LoadSkills } from "./skills.js";
 import { LoadAbout } from "./about.js";
+import { LoadFooter } from "./footer.js";
 
 document.addEventListener("DOMContentLoaded", () => {
   Header();
@@ -9,4 +10,5 @@ document.addEventListener("DOMContentLoaded", () => {
   Skills();
   LoadSkills();
   LoadAbout();
+  LoadFooter();
 });
