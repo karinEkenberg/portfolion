@@ -592,10 +592,6 @@ video {
   position: relative;
 }
 
-.m-2 {
-  margin: 0.5rem;
-}
-
 .m-4 {
   margin: 1rem;
 }
@@ -678,10 +674,6 @@ video {
 
 .p-0 {
   padding: 0px;
-}
-
-.p-2 {
-  padding: 0.5rem;
 }
 
 .py-5 {
@@ -796,20 +788,8 @@ video {
     width: 65%;
   }
 
-  .lg\:w-\[\] {
-    width: ;
-  }
-
-  .lg\:max-w-\[\] {
-    max-width: ;
-  }
-
   .lg\:max-w-\[1200px\] {
     max-width: 1200px;
-  }
-
-  .lg\:flex-row {
-    flex-direction: row;
   }
 }
 
