@@ -610,6 +610,10 @@ video {
   margin-bottom: 0.5rem;
 }
 
+.mb-5 {
+  margin-bottom: 1.25rem;
+}
+
 .me-2 {
   margin-inline-end: 0.5rem;
 }
@@ -899,5 +903,4 @@ video {
     justify-content: space-evenly;
   }
 }
-
 
