@@ -25,7 +25,9 @@ export function projects() {
         "mx-auto",
         "lg:w-[30%]",
         "text-whiteish",
-        "bg-darkestish",
+        "bg-gradient-to-b",
+        "from-darkestish",
+        "to-darkish",
         "shadow-lg",
         "rounded-lg",
         "hover:shadow-xl",
@@ -49,12 +51,12 @@ export function projects() {
           <div class="py-5">
             <p class="description pl-5 pr-5">${project.description}</p>
           </div>
-          <div>
+          <div class="pb-2">
           <div class="flex flex-wrap gap-2 justify-center mt-2">
   ${project.tools
     .map(
       (tool) =>
-        `<span class="bg-darkish px-1 py-1 rounded-full  text-sm">${tool}</span>`
+        `<span class="bg-darkestish text-whiteish px-2 py-1 rounded-full text-sm transition-all">${tool}</span>`
     )
     .join("")}
 </div>
