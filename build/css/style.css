@@ -940,8 +940,20 @@ video {
     max-width: 1200px;
   }
 
+  .lg\:justify-center {
+    justify-content: center;
+  }
+
+  .lg\:justify-between {
+    justify-content: space-between;
+  }
+
   .lg\:justify-evenly {
     justify-content: space-evenly;
+  }
+
+  .lg\:justify-stretch {
+    justify-content: stretch;
   }
 
   .lg\:text-9xl {
