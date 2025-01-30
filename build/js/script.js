@@ -4,6 +4,7 @@ import { Skills, LoadSkills } from "./skills.js";
 import { LoadAbout } from "./about.js";
 import { LoadFooter } from "./footer.js";
 import { Hero } from "./hero.js";
+import { LoadContact } from "./contact.js";
 
 document.addEventListener("DOMContentLoaded", () => {
   Header();
@@ -13,4 +14,5 @@ document.addEventListener("DOMContentLoaded", () => {
   LoadAbout();
   LoadFooter();
   Hero();
+  LoadContact();
 });

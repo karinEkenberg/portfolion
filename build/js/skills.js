@@ -29,7 +29,7 @@ export function Skills() {
       document.getElementById('skills-placeholder').innerHTML = htmlContent;
   
     } catch (error){
-      console.error('Error loading sills:', error);
+      console.error('Error loading skills:', error);
     }
  
   }

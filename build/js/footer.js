@@ -6,6 +6,6 @@ export async function LoadFooter() {
     const htmlContent = await response.text();
     document.getElementById("footer-placeholder").innerHTML = htmlContent;
   } catch (error) {
-    console.error("Error loading sills:", error);
+    console.error("Error loading footer:", error);
   }
 }
