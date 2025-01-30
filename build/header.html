@@ -1,11 +1,29 @@
-<header class="flex flex-row bg-darkestish justify-evenly text-whiteish">
-  <img class="w-10 h-auto" src="images/K.png" alt="initials" />
-  <nav>
+<header
+  class="flex flex-row bg-darkestish justify-evenly lg:justify-evenly text-whiteish"
+>
+  <div>
+    <img
+      class="lg:w-10 lg:mt-0 w-14 h-auto mt-5"
+      src="images/K.png"
+      alt="initials"
+    />
+  </div>
+  <nav class="hidden lg:block">
     <ul class="flex flex-row gap-4 pt-2">
       <a class="" href="#about-placeholder"><li>About Karin</li></a>
       <a class="" href="#skills"><li>My Skills</li></a>
       <a class="" href="#projects"><li>My projects</li></a>
       <a class="" href="#contact-placeholder"><li>Team up</li></a>
     </ul>
+  </nav>
+  <nav class="lg:hidden items-center">
+    <div class="flex">
+      <ul class="flex flex-col gap-4 pt-2">
+        <a class="" href="#about-placeholder"><li>About Karin</li></a>
+        <a class="" href="#skills"><li>My Skills</li></a>
+        <a class="" href="#projects"><li>My projects</li></a>
+        <a class="" href="#contact-placeholder"><li>Team up</li></a>
+      </ul>
+    </div>
   </nav>
 </header>
