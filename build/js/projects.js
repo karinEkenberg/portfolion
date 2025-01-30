@@ -50,7 +50,14 @@ export function projects() {
             <p class="description pl-5 pr-5">${project.description}</p>
           </div>
           <div>
-          <p class="text-center"><strong>Tools:</strong> ${project.tools.join(", ")}.</p>
+          <div class="flex flex-wrap gap-2 justify-center mt-2">
+  ${project.tools
+    .map(
+      (tool) =>
+        `<span class="bg-darkish px-1 py-1 rounded-full  text-sm">${tool}</span>`
+    )
+    .join("")}
+</div>
           </div>
           <p class="text-center pb-5">${link} | ${githubLink}</p>
         `;
