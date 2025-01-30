@@ -24,6 +24,7 @@ export function projects() {
         "w-[80%]",
         "mx-auto",
         "lg:w-[30%]",
+        "md:w-[45%]",
         "text-whiteish",
         "bg-gradient-to-b",
         "from-darkestish",
