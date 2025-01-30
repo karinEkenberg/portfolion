@@ -50,5 +50,9 @@
   {
     "name": "Adobe Illustrator",
     "img": "./images/adobe-illustrator-cc-logo-svgrepo-com.svg"
+  },
+  {
+    "name": "TypeScript",
+    "img": "./images/typescript-svgrepo-com.svg"
   }
 ]
