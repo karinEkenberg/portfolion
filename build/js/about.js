@@ -6,6 +6,6 @@ export async function LoadAbout() {
     const htmlContent = await response.text();
     document.getElementById("about-placeholder").innerHTML = htmlContent;
   } catch (error) {
-    console.error("Error loading sills:", error);
+    console.error("Error loading about:", error);
   }
 }
