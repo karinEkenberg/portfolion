@@ -604,28 +604,16 @@ video {
   left: 0px;
 }
 
-.top-\[-100\%\] {
-  top: -100%;
-}
-
-.top-\[0\%\] {
-  top: 0%;
-}
-
 .top-0 {
   top: 0px;
 }
 
-.top-\[-200\%\] {
-  top: -200%;
-}
-
-.top-\[-300\%\] {
-  top: -300%;
-}
-
 .top-\[-350\%\] {
   top: -350%;
+}
+
+.top-\[0\%\] {
+  top: 0%;
 }
 
 .z-50 {
@@ -664,10 +652,6 @@ video {
 
 .mt-2 {
   margin-top: 0.5rem;
-}
-
-.mt-20 {
-  margin-top: 5rem;
 }
 
 .flex {
@@ -730,36 +714,12 @@ video {
   cursor: pointer;
 }
 
-.scroll-mt-6 {
-  scroll-margin-top: 1.5rem;
-}
-
-.scroll-mt-7 {
-  scroll-margin-top: 1.75rem;
-}
-
-.scroll-mt-2 {
-  scroll-margin-top: 0.5rem;
-}
-
-.scroll-mt-20 {
-  scroll-margin-top: 5rem;
-}
-
-.scroll-mt-40 {
-  scroll-margin-top: 10rem;
-}
-
-.scroll-mt-56 {
-  scroll-margin-top: 14rem;
+.scroll-mt-48 {
+  scroll-margin-top: 12rem;
 }
 
 .scroll-mt-52 {
   scroll-margin-top: 13rem;
-}
-
-.scroll-mt-48 {
-  scroll-margin-top: 12rem;
 }
 
 .flex-row {
@@ -1049,15 +1009,42 @@ video {
   color: rgb(219 216 227 / var(--tw-text-opacity, 1));
 }
 
+.hover\:text-gray-600:hover {
+  --tw-text-opacity: 1;
+  color: rgb(75 85 99 / var(--tw-text-opacity, 1));
+}
+
+.hover\:text-gray-50:hover {
+  --tw-text-opacity: 1;
+  color: rgb(249 250 251 / var(--tw-text-opacity, 1));
+}
+
 .hover\:shadow-xl:hover {
   --tw-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1);
   --tw-shadow-colored: 0 20px 25px -5px var(--tw-shadow-color), 0 8px 10px -6px var(--tw-shadow-color);
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
 }
 
+.focus\:text-blue-50:focus {
+  --tw-text-opacity: 1;
+  color: rgb(239 246 255 / var(--tw-text-opacity, 1));
+}
+
 .focus\:outline-none:focus {
   outline: 2px solid transparent;
   outline-offset: 2px;
+}
+
+.focus\:outline:focus {
+  outline-style: solid;
+}
+
+.focus\:outline-2:focus {
+  outline-width: 2px;
+}
+
+.focus\:outline-whiteish:focus {
+  outline-color: #DBD8E3;
 }
 
 .focus\:ring-4:focus {
@@ -1069,6 +1056,11 @@ video {
 .focus\:ring-white:focus {
   --tw-ring-opacity: 1;
   --tw-ring-color: rgb(255 255 255 / var(--tw-ring-opacity, 1));
+}
+
+.active\:text-gray-500:active {
+  --tw-text-opacity: 1;
+  color: rgb(107 114 128 / var(--tw-text-opacity, 1));
 }
 
 @media (min-width: 768px) {
