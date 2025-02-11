@@ -1,5 +1,39 @@
 [
   {
+    "id": 20,
+    "title": "Football Club Website (React)",
+    "description": "As part of a group project during my internship, I am helping develop a modern and responsive website for a football club using React. The site features structured navigation, a dynamic hero section, and integrations with APIs to display the club’s latest Instagram posts and match results. The project focuses on usability, performance, and clean design to create an engaging experience for visitors.",
+    "tools": [
+      "React",
+      "TypeScript",
+      "VITE",
+      "REST API",
+      "Git",
+      "HTML",
+      "Tailwind"
+    ],
+    "link": "",
+    "linkToGithub": "",
+    "image": "/build/images/tif.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Interactive German Learning for Children",
+    "description": "For my thesis project, I am developing an interactive web application designed to help children learn German in a fun and engaging way. The platform incorporates clickable elements and exercises to practice vocabulary and spelling. Built with .NET, the application includes essential MVC features such as user authentication, an admin panel, and unlockable content upon purchase.",
+    "tools": [
+      ".NET",
+      "C#",
+      "Entity Framework Core",
+      "SQL Server",
+      "HTML",
+      "JS",
+      "Bootstrap CSS"
+    ],
+    "link": "",
+    "linkToGithub": "",
+    "image": "/build/images/thesis.jpg"
+  },
+  {
     "id": 18,
     "title": "Design & UX",
     "description": "In this project i created a simple page for a fictitious law firm, the goal here was a nice design and get a deeper understanding of WordPress.",
