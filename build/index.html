@@ -13,14 +13,14 @@
   </head>
   <body class="bg-backgroundish text-whiteish text-light mx-0 p-0">
     <header
-      class="flex flex-row bg-darkestish justify-evenly lg:justify-evenly text-whiteish"
+      class="flex flex-row bg-darkestish justify-evenly lg:justify-evenly text-whiteish top-0 sticky z-50"
     >
       <nav class="flex justify-between items-center w-[92%] mx-auto">
         <div>
           <img class="lg:w-10 lg:mt-0 w-14" src="images/K.png" alt="initials" />
         </div>
         <div
-          class="nav-links duration-500 md:static absolute md:min-h-fit min-h-30 left-0 top-[-100%] bg-darkestish md:w-auto w-full flex items-center px5"
+          class="nav-links duration-500 md:static absolute md:min-h-fit min-h-30 left-0 top-[-350%] bg-darkestish md:w-auto w-full flex items-center px5"
         >
           <ul
             class="flex md:flex-row flex-col md:items-center md:gap-[4vw] gap-8"
@@ -43,13 +43,13 @@
     <div id="main-div" class="lg:max-w-[1200px] lg:mx-auto">
       <div id="hero-placeholder"></div>
       <section
-        class="lg:w-full mx-auto w-[80%]"
+        class="lg:w-full mx-auto w-[80%] lg:scroll-mt-7 md:scroll-mt-20 scroll-mt-52"
         id="about-placeholder"
       ></section>
       <section class="w-full mx-auto">
         <h2
           id="skills"
-          class="text-5xl font-bold text-center text-whiteish pb-5 pt-5"
+          class="text-5xl font-bold text-center text-whiteish pb-5 pt-5 lg:scroll-mt-7 md:scroll-mt-20 scroll-mt-52"
         >
           My Skills
         </h2>
@@ -64,7 +64,7 @@
 
       <h2
         id="projects"
-        class="text-5xl font-bold text-center text-whiteish pb-5 pt-5"
+        class="text-5xl font-bold text-center text-whiteish pb-5 pt-5 lg:scroll-mt-7 md:scroll-mt-20 scroll-mt-52"
       >
         My Projects
       </h2>
@@ -81,7 +81,10 @@
           Load More
         </button>
       </div>
-      <div id="contact-placeholder"></div>
+      <div
+        id="contact-placeholder"
+        class="lg:scroll-mt-7 md:scroll-mt-20 scroll-mt-48"
+      ></div>
     </div>
 
     <div id="footer-placeholder"></div>
@@ -92,12 +95,12 @@
       function onToggleMenu(e) {
         e.name = e.name === "menu" ? "close" : "menu";
 
-        if (navLinks.classList.contains("top-[-100%]")) {
-          navLinks.classList.remove("top-[-100%]");
+        if (navLinks.classList.contains("top-[-350%]")) {
+          navLinks.classList.remove("top-[-350%]");
           navLinks.classList.add("top-[0%]");
         } else {
           navLinks.classList.remove("top-[0%]");
-          navLinks.classList.add("top-[-100%]");
+          navLinks.classList.add("top-[-350%]");
         }
       }
     </script>
