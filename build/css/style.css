@@ -1152,6 +1152,18 @@ video {
     scroll-margin-top: 1.75rem;
   }
 
+  .lg\:scroll-mt-10 {
+    scroll-margin-top: 2.5rem;
+  }
+
+  .lg\:scroll-mt-9 {
+    scroll-margin-top: 2.25rem;
+  }
+
+  .lg\:scroll-mt-11 {
+    scroll-margin-top: 2.75rem;
+  }
+
   .lg\:justify-center {
     justify-content: center;
   }
