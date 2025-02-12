@@ -650,16 +650,12 @@ video {
   margin-inline-end: 0.5rem;
 }
 
-.mt-2 {
-  margin-top: 0.5rem;
-}
-
-.mt-5 {
-  margin-top: 1.25rem;
-}
-
 .mt-10 {
   margin-top: 2.5rem;
+}
+
+.mt-2 {
+  margin-top: 0.5rem;
 }
 
 .flex {
@@ -668,10 +664,6 @@ video {
 
 .h-auto {
   height: auto;
-}
-
-.h-screen {
-  height: 100vh;
 }
 
 .w-10 {
@@ -1065,6 +1057,10 @@ video {
 @media (min-width: 768px) {
   .md\:static {
     position: static;
+  }
+
+  .md\:mt-0 {
+    margin-top: 0px;
   }
 
   .md\:hidden {
