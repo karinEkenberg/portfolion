@@ -1,16 +1,13 @@
 module.exports = {
-  content: [
-    "./build/*.html", 
-    "./build/js/*.js",
-  ], 
+  content: ["./build/*.html", "./build/js/*.js"],
   theme: {
     extend: {
       colors: {
-        backgroundish: "#070707",
-        darkestish: "#2A2438",
-        darkerish: "352F44",
-        darkish: "#5C5470",
-        whiteish: "#DBD8E3",
+        primaryBackground: "#070707", // primaryBackground backgroundish
+        secondaryBackground: "#2A2438", // darkestish
+        tertiaryBackground: "352F44", //darkerish
+        accent: "#5C5470", // darkish
+        lightText: "#DBD8E3", // whiteish
       },
     },
   },
