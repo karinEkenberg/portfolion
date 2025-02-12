@@ -654,12 +654,24 @@ video {
   margin-top: 0.5rem;
 }
 
+.mt-5 {
+  margin-top: 1.25rem;
+}
+
+.mt-10 {
+  margin-top: 2.5rem;
+}
+
 .flex {
   display: flex;
 }
 
 .h-auto {
   height: auto;
+}
+
+.h-screen {
+  height: 100vh;
 }
 
 .w-10 {
@@ -1148,20 +1160,8 @@ video {
     max-width: 1200px;
   }
 
-  .lg\:scroll-mt-7 {
-    scroll-margin-top: 1.75rem;
-  }
-
   .lg\:scroll-mt-10 {
     scroll-margin-top: 2.5rem;
-  }
-
-  .lg\:scroll-mt-9 {
-    scroll-margin-top: 2.25rem;
-  }
-
-  .lg\:scroll-mt-11 {
-    scroll-margin-top: 2.75rem;
   }
 
   .lg\:justify-center {
