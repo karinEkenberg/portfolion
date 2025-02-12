@@ -3,16 +3,10 @@
     "id": 21,
     "title": "New Portfolio",
     "description": "I recently launched my new portfolio, inspired by React components but built with JavaScript and Tailwind CSS. I’ve structured parts of the content, like my projects and tech stack, using JSON files for better flexibility and scalability.",
-    "tools": [
-      "Git",
-      "HTML",
-      "Tailwind",
-      "Javascript",
-      "JSON"
-    ],
+    "tools": ["Git", "HTML", "Tailwind", "Javascript", "JSON"],
     "link": "https://www.karinwebdesigner.com/index.html",
     "linkToGithub": "https://github.com/karinEkenberg/portfolion",
-    "image": "./images/newportfolio.jpg"
+    "image": "./images/newportfolio.PNG"
   },
   {
     "id": 20,
