@@ -1,5 +1,14 @@
 [
   {
+    "id": 21,
+    "title": "New Portfolio",
+    "description": "I recently launched my new portfolio, inspired by React components but built with JavaScript and Tailwind CSS. I’ve structured parts of the content, like my projects and tech stack, using JSON files for better flexibility and scalability.",
+    "tools": ["Git", "HTML", "Tailwind", "Javascript", "JSON"],
+    "link": "https://www.karinwebdesigner.com/index.html",
+    "linkToGithub": "https://github.com/karinEkenberg/portfolion",
+    "image": "./images/newportfolio.PNG"
+  },
+  {
     "id": 20,
     "title": "Football Club Website (React)",
     "description": "As part of a group project during my internship, I am helping develop a modern and responsive website for a football club using React. The site features structured navigation, a dynamic hero section, and integrations with APIs to display the club’s latest Instagram posts and match results. The project focuses on usability, performance, and clean design to create an engaging experience for visitors.",
@@ -58,7 +67,7 @@
     "tools": ["WordPress", "PHP", "Elementor"],
     "link": "https://ggshop.utvsajt.se/",
     "linkToGithub": "",
-    "image": "./images/ggshop.PNG"
+    "image": "./images/ggshop.png"
   },
   {
     "id": 15,
@@ -84,7 +93,7 @@
     "tools": ["HTML", "CSS", "JS"],
     "link": "https://www.karinwebdesigner.com/calc/index.html",
     "linkToGithub": "https://github.com/karinEkenberg/calc",
-    "image": "./images/calcJs.PNG"
+    "image": "./images/calcJs.png"
   },
   {
     "id": 13,
@@ -93,7 +102,7 @@
     "tools": ["HTML", "CSS", "JS", "Krita"],
     "link": "https://www.karinwebdesigner.com/gallery/index.html",
     "linkToGithub": "",
-    "image": "./images/gallery.PNG"
+    "image": "./images/gallery.png"
   },
   {
     "id": 12,
@@ -102,7 +111,7 @@
     "tools": ["HTML", "CSS", "JS"],
     "link": "https://www.karinwebdesigner.com/jsFunctions/index.html",
     "linkToGithub": "",
-    "image": "./images/webpulse.PNG"
+    "image": "./images/webPulse.png"
   },
   {
     "id": 11,
@@ -120,7 +129,7 @@
     "tools": ["Javascript", "HTML", "CSS"],
     "link": "",
     "linkToGithub": "https://github.com/karinEkenberg/uppgiftJS/tree/main/HederligeHarryJS2-main/HederligeHarryJS2-main",
-    "image": "./images/hederligeharrry.PNG"
+    "image": "./images/hederligeharrry.png"
   },
   {
     "id": 9,
@@ -129,7 +138,7 @@
     "tools": ["Javascript", "HTML", "CSS"],
     "link": "",
     "linkToGithub": "https://github.com/karinEkenberg/memory/tree/main/SpeletJS-main/SpeletJS-main",
-    "image": "./images/memory.PNG"
+    "image": "./images/memory.png"
   },
   {
     "id": 8,
@@ -138,7 +147,7 @@
     "tools": ["HTML", "CSS"],
     "link": "https://www.karinwebdesigner.com/webb-8/index.html",
     "linkToGithub": "",
-    "image": "./images/old-portfolio.PNG"
+    "image": "./images/old-portfolio.png"
   },
   {
     "id": 7,
@@ -147,7 +156,7 @@
     "tools": ["Javascript", "HTML", "CSS"],
     "link": "https://www.karinwebdesigner.com/agilt-projektarbete-kommunen/agilt-projektarbete-badhuset/",
     "linkToGithub": "https://github.com/tuc-pixel-wizards/agilt-projektarbete-badhuset",
-    "image": "./images/badhuset.PNG"
+    "image": "./images/badhuset.png"
   },
   {
     "id": 6,
@@ -156,7 +165,7 @@
     "tools": ["HTML", "CSS"],
     "link": "https://www.karinwebdesigner.com/agilt-projektarbete-kommunen/agilt-projektarbete-fritidsgarden/",
     "linkToGithub": "https://github.com/tuc-pixel-wizards/agilt-projektarbete-fritidsgarden",
-    "image": "./images/fritidsgarden.PNG"
+    "image": "./images/fritidsgarden.png"
   },
   {
     "id": 5,
@@ -165,7 +174,7 @@
     "tools": ["Javascript", "HTML", "CSS"],
     "link": "https://www.karinwebdesigner.com/agilt-projektarbete-kommunen/index.html",
     "linkToGithub": "https://github.com/tuc-pixel-wizards/agilt-projektarbete-kommunen",
-    "image": "./images/kommun.PNG"
+    "image": "./images/kommun.png"
   },
   {
     "id": 4,
@@ -174,7 +183,7 @@
     "tools": ["HTML", "CSS"],
     "link": "https://www.karinwebdesigner.com/webb-9/index.html",
     "linkToGithub": "",
-    "image": "./images/moggHornan.PNG"
+    "image": "./images/mogghornan.png"
   },
   {
     "id": 3,
@@ -183,7 +192,7 @@
     "tools": ["HTML", "CSS", "Krita"],
     "link": "https://www.karinwebdesigner.com/webb-3/index.html",
     "linkToGithub": "",
-    "image": "./images/historia.PNG"
+    "image": "./images/historia.png"
   },
   {
     "id": 2,
@@ -192,7 +201,7 @@
     "tools": ["HTML", "CSS", "Krita"],
     "link": "https://www.karinwebdesigner.com/webcomic/",
     "linkToGithub": "",
-    "image": "./images/bjornOselma.PNG"
+    "image": "./images/bjornOselma.png"
   },
   {
     "id": 1,
