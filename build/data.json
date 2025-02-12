@@ -1,12 +1,46 @@
 [
   {
+    "id": 20,
+    "title": "Football Club Website (React)",
+    "description": "As part of a group project during my internship, I am helping develop a modern and responsive website for a football club using React. The site features structured navigation, a dynamic hero section, and integrations with APIs to display the club’s latest Instagram posts and match results. The project focuses on usability, performance, and clean design to create an engaging experience for visitors.",
+    "tools": [
+      "React",
+      "TypeScript",
+      "VITE",
+      "REST API",
+      "Git",
+      "HTML",
+      "Tailwind"
+    ],
+    "link": "",
+    "linkToGithub": "",
+    "image": "./images/tif.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Interactive German Learning for Children",
+    "description": "For my thesis project, I am developing an interactive web application designed to help children learn German in a fun and engaging way. The platform incorporates clickable elements and exercises to practice vocabulary and spelling. Built with .NET, the application includes essential MVC features such as user authentication, an admin panel, and unlockable content upon purchase.",
+    "tools": [
+      ".NET",
+      "C#",
+      "Entity Framework Core",
+      "SQL Server",
+      "HTML",
+      "JS",
+      "Bootstrap CSS"
+    ],
+    "link": "",
+    "linkToGithub": "",
+    "image": "./images/thesis.jpg"
+  },
+  {
     "id": 18,
     "title": "Design & UX",
     "description": "In this project i created a simple page for a fictitious law firm, the goal here was a nice design and get a deeper understanding of WordPress.",
     "tools": ["WordPress", "PHP"],
     "link": "https://fastighetsradgivarna.karinwebdesigner.com/",
     "linkToGithub": "",
-    "image": "/build/images/fr.PNG"
+    "image": "./images/fr.PNG"
   },
   {
     "id": 17,
@@ -15,7 +49,7 @@
     "tools": ["WordPress", "PHP"],
     "link": "https://wordpress.karinwebdesigner.com/",
     "linkToGithub": "https://github.com/karinEkenberg/wordpress-plugin",
-    "image": "/build/images/lara-abc.PNG"
+    "image": "./images/lara-abc.PNG"
   },
   {
     "id": 16,
@@ -24,7 +58,7 @@
     "tools": ["WordPress", "PHP", "Elementor"],
     "link": "https://ggshop.utvsajt.se/",
     "linkToGithub": "",
-    "image": "/build/images/ggshop.PNG"
+    "image": "./images/ggshop.PNG"
   },
   {
     "id": 15,
@@ -41,7 +75,7 @@
     ],
     "link": "",
     "linkToGithub": "https://github.com/PixelWizardsTuc/WWStyle",
-    "image": "/build/images/wwstyle.PNG"
+    "image": "./images/wwstyle.PNG"
   },
   {
     "id": 14,
@@ -50,7 +84,7 @@
     "tools": ["HTML", "CSS", "JS"],
     "link": "https://www.karinwebdesigner.com/calc/index.html",
     "linkToGithub": "https://github.com/karinEkenberg/calc",
-    "image": "/build/images/calcJs.PNG"
+    "image": "./images/calcJs.PNG"
   },
   {
     "id": 13,
@@ -59,7 +93,7 @@
     "tools": ["HTML", "CSS", "JS", "Krita"],
     "link": "https://www.karinwebdesigner.com/gallery/index.html",
     "linkToGithub": "",
-    "image": "/build/images/gallery.PNG"
+    "image": "./images/gallery.PNG"
   },
   {
     "id": 12,
@@ -68,7 +102,7 @@
     "tools": ["HTML", "CSS", "JS"],
     "link": "https://www.karinwebdesigner.com/jsFunctions/index.html",
     "linkToGithub": "",
-    "image": "/build/images/webpulse.PNG"
+    "image": "./images/webpulse.PNG"
   },
   {
     "id": 11,
@@ -77,7 +111,7 @@
     "tools": ["C#"],
     "link": "",
     "linkToGithub": "https://github.com/karinEkenberg/calculater",
-    "image": "/build/images/calccsharp.PNG"
+    "image": "./images/calccsharp.PNG"
   },
   {
     "id": 10,
@@ -86,7 +120,7 @@
     "tools": ["Javascript", "HTML", "CSS"],
     "link": "",
     "linkToGithub": "https://github.com/karinEkenberg/uppgiftJS/tree/main/HederligeHarryJS2-main/HederligeHarryJS2-main",
-    "image": "/build/images/hederligeharrry.PNG"
+    "image": "./images/hederligeharrry.PNG"
   },
   {
     "id": 9,
@@ -95,16 +129,16 @@
     "tools": ["Javascript", "HTML", "CSS"],
     "link": "",
     "linkToGithub": "https://github.com/karinEkenberg/memory/tree/main/SpeletJS-main/SpeletJS-main",
-    "image": "/build/images/memory.PNG"
+    "image": "./images/memory.PNG"
   },
   {
     "id": 8,
     "title": "Old portfolio",
     "description": "When I started my education at TUC to become a webdeveloper I made this simple portfolio with just HTML and CSS.",
     "tools": ["HTML", "CSS"],
-    "link": "https://www.karinwebdesigner.com/",
+    "link": "https://www.karinwebdesigner.com/webb-8/index.html",
     "linkToGithub": "",
-    "image": "/build/images/old-portfolio.PNG"
+    "image": "./images/old-portfolio.PNG"
   },
   {
     "id": 7,
@@ -113,7 +147,7 @@
     "tools": ["Javascript", "HTML", "CSS"],
     "link": "https://www.karinwebdesigner.com/agilt-projektarbete-kommunen/agilt-projektarbete-badhuset/",
     "linkToGithub": "https://github.com/tuc-pixel-wizards/agilt-projektarbete-badhuset",
-    "image": "/build/images/badhuset.PNG"
+    "image": "./images/badhuset.PNG"
   },
   {
     "id": 6,
@@ -122,7 +156,7 @@
     "tools": ["HTML", "CSS"],
     "link": "https://www.karinwebdesigner.com/agilt-projektarbete-kommunen/agilt-projektarbete-fritidsgarden/",
     "linkToGithub": "https://github.com/tuc-pixel-wizards/agilt-projektarbete-fritidsgarden",
-    "image": "/build/images/fritidsgarden.PNG"
+    "image": "./images/fritidsgarden.PNG"
   },
   {
     "id": 5,
@@ -131,7 +165,7 @@
     "tools": ["Javascript", "HTML", "CSS"],
     "link": "https://www.karinwebdesigner.com/agilt-projektarbete-kommunen/index.html",
     "linkToGithub": "https://github.com/tuc-pixel-wizards/agilt-projektarbete-kommunen",
-    "image": "/build/images/kommun.PNG"
+    "image": "./images/kommun.PNG"
   },
   {
     "id": 4,
@@ -140,7 +174,7 @@
     "tools": ["HTML", "CSS"],
     "link": "https://www.karinwebdesigner.com/webb-9/index.html",
     "linkToGithub": "",
-    "image": "/build/images/moggHornan.PNG"
+    "image": "./images/moggHornan.PNG"
   },
   {
     "id": 3,
@@ -149,7 +183,7 @@
     "tools": ["HTML", "CSS", "Krita"],
     "link": "https://www.karinwebdesigner.com/webb-3/index.html",
     "linkToGithub": "",
-    "image": "/build/images/historia.PNG"
+    "image": "./images/historia.PNG"
   },
   {
     "id": 2,
@@ -158,7 +192,7 @@
     "tools": ["HTML", "CSS", "Krita"],
     "link": "https://www.karinwebdesigner.com/webcomic/",
     "linkToGithub": "",
-    "image": "/build/images/bjornOselma.PNG"
+    "image": "./images/bjornOselma.PNG"
   },
   {
     "id": 1,
@@ -173,6 +207,6 @@
     ],
     "link": "https://hackmd.io/T7k6bQwkQbiRmIzRhVSoDQ",
     "linkToGithub": "https://github.com/karinEkenberg/IoT-Project",
-    "image": "/build/images/iot.PNG"
+    "image": "./images/iot.PNG"
   }
 ]

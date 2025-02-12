@@ -5,7 +5,7 @@ export function projects() {
   const container = document.getElementById("projects-container");
   const loadMoreButton = document.getElementById("load-more-btn");
 
-  fetch("/data.json")
+  fetch("./data.json")
     .then((response) => response.json())
     .then((data) => {
       projectsData = data.sort((a, b) => b.id - a.id);
