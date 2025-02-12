@@ -12,7 +12,7 @@ export function Skills() {
   
           skillDiv.innerHTML = `
             <img class="w-16 h-auto mx-auto" src="${skill.img}" alt="${skill.name}" class="w-full h-auto">
-            <p class="text-center text-whiteish font-semibold">${skill.name}</p>
+            <p class="text-center text-lightText font-semibold">${skill.name}</p>
           `;
           container.appendChild(skillDiv);
         });

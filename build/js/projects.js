@@ -25,10 +25,10 @@ export function projects() {
         "mx-auto",
         "lg:w-[30%]",
         "md:w-[45%]",
-        "text-whiteish",
+        "text-lightText",
         "bg-gradient-to-b",
-        "from-darkestish",
-        "to-darkish",
+        "from-secondaryBackground",
+        "to-accent",
         "shadow-lg",
         "rounded-lg",
         "hover:shadow-xl",
@@ -57,7 +57,7 @@ export function projects() {
   ${project.tools
     .map(
       (tool) =>
-        `<span class="bg-darkestish text-whiteish px-2 py-1 rounded-full text-sm transition-all">${tool}</span>`
+        `<span class="bg-secondaryBackground text-lightText px-2 py-1 rounded-full text-sm transition-all">${tool}</span>`
     )
     .join("")}
 </div>
