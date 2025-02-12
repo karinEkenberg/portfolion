@@ -774,6 +774,10 @@ video {
   gap: 1.5rem;
 }
 
+.gap-10 {
+  gap: 2.5rem;
+}
+
 .overflow-hidden {
   overflow: hidden;
 }
@@ -955,13 +959,13 @@ video {
   font-weight: 600;
 }
 
-.text-transparent {
-  color: transparent;
-}
-
 .text-lightText {
   --tw-text-opacity: 1;
   color: rgb(219 216 227 / var(--tw-text-opacity, 1));
+}
+
+.text-transparent {
+  color: transparent;
 }
 
 .underline {
