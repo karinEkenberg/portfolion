@@ -1,23 +1,35 @@
 [
   {
-    "name": "JavaScript",
-    "img": "./images/javascript-svgrepo-com.svg"
+    "name": "C#",
+    "img": "./images/csharp2-svgrepo-com.svg"
   },
   {
-    "name": "Jira",
-    "img": "./images/jira-svgrepo-com.svg"
+    "name": ".NET",
+    "img": "./images/dotnet-svgrepo-com.svg"
   },
   {
-    "name": "Photoshop",
-    "img": "./images/photoshop-cc-logo-svgrepo-com.svg"
+    "name": "SQL",
+    "img": "./images/sql-database-generic-svgrepo-com.svg"
+  },
+  {
+    "name": "HTML",
+    "img": "./images/html-5-svgrepo-com.svg"
+  },
+  {
+    "name": "CSS",
+    "img": "./images/css-3-svgrepo-com.svg"
   },
   {
     "name": "TailwindCSS",
     "img": "./images/tailwind-svgrepo-com.svg"
   },
   {
-    "name": "SQL",
-    "img": "./images/sql-database-generic-svgrepo-com.svg"
+    "name": "JavaScript",
+    "img": "./images/javascript-svgrepo-com.svg"
+  },
+  {
+    "name": "TypeScript",
+    "img": "./images/typescript-svgrepo-com.svg"
   },
   {
     "name": "React",
@@ -28,31 +40,19 @@
     "img": "./images/wordpress-color-svgrepo-com.svg"
   },
   {
-    "name": "C#",
-    "img": "./images/csharp2-svgrepo-com.svg"
-  },
-  {
-    "name": "CSS",
-    "img": "./images/css-3-svgrepo-com.svg"
-  },
-  {
-    "name": ".NET",
-    "img": "./images/dotnet-svgrepo-com.svg"
+    "name": "Jira",
+    "img": "./images/jira-svgrepo-com.svg"
   },
   {
     "name": "Figma",
     "img": "./images/figma-svgrepo-com.svg"
   },
   {
-    "name": "HTML",
-    "img": "./images/html-5-svgrepo-com.svg"
+    "name": "Photoshop",
+    "img": "./images/photoshop-cc-logo-svgrepo-com.svg"
   },
   {
     "name": "Adobe Illustrator",
     "img": "./images/adobe-illustrator-cc-logo-svgrepo-com.svg"
-  },
-  {
-    "name": "TypeScript",
-    "img": "./images/typescript-svgrepo-com.svg"
   }
 ]
