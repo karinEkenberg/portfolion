@@ -48,7 +48,7 @@ export function projects() {
 
       projectDiv.innerHTML = `
           <img src="${project.image}" alt="${project.title}" class="w-full h-auto">
-          <h3 class="font-bold text-center pt-5 text-2xl underline">${project.title}</h3>
+          <h3 class="font-bold text-center pt-5 text-2xl">${project.title}</h3>
           <div class="py-5">
             <p class="description pl-5 pr-5">${project.description}</p>
           </div>
