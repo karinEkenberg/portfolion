@@ -40,7 +40,7 @@
     ],
     "link": "",
     "linkToGithub": "https://github.com/karinEkenberg/TyskaForSmaUpptackare",
-    "image": "./build/images/thesis.webp"
+    "image": "build/images/thesis.webp"
   },
   {
     "id": 18,
@@ -219,4 +219,5 @@
     "image": "./build/images/iot.webp"
   }
 ]
+
 
