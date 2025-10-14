@@ -1,0 +1,225 @@
+/*styling everything on the page*/
+* { 
+   padding: 0;
+   margin: 0;
+   overflow-x: hidden;
+   box-sizing: border-box;
+   text-align: center;
+}
+
+/*styling the header*/
+.header {
+   background-color: #C783C9;
+   text-align: center;
+   color: white;
+   font-size: 50px;
+   font-family: 'Qwigley', cursive;
+   padding: 15px;
+}
+
+/*styling the footer*/
+footer {
+   background-color: #C783C9;
+   padding-top: 20px;
+   font-family: 'Indie Flower', cursive;
+}
+
+/*styling main*/
+main {
+   background-image: linear-gradient(#eebdd2, #E379A7);
+   font-family: 'Indie Flower', cursive;
+}
+
+/*styling headers*/
+h1, h2 {
+   font-family: 'Indie Flower', cursive;
+   margin-top: 20px;
+   cursor: default;
+}
+
+/*styling the event boxes*/
+.boxes {
+   background-color:#C783C9;
+   margin: 5px 60px;
+   padding: 30px 5px;
+   padding-top: 45px;
+   border-radius: 20px;
+}
+
+/*hiding the video for small devices*/
+.hero-video {
+   display: none;
+}
+
+/*styling the video*/
+.hero {
+   position: relative; 
+   width: 100%;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+    
+/*styling the h1*/
+.hero-text {
+   font-size: 35px;
+   color: white;
+   position: absolute;
+   top: 40%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+}
+
+/*styling the header image for small devices*/
+#tablet-header {
+   display: block;
+   height: 40vh;
+   width: 100%;
+   object-fit: cover;
+   margin: 0;
+   padding: 0;
+}
+
+/*styling the font for halloween with nosifer*/
+#nosifer {
+   font-family: 'Nosifer', sans-serif;
+}
+
+/*making space between open hours and footer*/
+.openhours {
+   margin-bottom: 20px;
+}
+
+/*making space between text on the page*/
+p {
+   margin-bottom: 20px;
+}
+
+/*making space between pictures*/
+figure {
+   padding-top: 20px;
+}
+     
+/*adjusting font size for h2*/
+h2 {
+   font-size: 40px;
+}
+
+/*adjusting font size for p and li*/
+p, li {
+   font-size: 25px;
+   cursor: default;
+}
+
+h3 {
+   cursor:default; 
+}
+
+/*adjusting font size for dojan*/
+#logo {
+   font-size: 80px;
+}
+
+/*adjusting borders and size of images*/
+.images {
+   border-radius: 20px;
+   width: 80%;
+}
+
+/*adjustments for tablet view*/
+@media screen and (min-width: 600px) {
+
+   /*adjusting a section*/
+  .main-info {
+    width: 80%;
+    margin: auto;
+  }
+  
+  /*adjusting the event boxes*/
+  .boxes {
+   margin: auto;
+   width: 30%;
+   margin-top: 5%;
+  }
+
+  /*adjusting font size for header*/
+  .hero-text {
+   font-size: 100px;
+}  
+}
+
+/*adjustments for big screens*/
+@media screen and (min-width: 992px) {
+  
+   /*hiding the picture for header in this screensize*/
+   #tablet-header {
+      display: none;
+   }  
+
+   /*adjusting this section*/
+   .main-info {
+      width: 800px;
+   }
+
+   /*adjusting this section with flex*/
+   .events {
+      display: flex;
+      flex-wrap: wrap;
+      width: 800px;
+      margin:auto;
+   }
+
+   /*adjusting the event boxes for this screensize*/
+   .boxes {
+      width: 25%;
+      margin-top: 1%;
+   }
+   
+   /*adjusting this h2 to be above the other content*/
+   #upcoming {
+      flex-shrink: 0;
+      flex-basis: 100%;
+   }
+
+   /*adjusting the video in header*/
+   .hero, .hero-video {
+      height: 50vh;
+      width: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      position: relative;
+      margin-top: 0px;
+  }
+
+  /*adjusting the video in header*/
+  .hero-video {
+   width: 100%;
+   height: 50vh;
+   object-fit: cover;
+   position: absolute;
+   }
+
+   /*giving flex to images in this screensize for placement*/
+   .main-images {
+      display: flex;
+   }
+
+   /*giving some space between the images*/
+   .images {
+      margin: 1%;
+   }
+
+   /*putting flex on the footer content to align it for this screensize*/
+   .flex {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-around;
+      align-items: center; 
+   }
+
+   /*setting width for the flex*/
+   .flex-width {
+      width: 33%;
+   }
+}
