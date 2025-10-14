@@ -1,0 +1,265 @@
+* {
+    text-align: center;
+    color: #57380A;
+    padding: 0;
+    margin: 0;
+    font-family: 'Inria Sans', sans-serif;
+    user-select: none;
+}
+.noDecoration
+{
+    text-decoration: none;
+}
+p {
+    font-size: 1.2em;
+    text-align: left;
+}
+h2 {
+    font-size: 2em;
+    margin-bottom: 2%;
+}
+.images {
+    width: 50%;
+}
+
+.svgs {
+    width: 25%;
+}
+
+main {
+    margin: 0;
+    padding: 2%;
+}
+
+header {
+    background-color: #E1C8AA;
+    padding: 10%;
+}
+
+.header {
+    width: 50%;
+}
+
+body {
+    background-color: #f5e3cd;
+}
+
+footer {
+    background-color: #E1C8AA;
+    display: flex;
+    margin-top: 10%;
+    padding: 10%;
+}
+
+.logo {
+    width: 20%;
+    height: auto;
+    color: #6D460A;
+}
+
+section {
+    margin-top: 10%;
+}
+
+figure {
+    padding-top: 5%;
+}
+
+.images {
+    width: 90%;
+}
+
+#JS {
+    padding-top: 5%;
+}
+
+#mario {
+    padding-top: 5%;
+}
+
+.cv {
+    border-color:#382406;
+    margin-top: 5%;
+    font-size: 1em;
+    color: #f5e3cd;
+    font-weight: bold;
+    border-radius: 25px;
+    width: 50vw;
+    height: 8vh;
+    background-color: #57380A; /* For browsers that do not support gradients */
+    background-image: linear-gradient(to right, #382406, #57380A, #6D460A, #8d5c13, #c4a177);
+}
+@media screen and (min-width: 600px){
+
+    header {
+        display: flex;
+        margin: auto;
+        justify-content: space-between;
+    }
+
+    header h1 {
+        padding-top: 30%;
+    }
+
+    .aboutme {
+        width: 80%;
+        margin: auto;
+        padding: 3%;
+
+    }
+
+    .my-work {
+        background-color: #E1C8AA;
+        width: 80%;
+        margin: auto;
+        padding: 3%;
+    }
+
+    figure img {
+        padding: 5%;
+    }
+
+    p {
+        font-size: 1.5em;
+    }
+
+    section {
+        margin: auto;
+    }
+
+    .my-skills {
+        width: 80%;
+        margin: auto;
+        padding: 3%;
+    }
+
+    .my-skills-h2 {
+        margin-top: 5%;
+        text-align: center;
+        width: 100%;
+    }
+
+    .skill {
+        display: flex;
+        margin: auto;
+        width: 100%;
+        
+    }
+
+    .skills {
+        display: flex;
+        width: 10%;
+        padding: 2%;
+        justify-content: space-around;
+    }
+
+    .svgs {
+        width: 100%;
+        height: auto;
+    }
+    .cv {
+        width: 30vw;
+        font-size: 1.5em;
+    }
+
+
+
+
+
+}
+
+@media screen and (min-width: 992px){
+
+    .skill {
+        width: 70%;
+        margin: auto;
+    }
+    h1, h2, p {
+        cursor: default;
+    }
+
+    p {
+        font-size: 1vw;
+    }
+    .my-work {
+        width: 60%;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+
+    .my-work, a {
+        margin: auto;
+        padding: 0%;
+    }   
+
+    .flex-h2 {
+        margin-top: 5%;
+        flex-shrink: 0;
+        flex-basis: 100%;
+    }
+
+    h2 {
+        padding-bottom: 1%;
+    }
+
+    .width {
+        width: 48%;
+        padding-right: 2%;
+    }
+
+    .images {
+        margin-right: 30%;
+        width: 100%;
+        padding: 0%;
+    }
+
+    footer {
+        display: flex;
+        padding: 0%;
+    }
+
+    figure {
+        display: flex;
+        width: 50%;
+        margin-left: 10%;
+        padding: 0%;
+        margin: auto;
+    }
+    
+    header {
+        height: 300px;
+        justify-content:space-evenly;
+        padding: 0%;
+    }
+
+    .header {
+
+        text-align: center;
+        width: auto;
+        padding-left: 0%;
+
+    }
+
+    header h1 {
+        padding-top: 2%;
+        font-size: 60px;
+    }
+
+    .aboutme {
+        width: 60%;
+    }
+
+    .cv {
+        width: 15vw;
+    }
+
+    .svgs {
+        object-fit: cover;
+    }
+
+    .svgs:hover {
+        transform: scale(2.0);
+    }
+
+}
