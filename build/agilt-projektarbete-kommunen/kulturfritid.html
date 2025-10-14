@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="sv">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0">
+    <link rel="stylesheet" href="css/kultur.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/footer.css">
+    <link rel="icon" href="img/logo.png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Kultur & Fritid</title>
+  </head>
+  <body>
+    <header class="background-green">
+      <div class="container">
+        <div class="header">
+          <div class="font bold font-size-12">
+            <!--Title-->
+            <a href="index.html">
+              <div class="titles">
+                <span class="large-title font-size-22">
+                  <img src="img/logo.png" width="50" class="logo" alt="logo"> Grönviksdals kommun </span>
+                <span class="mobile-title font-size-16">
+                  <img src="img/logo.png" width="40" class="logo" alt="logo"> Grönviksdal </span>
+              </div>
+            </a>
+            <!--Title-->
+          </div>
+          <div class="right">
+            <form id="search-form" action="index.html" method="get">
+              <!--Search-->
+              <input type="text" id="search" class="search rounded-m" name="search" maxlength="15">
+              <button type="submit" class="search-button rounded-m padding-2">
+                <span class="material-icons">SÖK</span>
+              </button>
+            </form>
+            <!--Search-->
+          </div>
+        </div>
+      </div>
+    </header>
+    <nav class="nav background-green">
+      <div class="container">
+        <input type="checkbox" id="nav-change">
+        <label for="nav-change" class="nav">
+          <a href="index.html">
+            <span class="font bold"> Hem </span>
+          </a>
+          <a href="utbildning.html">
+            <span class="font bold"> Barn & Utbildning </span>
+          </a>
+          <a class="active" href="kulturfritid.html">
+            <span class="font bold"> Kultur & Fritid </span>
+          </a>
+          <a href="naringsliv.html">
+            <span class="font bold"> Näringsliv </span>
+          </a>
+          <a href="politik.html">
+            <span class="font bold"> Kommun & Politik </span>
+          </a>
+          <a href="lediga-jobb.html">
+            <span class="font bold"> Lediga jobb </span>
+          </a>
+          <span class="nav-bar">
+            <span class="material-symbols-outlined bold"> menu </span>
+          </span>
+        </label>
+      </div>
+    </nav>
+    <img class="top-image" src="img/skogsstig.jpg" alt="Äldre par på promenad">
+    <main class="container background-green-light rounded-m margin-t-b">
+      <section class="center background-green-light rounded-m margin-6">
+        <h1 class="center font"> Kultur & Fritid </h1>
+      </section>
+      <section class="center font">
+        <h3 class="h3-margin-bottom">Evenemang & Aktiviteter</h3>
+        <section class="activities">
+          <figure class="box1">
+            <img class="picture shadow-s" src="img/publik.jpg" alt="photo">
+            <p>Den 17/9 kommer artisten Lee Citle till oss i Grönviksdal. Eventet hålls i centrala konsterthuset mellan 18-20. Biljettpris: 150kr, garderob ingår. Välkomna!</p>
+          </figure>
+          <figure class="box2">
+            <img class="picture shadow-s" src="img/peoplepride.jpg" alt="photo">
+            <p>Äntligen dags för Pride-festival! <br> Den 11/10 firar vi dagen på stora torget i Grönviksdal där det kommer finnas något för alla åldrar. Vi ser fram emot dagen! </p>
+          </figure>
+          <figure class="box3">
+            <img class="picture shadow-s" src="img/kaffe.jpg" alt="photo">
+            <p>Den 24/10 håller café kaffekoppen extraöppet under söndagen för att fira kanelbullens dag. <br>Varmt välkomna! </p>
+          </figure>
+        </section>
+      </section>
+      <section class="center font">
+        <h3 class="h3-margin-bottom h3-margin-top">Motionsspår</h3>
+        <figure class="motion">
+          <img class="picture shadow-s" src="img/skogsstig.jpg" alt="photo">
+          <p class="margin-6"> Vandra eller motionera i Grönviksdal. <br> Vi har flera spår att välja mellan när ni besöker skogen. Välj mellan 2km, 4km, 5km eller varför inte 1-mila sträckan. </p>
+        </figure>
+        <a class="margin-6 download" href="downloads/karta-med-vandringsleder.pdf">
+          <i class="fa fa-download"></i> Ladda ner kartan för vandringsleder här </a>
+      </section>
+      <section class="center font">
+        <h3 class="h3-margin-bottom h3-margin-top">Föreningsliv</h3>
+        <figure class="sport">
+          <img class="picture shadow-s" src="img/barnfotboll.jpg" alt="photo">
+          <p>Grönviksdal HK</p>
+          <p>HP Tigers</p>
+          <p>IFK Stripers</p>
+          <p>Grönviksdal Tennisklubb</p>
+          <p>Ishallens vänner</p>
+        </figure>
+      </section>
+      <form class="form padding-6 font">
+        <h3>Här kan du boka kommunens idrottshall</h3>
+        <br>
+        <label for="fname">Ditt namn:</label>
+        <br>
+        <input type="text" id="fname" name="fname">
+        <br>
+        <label for="fname">Datum:</label>
+        <br>
+        <input type="date" name="date" id="date-bar">
+        <br>
+        <input type="radio" id="html" name="fav_language" value="HTML">
+        <label for="html">A-hallen</label>
+        <br>
+        <input type="radio" id="css" name="fav_language" value="CSS">
+        <label for="css">B-hallen</label>
+        <br>
+        <input type="radio" id="javascript" name="fav_language" value="JavaScript">
+        <label for="javascript">C-hallen</label>
+        <br>
+        <br>
+        <input class="button" type="submit" value="Boka nu!">
+      </form>
+      <section class="links center padding-6 margin-6 font">
+        <h3>Länkar till våra andra verksamheter:</h3>
+        <a href="https://utvecklarerebecka.se/agilt-projektarbete-badhuset/index.html" target="_blank">Badhusets hemsida</a>
+        <br>
+        <a href="https://www.karinwebdesigner.com/index.html" target="_blank">Fritidsgårdens hemsida</a>
+      </section>
+    </main>
+    <footer class="background-green">
+      <div class="container">
+        <div class="row col-3 container margin-6 padding-6">
+          <section class="font padding-6">
+            <h3>Kontakta oss</h3>
+            <p>
+              <a href="tel://+4733378901">+46 76-12 34 56</a>
+            </p>
+            <a href="mailto://kontakt@gronviksdal.se">kontakt@gronviksdal.se</a>
+            <h4>Adress</h4>
+            <p>Gröna vägen 5, 65432, Grönviksdal</p>
+            <h4>Organisationsnummer</h4>
+            <p>556688-5949</p>
+          </section>
+          <section class="font padding-6">
+            <h3>Snabblänkar</h3>
+            <a href="#">Kalender</a>
+            <br>
+            <a href="#">Anslagstavla</a>
+            <br>
+            <a href="#">E-tjänster</a>
+          </section>
+          <section class="font padding-6">
+            <h3>Om kommunen</h3>
+            <a href="#">A-Ö</a>
+            <br>
+            <a href="#">Våra medarbetare</a>
+            <br>
+            <a href="#">Logga in</a>
+            <br>
+            <br>
+            <figure class="figure_footer">
+              <a href="index.html">
+                <div class="titles">
+                  <span class="large-title font bold font-size-22">
+                    <img src="img/logo.png" width="50" class="logo" alt="logo"> Grönviksdals kommun </span>
+                  <span class="mobile-title font bold font-size-16">
+                    <img src="img/logo.png" width="40" class="logo" alt="logo"> Grönviksdal </span>
+                </div>
+              </a>
+            </figure>
+          </section>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>

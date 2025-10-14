@@ -1,0 +1,16 @@
+Kommun namn
+Grönviksdal
+
+CSS "regler"
+
+Vi använder oss av små bokstäver
+Vi använder oss av -bindestreck för mellanslag
+Klassnamn ska vara relevanta och självförklarande
+Vi börjar alltid filen med :root sedan följer * body/html, main header, h1-h6 p, därefter kommer klasserna/id, footer och sist i dokumentet ligger @media
+Vi ska alltid ha en tom rad mellan koden i CSSfilen
+Vi ska ha ett mellanrum mellan klassen och måsvingen
+Vi skriver klasser på engelska
+Vi skriver kommentarer för vad koden gör ovanför koden, vi skriver kommentarer på engelska
+Vi jobbar efter Mobile First (på badhuset för att sedan utvärdera för de andra sidorna)
+Vi jobbar med nesting i CSS
+Vi använder främst px och %

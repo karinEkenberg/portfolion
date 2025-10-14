@@ -1,0 +1,153 @@
+.font {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 30px;
+  text-align: center;
+}
+
+.flex-item-left {
+  padding: 10px;
+  flex: 50%;
+}
+
+.flex-item-right {
+  padding: 10px;
+  flex: 50%;
+}
+
+.politics {
+    background-color:#E8E9E8;
+    padding-bottom: 20px;
+}
+
+
+.history {
+    background-color: #E8E9E8;
+}
+
+.forvaltningar {
+    background-color: #D0D4CA;
+    border-radius: 5px;
+    margin: 2px;
+}
+
+.contacts {
+    background-color: #F5EEC8;
+}
+
+.parties {
+    background-color: #E8E9E8;
+}
+
+
+.kommunstyrelse {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  .kommunstyrelse  td, #customers th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+
+  .kommunstyrelse  tr:nth-child(even){
+    background-color: #D0D4CA;
+}
+
+  .kommunstyrelse  tr:hover {
+    background-color: #555843;
+}
+
+  .kommunstyrelse  th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    padding-left: 8px;
+    background-color: #555843;
+    color: white;
+  }
+
+.contacts{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 95%;
+  display: flex;
+  flex-direction: column;
+  row-gap: 10px;
+  padding: 10px;
+    
+    & a {
+      color: #0000EE;
+    }
+
+    & a:hover {
+      text-decoration: underline;
+    }
+}
+
+@media screen and (min-width: 600px) {
+
+  .politics, .history, .contacts, .parties {
+       width: 100%;
+       margin: 0;
+       padding: 5px;
+   }
+
+   & .forvaltningar{
+    width: 100%;
+
+     & .forvaltningar{
+      width: 95%;
+     }
+   }
+
+   .contacts{
+    margin-bottom: 20px;
+    margin-top: 20px;
+    row-gap: 20px;
+    padding: 15px;
+    
+     & br{
+      display: none;
+    }
+   }
+
+}
+
+@media screen and (min-width: 996px) {
+
+  .flex-item-right{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    & p{
+      width: 75%;
+    }
+  }
+
+  .forvaltningar {
+
+        width: 100%;
+        height: auto;
+        margin: auto;
+        padding: 5px;
+    }
+    #columns {
+        display: flex;
+        justify-content: center;
+    }
+    .management {
+        display: flex;
+        flex-direction: column;
+        row-gap: 5px;
+        margin: 10px;
+        padding: 10px;
+    }
+
+}
