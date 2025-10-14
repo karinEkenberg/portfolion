@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WebPulse</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inria+Sans&family=Lekton&family=Nosifer&family=Quicksand:wght@500&family=Vast+Shadow&display=swap" rel="stylesheet">
+    <link rel="icon" href="img/availability-svgrepo-com.svg">
+</head>
+<body>
+
+        <h1>WebPulse: <br> Pulsen av dynamiska lösningar</h1>
+        <header id="top">
+            <label class="hamburger-menu">
+                <input type="checkbox"/>
+            </label>
+            <aside class="sidebar">
+                <nav>
+                    <div><a class="hamburger-text" href="#top">Toppen</a></div>
+                    <div><a class="hamburger-text" href="#changeButton">Ändra knapp</a></div>
+                    <div><a class="hamburger-text" href="#changeAll">Ändra allt</a></div>
+                    <div><a class="hamburger-text" href="#bmi">BMI</a></div>
+                    <div><a class="hamburger-text" href="#calcF">°C</a></div>
+                    <div><a class="hamburger-text" href="#calcC">°F</a></div>
+                    <div><a class="hamburger-text" href="#bottom">Botten</a></div>
+                </nav>
+            </aside>
+    </header>
+    <ul>
+        <li><a class="menu" href="#top">Toppen</a></li>
+        <li><a class="menu" href="#changeButton">Ändra knapp</a></li>
+        <li><a class="menu" href="#changeAll">Ändra allt</a></li>
+        <li><a class="menu" href="#bmi">BMI</a></li>
+        <li><a class="menu" href="#calcF">°C</a></li>
+        <li><a class="menu" href="#calcC">°F</a></li>
+        <li><a class="menu" href="#bottom">Botten</a></li>
+    </ul>
+    <h2 id="changeButton">Ändra färgerna</h2>
+    <section class="box">
+        <h2>Ändra knappens färg</h2>
+        <button class="button" id="buttonOne">Klicka</button>
+    </section>
+    <section class="box" id="changeAll">
+        <h2>Ändra hela sidans färg</h2>
+        <button class="button" id="buttonTwo">Klicka</button>
+    </section>
+    <section id="margins">
+        <h2 id="bmi">Ha koll på din hälsa</h2>
+        <section class="ruta">
+            <h2>Räkna ut BMI</h2>
+            <label for="weightInput">Vikt:</label>
+            <input id="weightInput" type="text"><br>
+            <label for="heightInput">Längd:</label>
+            <input id="heightInput" type="text">
+            <p id="result"></p>
+            <button class="inRuta" id="buttonThree">Beräkna</button>
+        </section>
+    </section>
+    <section>
+        <h2 id="calcF">Beräkningar av temperaturer</h2>
+        <section class="ruta">
+            <h2>Omvandla °C till °F</h2>
+            <label for="celsiusInput">°C:</label>
+            <input id="celsiusInput" type="text"><br>
+            <p id="celsiusToFahrenheit"></p>
+            <button class="inRuta" id="buttonCelsiusToFahrenheit">Beräkna</button>
+        </section>
+        <section class="ruta" id="calcC">
+            <h2>Omvandla °F till °C</h2>
+            <label for="fahrenheitInput">°F:</label>
+            <input id="fahrenheitInput" type="text">
+            <p id="farenheitToCelsius"></p>
+            <button class="inRuta" id="buttonFahrenheitToCelsius">Beräkna</button>
+        </section>
+    </section>
+    <footer id="bottom">
+        Webbplats designad av <a href="http://www.karinwebdesigner.com" target="_blank">Karin Ekenberg</a> 
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
