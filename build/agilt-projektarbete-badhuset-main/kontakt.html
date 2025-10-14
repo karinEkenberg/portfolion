@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0">
+    <link rel="icon" href="img/sim.png">
+    <meta name="author" content="Pixel Wizards">
+    <title>Startsida</title>
+</head>
+<body>
+
+    <header class="topnav">
+        <a href="index.html" class="logo">Grönviksdals Badhus</a>
+        
+        <nav id="myLinks">
+          <a href="index.html">Hem</a>
+          <a href="simskola.html">Simskola</a>
+          <a href="priser.html">Priser</a>
+          <a href="oppettider.html">Öppettider</a>
+          <a href="kontakt.html">Kontakt</a>
+        </nav>
+        
+        <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+          <i class="material-icons">menu</i>
+        </a>
+   
+</header>
+    <main>
+       <h1>Våra kontaktuppgifter</h1>
+       <img class="contact-img" src="img/simbadet.png" alt="simbadet">
+       
+       <div class="flex flex-contact container">
+         <div>
+           <article class="contact-article">
+            <p class="p-contact">Telefonnummer: <a href="#" target="_blank" class="contact-telephon">0707-12 34 45</a></p>
+            <p class="p-contact">Mejl:
+                <a href="https://www.microsoft.com/en-ww/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook" target="_blank" 
+                    class="contact-mail">
+              info@gronviksdalsbadhus.se</a></p>
+           </article>
+            <article class="contact-article2">
+              <h4 class="h4-contact">Hitta hit</h4>
+              <p class="p-contact">Adress:</p>
+              <p>Vågvägen 7<br> 12354 Grönviksdal</p>
+           </article>
+          </div>
+           
+         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d16132749.0706938!2d-3.301987123550293!3d60.42326142719534!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465cb2396d35f0f1%3A0x22b8eba28dad6f62!2sSweden!5e0!3m2!1sen!2sse!4v1698397094757!5m2!1sen!2sse"  width="300px" border:0; allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+         
+            <p class="demo"></p>
+            
+            <script>
+                    const x = document.getElementById("demo");
+    
+                  function Geolocation() {
+                    if (navigator.geolocation) {
+                      navigator.geolocation.getCurrentPosition(showPosition);
+                    } else {
+                      x.innerHTML = "Geolocation is not supported by this brower.";
+                    }
+                    }
+                    function showPosition(position) {
+                      x.innerHTML = "Latitude:" + position.coords.latitude + 
+                      "<br>Longitude:" + position.coords.longitude;
+                      
+                    }
+                  
+            </script>
+          
+        </div>
+    </main>
+
+    <footer>
+
+      <section class="footer-section">
+          <h2>Kontakta oss</h2>
+
+          <address>
+             <p>Email: <a href="https://www.microsoft.com/en-ww/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook" target="_blank" class="mail">info@gronviksdalsbadhus.se</a></p> <br>
+              <p>Telefonnummer: <a href="#" target="_blank" class="telephon">0707-12 34 45</a></p>
+          </address>
+      </section>
+      
+    
+      <section class="footer-section">
+        <h2>Adress</h2>
+        
+        <p>Vågvägen 7<br> 12354 Grönviksdal
+          <a href="https://maps.google.com/" target="_blank" class="footer-icons">
+          <img src="img/map.png" alt="map"></a></p>  
+      </section>
+
+     <section class="footer-section">
+     <h2>Följ oss på sociala medier</h2>
+    
+          <div class="footer-icons">
+              <a href="https://www.facebook.com" target="_blank"><img src="img/facebook.png" alt="Facebook"></a>
+              <a href="https://twitter.com" target="_blank"><img src="img/twitter.png" alt="Twitter"></a>
+              <a href="https://www.instagram.com" target="_blank"><img src="img/instagram.png" alt="Instagram"></a>
+              <a href="https://www.youtube.com" target="_blank"><img src="img/youtube.png" alt=""></a>
+          </div>
+     </section>
+        </footer>
+        <script>
+          function myFunction() {
+          var x = document.getElementById("myLinks");
+          if (x.style.display === "block") {
+            x.style.display = "none";
+          } else {
+            x.style.display = "block";
+          }
+        }
+      </script>
+    
+</body>
+</html>
