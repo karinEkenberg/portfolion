@@ -40,7 +40,7 @@
     ],
     "link": "",
     "linkToGithub": "https://github.com/karinEkenberg/TyskaForSmaUpptackare",
-    "image": "build/images/thesis.webp"
+    "image": "./images/thesis.webp"
   },
   {
     "id": 18,
@@ -49,7 +49,7 @@
     "tools": ["WordPress", "PHP"],
     "link": "",
     "linkToGithub": "",
-    "image": "./build/images/fr.webp"
+    "image": "./images/fr.webp"
   },
   {
     "id": 17,
@@ -58,7 +58,7 @@
     "tools": ["WordPress", "PHP"],
     "link": "",
     "linkToGithub": "https://github.com/karinEkenberg/wordpress-plugin",
-    "image": "./build/images/lara-abc.webp"
+    "image": "./images/lara-abc.webp"
   },
   {
     "id": 16,
@@ -67,7 +67,7 @@
     "tools": ["WordPress", "PHP", "Elementor"],
     "link": "https://ggshop.utvsajt.se/",
     "linkToGithub": "",
-    "image": "./build/images/ggshop.webp"
+    "image": "./images/ggshop.webp"
   },
   {
     "id": 15,
@@ -84,7 +84,7 @@
     ],
     "link": "",
     "linkToGithub": "https://github.com/PixelWizardsTuc/WWStyle",
-    "image": "./build/images/wwstyle.webp"
+    "image": "./images/wwstyle.webp"
   },
   {
     "id": 14,
@@ -93,7 +93,7 @@
     "tools": ["HTML", "CSS", "JS"],
     "link": "https://www.ekenberg-devit.se//calc/index.html",
     "linkToGithub": "https://github.com/karinEkenberg/calc",
-    "image": "./build/images/calcJs.webp"
+    "image": "./images/calcJs.webp"
   },
   {
     "id": 13,
@@ -102,7 +102,7 @@
     "tools": ["HTML", "CSS", "JS", "Krita"],
     "link": "https://www.ekenberg-devit.se//gallery/index.html",
     "linkToGithub": "",
-    "image": "./build/images/gallery.webp"
+    "image": "./images/gallery.webp"
   },
   {
     "id": 12,
@@ -111,7 +111,7 @@
     "tools": ["HTML", "CSS", "JS"],
     "link": "https://www.ekenberg-devit.se//jsFunctions/index.html",
     "linkToGithub": "",
-    "image": "./build/images/webPulse.png"
+    "image": "./images/webPulse.png"
   },
   {
     "id": 11,
@@ -120,7 +120,7 @@
     "tools": ["C#"],
     "link": "",
     "linkToGithub": "https://github.com/karinEkenberg/calculater",
-    "image": "./build/images/calccsharp.webp"
+    "image": "./images/calccsharp.webp"
   },
   {
     "id": 10,
@@ -129,7 +129,7 @@
     "tools": ["Javascript", "HTML", "CSS"],
     "link": "",
     "linkToGithub": "https://github.com/karinEkenberg/uppgiftJS/tree/main/HederligeHarryJS2-main/HederligeHarryJS2-main",
-    "image": "./build/images/hederligeharrry.webp"
+    "image": "./images/hederligeharrry.webp"
   },
   {
     "id": 9,
@@ -138,7 +138,7 @@
     "tools": ["Javascript", "HTML", "CSS"],
     "link": "",
     "linkToGithub": "https://github.com/karinEkenberg/memory/tree/main/SpeletJS-main/SpeletJS-main",
-    "image": "./build/images/memory.webp"
+    "image": "./images/memory.webp"
   },
   {
     "id": 8,
@@ -147,7 +147,7 @@
     "tools": ["HTML", "CSS"],
     "link": "https://www.ekenberg-devit.se//webb-8/index.html",
     "linkToGithub": "",
-    "image": "./build/images/old-portfolio.webp"
+    "image": "./images/old-portfolio.webp"
   },
   {
     "id": 7,
@@ -156,7 +156,7 @@
     "tools": ["Javascript", "HTML", "CSS"],
     "link": "https://www.ekenberg-devit.se//agilt-projektarbete-kommunen/agilt-projektarbete-badhuset/",
     "linkToGithub": "https://github.com/tuc-pixel-wizards/agilt-projektarbete-badhuset",
-    "image": "./build/images/badhuset.png"
+    "image": "./images/badhuset.png"
   },
   {
     "id": 6,
@@ -165,7 +165,7 @@
     "tools": ["HTML", "CSS"],
     "link": "https://www.ekenberg-devit.se//agilt-projektarbete-kommunen/agilt-projektarbete-fritidsgarden/",
     "linkToGithub": "https://github.com/tuc-pixel-wizards/agilt-projektarbete-fritidsgarden",
-    "image": "./build/images/fritidsgarden.webp"
+    "image": "./images/fritidsgarden.webp"
   },
   {
     "id": 5,
@@ -174,7 +174,7 @@
     "tools": ["Javascript", "HTML", "CSS"],
     "link": "https://www.ekenberg-devit.se//agilt-projektarbete-kommunen/index.html",
     "linkToGithub": "https://github.com/tuc-pixel-wizards/agilt-projektarbete-kommunen",
-    "image": "./build/images/kommun.webp"
+    "image": "./images/kommun.webp"
   },
   {
     "id": 4,
@@ -183,7 +183,7 @@
     "tools": ["HTML", "CSS"],
     "link": "https://www.ekenberg-devit.se//webb-9/index.html",
     "linkToGithub": "",
-    "image": "./build/images/mogghornan.webp"
+    "image": "./images/mogghornan.webp"
   },
   {
     "id": 3,
@@ -192,7 +192,7 @@
     "tools": ["HTML", "CSS", "Krita"],
     "link": "https://www.ekenberg-devit.se//webb-3/index.html",
     "linkToGithub": "",
-    "image": "./build/images/historia.webp"
+    "image": "./images/historia.webp"
   },
   {
     "id": 2,
@@ -201,7 +201,7 @@
     "tools": ["HTML", "CSS", "Krita"],
     "link": "https://www.ekenberg-devit.se//webcomic/",
     "linkToGithub": "",
-    "image": "./build/images/bjornOselma.webp"
+    "image": "./images/bjornOselma.webp"
   },
   {
     "id": 1,
@@ -216,8 +216,6 @@
     ],
     "link": "https://hackmd.io/T7k6bQwkQbiRmIzRhVSoDQ",
     "linkToGithub": "https://github.com/karinEkenberg/IoT-Project",
-    "image": "./build/images/iot.webp"
+    "image": "./images/iot.webp"
   }
 ]
-
-
