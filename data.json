@@ -6,7 +6,7 @@
     "tools": ["Git", "HTML", "Tailwind", "Javascript", "JSON"],
     "link": "https://www.ekenberg-devit.se/",
     "linkToGithub": "https://github.com/karinEkenberg/portfolion",
-    "image": "/build/images/newportfolio.webp"
+    "image": "/images/newportfolio.webp"
   },
   {
     "id": 20,
@@ -23,7 +23,7 @@
     ],
     "link": "https://trandaredsif.se/",
     "linkToGithub": "https://github.com/lia-2-team-1/webbsite",
-    "image": "./build/images/tif.webp"
+    "image": "./images/tif.webp"
   },
   {
     "id": 19,
@@ -219,3 +219,4 @@
     "image": "./build/images/iot.webp"
   }
 ]
+
