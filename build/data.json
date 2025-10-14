@@ -177,15 +177,6 @@
     "image": "./images/kommun.webp"
   },
   {
-    "id": 4,
-    "title": "Webshop",
-    "description": "At the beginning of my education, I made a simple webshop with only HTML and CSS",
-    "tools": ["HTML", "CSS"],
-    "link": "https://www.ekenberg-devit.se//webb-9/index.html",
-    "linkToGithub": "",
-    "image": "./images/mogghornan.webp"
-  },
-  {
     "id": 3,
     "title": "Internets utveckling",
     "description": "The first task during my TUC training I had to make a website about the development of the internet, agile methods and my inspiration",
@@ -219,6 +210,7 @@
     "image": "./images/iot.webp"
   }
 ]
+
 
 
 
