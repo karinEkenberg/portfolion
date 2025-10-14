@@ -1,0 +1,574 @@
+/*vintage colorscheme
+    884A39
+    C38154
+    FFC26F
+    F9E0BB
+*/
+
+/*giving the whole page a font family and text color*/
+* {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #F9E0BB;
+    box-sizing: border-box;
+}
+
+/*changing font size*/
+h2 {
+    font-size: 2em;
+}
+
+p {
+    font-size: 1.5em;
+}
+
+/*adjusting the header with some colors and shadows*/
+header {
+    background-color:#3b2119;
+    margin-top: -1.35em;
+    width: 100%;
+    height: 11rem;
+    font-size: 2em;
+    box-shadow: inset -23px -23px 22px #0a0604,
+    inset 23px 23px 22px #5e402c;
+}
+
+/*adjusting size of the video*/
+.videoTimmy {
+    width: 90%;
+    height: auto;
+}
+
+/*adjusting the input area*/
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    background-color: #F9E0BB;
+    color: #3b2119;
+  }
+
+/*styling the navigation menu*/
+nav {
+    height: 3rem;
+    font-size: 2rem;
+    float: right;
+}
+
+/*making some space between the words in the menu*/
+nav a {
+    padding: 10px 10px;
+    border-style:outset;
+    border-color:#9c5542;
+    border-width: 3px;
+    border-radius: 15px;
+    box-shadow: inset -23px -23px 22px #743f30c0,
+    inset 23px 23px 22px #9c5642be;
+    
+}
+
+/*changing the background color of the navigation when hovering over it*/
+nav a:hover {
+    background-color:#000000;
+  }
+
+  /*styles for articles*/
+article {
+    margin: 50px;
+    width: 500px;
+    border-style:double;
+    display: flex;
+    flex-direction: column;
+    background-color:#884A39;
+    padding-top: 1,5vh;
+}
+
+/*stlying the body*/
+body {
+    background-color: #743f30;
+    text-align: center;
+    border-radius: 15px;
+    box-shadow: inset -23px -23px 22px #4b281fc0,
+    inset 23px 23px 22px #9c5642be;
+    width: 100%;
+    padding: 0%;
+    margin: 0%;
+}
+
+/*fixing size of images*/
+img {
+    height: 15rem;
+}
+
+/*styling the footer*/
+footer {
+    width: 100%;
+    font-size: 1rem;
+    background-color: #C38154;
+    border-radius: 15px;
+    box-shadow: inset -23px -23px 22px #794d30,
+    inset 23px 23px 22px #C38154;
+}
+
+/*fixing so the dots to the ul algins with the text*/
+ul {
+    display: inline-block;
+    text-align: left;
+}   
+
+/*removing the line under links, in this case to make the navigation nicer*/
+a {
+    text-decoration: none;
+}
+
+/*links in footer*/
+.blueLink {
+    text-decoration: underline;
+    color: blue;
+}
+
+/*sections*/
+.texten {
+    background-color:#FFC26F;
+    margin: auto;
+    width: 70em;
+    height: auto;
+    display: flex;
+    padding: 1%;
+}
+
+/*sections*/
+.bubblan {
+    background-color:#FFC26F;
+    margin: auto;
+    width: 70em;
+    height: auto;
+    display: flex;
+    padding: 1.5vh;
+}
+
+/*articles bubble*/
+.articleBubble {
+    display: flex;
+    justify-content: center;
+    padding: 1vw;
+    width: 50%;
+    align-items: stretch;
+    border-radius: 128px;
+    background: #ffffff;
+    box-shadow: inset 20px 20px 15px #d9d9d9,
+                inset -20px -20px 15px #ffffff;
+}
+
+/*specifik settings for the image of me*/
+.imageKarin {
+    padding-top: 35%;
+    padding-left: 5%;
+    width: 45%;
+    height: 45%;  
+}
+
+/*adjusting where the video will be*/
+.tommyVideo {
+    padding-left: 20%;
+}
+
+/*flexbox layout with centered adjustment*/
+.imgInsideArticle {
+    display: flex;
+    justify-content: column;
+    align-items: center;
+    padding-left: 10%;
+    width: 90%;
+    height: auto;
+    position: relative;
+    text-align: center;
+}
+
+/*hiding the mobileversion of the picture of me*/
+.imageKarinMobil{
+    display: none;
+}
+
+/*making this class black to fit into the white thinking-bubble*/
+.black {
+    color: black;
+}
+
+/*articles*/
+.borderArticle {
+    display: flex;
+    justify-content: center;
+    border-style:outset;
+    border-color:#884A39;
+    border-width: 10px;
+    padding: 1.5vw;
+    width: 60%;
+    margin: auto;
+    align-items: stretch;
+    border-radius: 31px;
+    box-shadow: inset -23px -23px 22px #743f30,
+    inset 23px 23px 22px #9c5542;
+    resize: both;
+    overflow: auto; 
+    text-align: center;
+}
+
+/*images*/
+.imageHistory {
+    display: flex;
+    justify-content: center;
+    padding: 5%;
+    width: 40%;
+    height: 40%;
+}
+
+/*hiding an image in fullscreen*/
+.imageHistorySmallScreen {
+    display: none;
+}
+
+/*styling a image*/
+.imageHistoryBigScreen {
+    display: flex;
+    justify-content: center;
+    padding: 5%;
+    width: 40%;
+    height: 40%;
+}
+
+/*button*/
+.formButton {
+    background-color: #3b2119;
+    padding: 3%;
+    color: #C38154;
+    border-color: #C38154;
+    width: 20%;
+    height: 5%;
+    border-radius: 15px;
+    box-shadow: inset -23px -23px 22px #723d2ec4,
+    inset 23px 23px 22px #8b422eb6;
+}
+
+/*giving this color when hovering buttons*/
+button.formButton:hover {
+    background-color: #0e0806;
+}
+
+/*styling the textarea*/
+#textArea {
+    width: 100%;
+    background-color: #F9E0BB;
+    color: #3b2119;
+}
+
+/*articles*/
+.indexArticle {
+    display: flex;
+    border-style:outset;
+    border-color:#884A39;
+    border-width: 10px;
+    padding: 1.5vw;
+    width: 60%;
+    margin: auto;
+    border-radius: 31px;
+    box-shadow: inset -23px -23px 22px #743f30,
+    inset 23px 23px 22px #9c5542;
+    resize: none;
+    overflow: auto; 
+    text-align: center;
+}
+
+/*styling the section in an article*/
+.sectionInArticle {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 500px;
+    height: 500px;
+    margin-left: 8%;
+}
+
+/*flexbox layout for these images*/
+.sectionInArticle a .imgLink { 
+    display: flex;
+}
+
+/*hiding the menu for smaller devices*/
+#menu-toggle {
+    display: none;
+}
+
+/*hiding the menu for smaller devices*/
+.hamburger {
+    display: none;
+}
+
+/*for screens with 1200px max width*/
+@media screen and (max-width: 1200px) {
+/*adjusting the footer*/
+footer {
+    border-radius: 0%;
+    background-color: #884A39;
+    box-shadow: none;
+}
+}
+
+/*for screens with 1024px max width*/
+@media screen and (max-width: 1024px) {
+/*giving this picture lighter background for contrast*/
+#pirateBay {
+    background-color: #e0a47c;
+    border-radius: 22px;
+}
+     
+/*adjusting the background and border*/
+#agileBackground {
+    background-color: #e0a47c;
+    border-radius: 22px;
+}
+
+/*giving this picture lighter background for contrast*/
+#it-bubblanBakgrund {
+    background-color: #e0a47c;
+    border-radius: 22px;
+}
+    
+/*styling body for this screen size*/
+body {
+    width: fit-content;
+    box-shadow: none;
+    background-color:#884A39;
+}
+    
+/*when the screen is this size the sections will only show its contents*/
+.texten{
+    display: contents;
+}
+    
+/*styling the article for this screensize*/
+.borderArticle{
+    display: block;
+    width: auto;
+    justify-content: column;
+    align-items: column;
+    resize: none;
+    border: none;
+    border-radius: 0%;
+    box-shadow: none;
+    margin-top: 5%;
+}
+
+/*only show the contents*/
+.indexArticle{
+    display: contents;
+}
+    
+/**/
+.imageHistory {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    box-shadow: none;
+}
+   
+/**/
+.bubblan {
+    flex-direction: column-reverse;
+    background-color:#884A39;
+    width: 100%;
+    padding-bottom: 0%;
+}
+    
+/*hiding the big screen version of the picture of me*/
+.imageKarin {
+    display: none;
+}
+    
+/*specifik settings for the image of me*/
+.imageKarinMobil {
+    display: flex;
+    width: 90%;
+    height: auto;
+    align-items: center;
+    padding: 0%;
+}
+    
+.imageHistoryBigScreen {
+    display: none;
+}
+    
+.imageHistorySmallScreen {
+    display: flex;
+    width: 90%;
+    height: auto;
+    align-items: center;
+    padding: 0%;
+}
+
+/*articles bubble*/
+.articleBubble {
+    margin: 5%;
+    display: block;
+    width: auto;
+    justify-content: column;
+    align-items: column;
+    resize: none;
+}
+    
+header {
+    box-shadow: none;
+}
+    
+nav a {
+    box-shadow: none;
+    background-color: #743f30;
+}
+
+.sectionInArticle {
+    margin-left: 20%;
+}
+
+}
+
+/*when the users screen is 768px or less*/
+@media screen and (max-width: 768px){
+
+.imgLink {
+    width: 30%;
+    box-sizing: border-box;
+}
+
+.sectionInArticle {
+    margin-bottom: 60%
+}
+ 
+.imgLink {
+    width: 50%;
+    height: auto;
+    margin-left: 20%;
+}
+
+}
+
+/**/
+@media screen and (max-width: 600px) {
+header {
+    display:inline-block;
+    width: 100%;
+    height: auto;
+}
+
+nav {
+    float: none;
+    width: 100%;
+}
+
+nav a {
+    color: #C38154;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #3b2119;
+    border-style:groove;
+    border-radius: 0%;
+    box-shadow: none;
+}
+
+}
+
+/*when the users screen is 480px or less*/
+@media screen and (max-width: 480px) {
+    body {
+        margin: 0;
+        padding: 0;
+    }
+
+    nav {
+        list-style: none;
+        padding: 0;
+        display: none;
+        flex-direction: column;
+        width: 30%;
+        position: fixed;
+        left: 0;
+        top: 5%;
+        bottom: 0;
+    }
+
+    nav.active {
+        display: flex;
+    }
+
+    nav a {
+        text-decoration: none;
+        font-size: 18px;
+        color: #F9E0BB;
+    }
+
+    .hamburger {
+        font-size: 40px;
+        cursor: pointer;
+        display: block;
+        left: 0%;
+        position: fixed;
+        top: 0%;
+        background-color: #3b2119;
+    }
+
+    input[type="checkbox"] {
+        display: none;
+    }
+
+    input[type="checkbox"]:checked ~ nav {
+        display: flex;
+    }
+
+    header {
+        height: 5em;
+    }
+
+    header h1 {
+        font-size: 1em;
+        padding-top: 10%;
+    }
+    
+}
+
+@media screen and (max-width: 425) {
+
+}
+
+/*for a small screen*/
+@media screen and (max-width: 375px) {
+    header h1 {
+        font-size: 1em;
+    }
+
+    .sectionInArticle {
+        margin-bottom: 0%;
+    }
+
+}
+
+/*when the screen is really small*/
+@media screen and (max-width: 320px){
+iframe {
+    max-width: 80%;
+    height: auto;
+}
+
+input[type=text] {
+    width: 90%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+nav {
+    width: 40%;
+}
+
+}
+
+ 
