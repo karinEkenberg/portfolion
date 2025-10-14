@@ -1,0 +1,768 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Krita: https://krita.org -->
+<svg xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:krita="http://krita.org/namespaces/svg/krita"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    width="595.2pt"
+    height="841.92pt"
+    viewBox="0 0 595.2 841.92">
+<defs>
+  <linearGradient id="gradient0" gradientUnits="objectBoundingBox" x1="0.414644150716966" y1="-0.219298302842005" x2="0.510773893509508" y2="0.661134666496707" spreadMethod="pad">
+   <stop stop-color="#7c0618" offset="0.00456620985642076" stop-opacity="1"/>
+   <stop stop-color="#b01b00" offset="0.990867555141449" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient1" gradientUnits="objectBoundingBox" x1="0.299501899195879" y1="-0.272283010296466" x2="0.576075847282094" y2="1.25922211990533" spreadMethod="pad">
+   <stop stop-color="#b01b00" offset="0.00913241971284151" stop-opacity="1"/>
+   <stop stop-color="#7c0618" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient2" gradientUnits="objectBoundingBox" x1="0.496600577453677" y1="-0.106547717766865" x2="0.425445941427304" y2="1.06779098542917" spreadMethod="pad">
+   <stop stop-color="#ffffff" offset="0.00913241971284151" stop-opacity="1"/>
+   <stop stop-color="#5e5c5c" offset="0.986301362514496" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient3" gradientUnits="objectBoundingBox" x1="0.678883487018079" y1="-0.910568459589959" x2="0.656395103419165" y2="1.30332837859499" spreadMethod="pad">
+   <stop stop-color="#575757" offset="0.00456620985642076" stop-opacity="1"/>
+   <stop stop-color="#ffffff" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient4" gradientUnits="objectBoundingBox" x1="0.414644150716966" y1="-0.219298302842005" x2="0.510773893509508" y2="0.661134666496707" spreadMethod="pad">
+   <stop stop-color="#7c0618" offset="0.00456620985642076" stop-opacity="1"/>
+   <stop stop-color="#b01b00" offset="0.990867555141449" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient5" gradientUnits="objectBoundingBox" x1="0.299501899195879" y1="-0.272283010296466" x2="0.576075847282094" y2="1.25922211990533" spreadMethod="pad">
+   <stop stop-color="#b01b00" offset="0.00913241971284151" stop-opacity="1"/>
+   <stop stop-color="#7c0618" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient6" gradientUnits="objectBoundingBox" x1="0.496600577453677" y1="-0.106547717766865" x2="0.425445941427304" y2="1.06779098542917" spreadMethod="pad">
+   <stop stop-color="#ffffff" offset="0.00913241971284151" stop-opacity="1"/>
+   <stop stop-color="#5e5c5c" offset="0.986301362514496" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient7" gradientUnits="objectBoundingBox" x1="0.678883487018079" y1="-0.910568459589959" x2="0.656395103419165" y2="1.30332837859499" spreadMethod="pad">
+   <stop stop-color="#575757" offset="0.00456620985642076" stop-opacity="1"/>
+   <stop stop-color="#ffffff" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient8" gradientUnits="objectBoundingBox" x1="0.414644150716966" y1="-0.219298302842005" x2="0.510773893509508" y2="0.661134666496707" spreadMethod="pad">
+   <stop stop-color="#7c0618" offset="0.00456620985642076" stop-opacity="1"/>
+   <stop stop-color="#b01b00" offset="0.990867555141449" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient9" gradientUnits="objectBoundingBox" x1="0.299501899195879" y1="-0.272283010296466" x2="0.576075847282094" y2="1.25922211990533" spreadMethod="pad">
+   <stop stop-color="#b01b00" offset="0.00913241971284151" stop-opacity="1"/>
+   <stop stop-color="#7c0618" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient10" gradientUnits="objectBoundingBox" x1="0.496600577453677" y1="-0.106547717766865" x2="0.425445941427304" y2="1.06779098542917" spreadMethod="pad">
+   <stop stop-color="#ffffff" offset="0.00913241971284151" stop-opacity="1"/>
+   <stop stop-color="#5e5c5c" offset="0.986301362514496" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient11" gradientUnits="objectBoundingBox" x1="0.678883487018079" y1="-0.910568459589959" x2="0.656395103419165" y2="1.30332837859499" spreadMethod="pad">
+   <stop stop-color="#575757" offset="0.00456620985642076" stop-opacity="1"/>
+   <stop stop-color="#ffffff" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient12" gradientUnits="objectBoundingBox" x1="0.414644150716966" y1="-0.219298302842005" x2="0.510773893509508" y2="0.661134666496707" spreadMethod="pad">
+   <stop stop-color="#7c0618" offset="0.00456620985642076" stop-opacity="1"/>
+   <stop stop-color="#b01b00" offset="0.990867555141449" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient13" gradientUnits="objectBoundingBox" x1="0.299501899195879" y1="-0.272283010296466" x2="0.576075847282094" y2="1.25922211990533" spreadMethod="pad">
+   <stop stop-color="#b01b00" offset="0.00913241971284151" stop-opacity="1"/>
+   <stop stop-color="#7c0618" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient14" gradientUnits="objectBoundingBox" x1="0.496600577453677" y1="-0.106547717766865" x2="0.425445941427304" y2="1.06779098542917" spreadMethod="pad">
+   <stop stop-color="#ffffff" offset="0.00913241971284151" stop-opacity="1"/>
+   <stop stop-color="#5e5c5c" offset="0.986301362514496" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient15" gradientUnits="objectBoundingBox" x1="0.678883487018079" y1="-0.910568459589959" x2="0.656395103419165" y2="1.30332837859499" spreadMethod="pad">
+   <stop stop-color="#575757" offset="0.00456620985642076" stop-opacity="1"/>
+   <stop stop-color="#ffffff" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient16" gradientUnits="objectBoundingBox" x1="0.414644150716966" y1="-0.219298302842005" x2="0.510773893509508" y2="0.661134666496707" spreadMethod="pad">
+   <stop stop-color="#7c0618" offset="0.00456620985642076" stop-opacity="1"/>
+   <stop stop-color="#b01b00" offset="0.990867555141449" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient17" gradientUnits="objectBoundingBox" x1="0.299501899195879" y1="-0.272283010296466" x2="0.576075847282094" y2="1.25922211990533" spreadMethod="pad">
+   <stop stop-color="#b01b00" offset="0.00913241971284151" stop-opacity="1"/>
+   <stop stop-color="#7c0618" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient18" gradientUnits="objectBoundingBox" x1="0.496600577453677" y1="-0.106547717766865" x2="0.425445941427304" y2="1.06779098542917" spreadMethod="pad">
+   <stop stop-color="#ffffff" offset="0.00913241971284151" stop-opacity="1"/>
+   <stop stop-color="#5e5c5c" offset="0.986301362514496" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient19" gradientUnits="objectBoundingBox" x1="0.678883487018079" y1="-0.910568459589959" x2="0.656395103419165" y2="1.30332837859499" spreadMethod="pad">
+   <stop stop-color="#575757" offset="0.00456620985642076" stop-opacity="1"/>
+   <stop stop-color="#ffffff" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient20" gradientUnits="objectBoundingBox" x1="0.414644150716966" y1="-0.219298302842005" x2="0.510773893509508" y2="0.661134666496707" spreadMethod="pad">
+   <stop stop-color="#7c0618" offset="0.00456620985642076" stop-opacity="1"/>
+   <stop stop-color="#b01b00" offset="0.990867555141449" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient21" gradientUnits="objectBoundingBox" x1="0.299501899195879" y1="-0.272283010296466" x2="0.576075847282094" y2="1.25922211990533" spreadMethod="pad">
+   <stop stop-color="#b01b00" offset="0.00913241971284151" stop-opacity="1"/>
+   <stop stop-color="#7c0618" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient22" gradientUnits="objectBoundingBox" x1="0.496600577453677" y1="-0.106547717766865" x2="0.425445941427304" y2="1.06779098542917" spreadMethod="pad">
+   <stop stop-color="#ffffff" offset="0.00913241971284151" stop-opacity="1"/>
+   <stop stop-color="#5e5c5c" offset="0.986301362514496" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient23" gradientUnits="objectBoundingBox" x1="0.678883487018079" y1="-0.910568459589959" x2="0.656395103419165" y2="1.30332837859499" spreadMethod="pad">
+   <stop stop-color="#575757" offset="0.00456620985642076" stop-opacity="1"/>
+   <stop stop-color="#ffffff" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient24" gradientUnits="objectBoundingBox" x1="0.414644150716966" y1="-0.219298302842005" x2="0.510773893509508" y2="0.661134666496707" spreadMethod="pad">
+   <stop stop-color="#7c0618" offset="0.00456620985642076" stop-opacity="1"/>
+   <stop stop-color="#b01b00" offset="0.990867555141449" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient25" gradientUnits="objectBoundingBox" x1="0.299501899195879" y1="-0.272283010296466" x2="0.576075847282094" y2="1.25922211990533" spreadMethod="pad">
+   <stop stop-color="#b01b00" offset="0.00913241971284151" stop-opacity="1"/>
+   <stop stop-color="#7c0618" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient26" gradientUnits="objectBoundingBox" x1="0.496600577453677" y1="-0.106547717766865" x2="0.425445941427304" y2="1.06779098542917" spreadMethod="pad">
+   <stop stop-color="#ffffff" offset="0.00913241971284151" stop-opacity="1"/>
+   <stop stop-color="#5e5c5c" offset="0.986301362514496" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient27" gradientUnits="objectBoundingBox" x1="0.678883487018079" y1="-0.910568459589959" x2="0.656395103419165" y2="1.30332837859499" spreadMethod="pad">
+   <stop stop-color="#575757" offset="0.00456620985642076" stop-opacity="1"/>
+   <stop stop-color="#ffffff" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient28" gradientUnits="objectBoundingBox" x1="0.414644150716966" y1="-0.219298302842005" x2="0.510773893509508" y2="0.661134666496707" spreadMethod="pad">
+   <stop stop-color="#7c0618" offset="0.00456620985642076" stop-opacity="1"/>
+   <stop stop-color="#b01b00" offset="0.990867555141449" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient29" gradientUnits="objectBoundingBox" x1="0.299501899195879" y1="-0.272283010296466" x2="0.576075847282094" y2="1.25922211990533" spreadMethod="pad">
+   <stop stop-color="#b01b00" offset="0.00913241971284151" stop-opacity="1"/>
+   <stop stop-color="#7c0618" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient30" gradientUnits="objectBoundingBox" x1="0.496600577453677" y1="-0.106547717766865" x2="0.425445941427304" y2="1.06779098542917" spreadMethod="pad">
+   <stop stop-color="#ffffff" offset="0.00913241971284151" stop-opacity="1"/>
+   <stop stop-color="#5e5c5c" offset="0.986301362514496" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient31" gradientUnits="objectBoundingBox" x1="0.678883487018079" y1="-0.910568459589959" x2="0.656395103419165" y2="1.30332837859499" spreadMethod="pad">
+   <stop stop-color="#575757" offset="0.00456620985642076" stop-opacity="1"/>
+   <stop stop-color="#ffffff" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient32" gradientUnits="objectBoundingBox" x1="0.414644150716966" y1="-0.219298302842005" x2="0.510773893509508" y2="0.661134666496707" spreadMethod="pad">
+   <stop stop-color="#7c0618" offset="0.00456620985642076" stop-opacity="1"/>
+   <stop stop-color="#b01b00" offset="0.990867555141449" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient33" gradientUnits="objectBoundingBox" x1="0.299501899195879" y1="-0.272283010296466" x2="0.576075847282094" y2="1.25922211990533" spreadMethod="pad">
+   <stop stop-color="#b01b00" offset="0.00913241971284151" stop-opacity="1"/>
+   <stop stop-color="#7c0618" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient34" gradientUnits="objectBoundingBox" x1="0.496600577453677" y1="-0.106547717766865" x2="0.425445941427304" y2="1.06779098542917" spreadMethod="pad">
+   <stop stop-color="#ffffff" offset="0.00913241971284151" stop-opacity="1"/>
+   <stop stop-color="#5e5c5c" offset="0.986301362514496" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient35" gradientUnits="objectBoundingBox" x1="0.678883487018079" y1="-0.910568459589959" x2="0.656395103419165" y2="1.30332837859499" spreadMethod="pad">
+   <stop stop-color="#575757" offset="0.00456620985642076" stop-opacity="1"/>
+   <stop stop-color="#ffffff" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient36" gradientUnits="objectBoundingBox" x1="0.414644150716966" y1="-0.219298302842005" x2="0.510773893509508" y2="0.661134666496707" spreadMethod="pad">
+   <stop stop-color="#7c0618" offset="0.00456620985642076" stop-opacity="1"/>
+   <stop stop-color="#b01b00" offset="0.990867555141449" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient37" gradientUnits="objectBoundingBox" x1="0.299501899195879" y1="-0.272283010296466" x2="0.576075847282094" y2="1.25922211990533" spreadMethod="pad">
+   <stop stop-color="#b01b00" offset="0.00913241971284151" stop-opacity="1"/>
+   <stop stop-color="#7c0618" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient38" gradientUnits="objectBoundingBox" x1="0.496600577453677" y1="-0.106547717766865" x2="0.425445941427304" y2="1.06779098542917" spreadMethod="pad">
+   <stop stop-color="#ffffff" offset="0.00913241971284151" stop-opacity="1"/>
+   <stop stop-color="#5e5c5c" offset="0.986301362514496" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient39" gradientUnits="objectBoundingBox" x1="0.678883487018079" y1="-0.910568459589959" x2="0.656395103419165" y2="1.30332837859499" spreadMethod="pad">
+   <stop stop-color="#575757" offset="0.00456620985642076" stop-opacity="1"/>
+   <stop stop-color="#ffffff" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient40" gradientUnits="objectBoundingBox" x1="0.414644150716966" y1="-0.219298302842005" x2="0.510773893509508" y2="0.661134666496707" spreadMethod="pad">
+   <stop stop-color="#7c0618" offset="0.00456620985642076" stop-opacity="1"/>
+   <stop stop-color="#b01b00" offset="0.990867555141449" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient41" gradientUnits="objectBoundingBox" x1="0.299501899195879" y1="-0.272283010296466" x2="0.576075847282094" y2="1.25922211990533" spreadMethod="pad">
+   <stop stop-color="#b01b00" offset="0.00913241971284151" stop-opacity="1"/>
+   <stop stop-color="#7c0618" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient42" gradientUnits="objectBoundingBox" x1="0.496600577453677" y1="-0.106547717766865" x2="0.425445941427304" y2="1.06779098542917" spreadMethod="pad">
+   <stop stop-color="#ffffff" offset="0.00913241971284151" stop-opacity="1"/>
+   <stop stop-color="#5e5c5c" offset="0.986301362514496" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient43" gradientUnits="objectBoundingBox" x1="0.678883487018079" y1="-0.910568459589959" x2="0.656395103419165" y2="1.30332837859499" spreadMethod="pad">
+   <stop stop-color="#575757" offset="0.00456620985642076" stop-opacity="1"/>
+   <stop stop-color="#ffffff" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient44" gradientUnits="objectBoundingBox" x1="0.414644150716966" y1="-0.219298302842005" x2="0.510773893509508" y2="0.661134666496707" spreadMethod="pad">
+   <stop stop-color="#7c0618" offset="0.00456620985642076" stop-opacity="1"/>
+   <stop stop-color="#b01b00" offset="0.990867555141449" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient45" gradientUnits="objectBoundingBox" x1="0.299501899195879" y1="-0.272283010296466" x2="0.576075847282094" y2="1.25922211990533" spreadMethod="pad">
+   <stop stop-color="#b01b00" offset="0.00913241971284151" stop-opacity="1"/>
+   <stop stop-color="#7c0618" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient46" gradientUnits="objectBoundingBox" x1="0.496600577453677" y1="-0.106547717766865" x2="0.425445941427304" y2="1.06779098542917" spreadMethod="pad">
+   <stop stop-color="#ffffff" offset="0.00913241971284151" stop-opacity="1"/>
+   <stop stop-color="#5e5c5c" offset="0.986301362514496" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient47" gradientUnits="objectBoundingBox" x1="0.678883487018079" y1="-0.910568459589959" x2="0.656395103419165" y2="1.30332837859499" spreadMethod="pad">
+   <stop stop-color="#575757" offset="0.00456620985642076" stop-opacity="1"/>
+   <stop stop-color="#ffffff" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient48" gradientUnits="objectBoundingBox" x1="0.414644150716966" y1="-0.219298302842005" x2="0.510773893509508" y2="0.661134666496707" spreadMethod="pad">
+   <stop stop-color="#7c0618" offset="0.00456620985642076" stop-opacity="1"/>
+   <stop stop-color="#b01b00" offset="0.990867555141449" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient49" gradientUnits="objectBoundingBox" x1="0.299501899195879" y1="-0.272283010296466" x2="0.576075847282094" y2="1.25922211990533" spreadMethod="pad">
+   <stop stop-color="#b01b00" offset="0.00913241971284151" stop-opacity="1"/>
+   <stop stop-color="#7c0618" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient50" gradientUnits="objectBoundingBox" x1="0.496600577453677" y1="-0.106547717766865" x2="0.425445941427304" y2="1.06779098542917" spreadMethod="pad">
+   <stop stop-color="#ffffff" offset="0.00913241971284151" stop-opacity="1"/>
+   <stop stop-color="#5e5c5c" offset="0.986301362514496" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient51" gradientUnits="objectBoundingBox" x1="0.678883487018079" y1="-0.910568459589959" x2="0.656395103419165" y2="1.30332837859499" spreadMethod="pad">
+   <stop stop-color="#575757" offset="0.00456620985642076" stop-opacity="1"/>
+   <stop stop-color="#ffffff" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient52" gradientUnits="objectBoundingBox" x1="0.414644150716966" y1="-0.219298302842005" x2="0.510773893509508" y2="0.661134666496707" spreadMethod="pad">
+   <stop stop-color="#7c0618" offset="0.00456620985642076" stop-opacity="1"/>
+   <stop stop-color="#b01b00" offset="0.990867555141449" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient53" gradientUnits="objectBoundingBox" x1="0.299501899195879" y1="-0.272283010296466" x2="0.576075847282094" y2="1.25922211990533" spreadMethod="pad">
+   <stop stop-color="#b01b00" offset="0.00913241971284151" stop-opacity="1"/>
+   <stop stop-color="#7c0618" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient54" gradientUnits="objectBoundingBox" x1="0.496600577453677" y1="-0.106547717766865" x2="0.425445941427304" y2="1.06779098542917" spreadMethod="pad">
+   <stop stop-color="#ffffff" offset="0.00913241971284151" stop-opacity="1"/>
+   <stop stop-color="#5e5c5c" offset="0.986301362514496" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient55" gradientUnits="objectBoundingBox" x1="0.678883487018079" y1="-0.910568459589959" x2="0.656395103419165" y2="1.30332837859499" spreadMethod="pad">
+   <stop stop-color="#575757" offset="0.00456620985642076" stop-opacity="1"/>
+   <stop stop-color="#ffffff" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient56" gradientUnits="objectBoundingBox" x1="0.414644150716966" y1="-0.219298302842005" x2="0.510773893509508" y2="0.661134666496707" spreadMethod="pad">
+   <stop stop-color="#7c0618" offset="0.00456620985642076" stop-opacity="1"/>
+   <stop stop-color="#b01b00" offset="0.990867555141449" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient57" gradientUnits="objectBoundingBox" x1="0.299501899195879" y1="-0.272283010296466" x2="0.576075847282094" y2="1.25922211990533" spreadMethod="pad">
+   <stop stop-color="#b01b00" offset="0.00913241971284151" stop-opacity="1"/>
+   <stop stop-color="#7c0618" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient58" gradientUnits="objectBoundingBox" x1="0.496600577453677" y1="-0.106547717766865" x2="0.425445941427304" y2="1.06779098542917" spreadMethod="pad">
+   <stop stop-color="#ffffff" offset="0.00913241971284151" stop-opacity="1"/>
+   <stop stop-color="#5e5c5c" offset="0.986301362514496" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient59" gradientUnits="objectBoundingBox" x1="0.678883487018079" y1="-0.910568459589959" x2="0.656395103419165" y2="1.30332837859499" spreadMethod="pad">
+   <stop stop-color="#575757" offset="0.00456620985642076" stop-opacity="1"/>
+   <stop stop-color="#ffffff" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient60" gradientUnits="objectBoundingBox" x1="0.414644150716966" y1="-0.219298302842005" x2="0.510773893509508" y2="0.661134666496707" spreadMethod="pad">
+   <stop stop-color="#7c0618" offset="0.00456620985642076" stop-opacity="1"/>
+   <stop stop-color="#b01b00" offset="0.990867555141449" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient61" gradientUnits="objectBoundingBox" x1="0.299501899195879" y1="-0.272283010296466" x2="0.576075847282094" y2="1.25922211990533" spreadMethod="pad">
+   <stop stop-color="#b01b00" offset="0.00913241971284151" stop-opacity="1"/>
+   <stop stop-color="#7c0618" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient62" gradientUnits="objectBoundingBox" x1="0.496600577453677" y1="-0.106547717766865" x2="0.425445941427304" y2="1.06779098542917" spreadMethod="pad">
+   <stop stop-color="#ffffff" offset="0.00913241971284151" stop-opacity="1"/>
+   <stop stop-color="#5e5c5c" offset="0.986301362514496" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient63" gradientUnits="objectBoundingBox" x1="0.678883487018079" y1="-0.910568459589959" x2="0.656395103419165" y2="1.30332837859499" spreadMethod="pad">
+   <stop stop-color="#575757" offset="0.00456620985642076" stop-opacity="1"/>
+   <stop stop-color="#ffffff" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient64" gradientUnits="objectBoundingBox" x1="0.414644150716966" y1="-0.219298302842005" x2="0.510773893509508" y2="0.661134666496707" spreadMethod="pad">
+   <stop stop-color="#7c0618" offset="0.00456620985642076" stop-opacity="1"/>
+   <stop stop-color="#b01b00" offset="0.990867555141449" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient65" gradientUnits="objectBoundingBox" x1="0.299501899195879" y1="-0.272283010296466" x2="0.576075847282094" y2="1.25922211990533" spreadMethod="pad">
+   <stop stop-color="#b01b00" offset="0.00913241971284151" stop-opacity="1"/>
+   <stop stop-color="#7c0618" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient66" gradientUnits="objectBoundingBox" x1="0.496600577453677" y1="-0.106547717766865" x2="0.425445941427304" y2="1.06779098542917" spreadMethod="pad">
+   <stop stop-color="#ffffff" offset="0.00913241971284151" stop-opacity="1"/>
+   <stop stop-color="#5e5c5c" offset="0.986301362514496" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient67" gradientUnits="objectBoundingBox" x1="0.678883487018079" y1="-0.910568459589959" x2="0.656395103419165" y2="1.30332837859499" spreadMethod="pad">
+   <stop stop-color="#575757" offset="0.00456620985642076" stop-opacity="1"/>
+   <stop stop-color="#ffffff" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient68" gradientUnits="objectBoundingBox" x1="0.414644150716966" y1="-0.219298302842005" x2="0.510773893509508" y2="0.661134666496707" spreadMethod="pad">
+   <stop stop-color="#7c0618" offset="0.00456620985642076" stop-opacity="1"/>
+   <stop stop-color="#b01b00" offset="0.990867555141449" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient69" gradientUnits="objectBoundingBox" x1="0.299501899195879" y1="-0.272283010296466" x2="0.576075847282094" y2="1.25922211990533" spreadMethod="pad">
+   <stop stop-color="#b01b00" offset="0.00913241971284151" stop-opacity="1"/>
+   <stop stop-color="#7c0618" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient70" gradientUnits="objectBoundingBox" x1="0.496600577453677" y1="-0.106547717766865" x2="0.425445941427304" y2="1.06779098542917" spreadMethod="pad">
+   <stop stop-color="#ffffff" offset="0.00913241971284151" stop-opacity="1"/>
+   <stop stop-color="#5e5c5c" offset="0.986301362514496" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient71" gradientUnits="objectBoundingBox" x1="0.678883487018079" y1="-0.910568459589959" x2="0.656395103419165" y2="1.30332837859499" spreadMethod="pad">
+   <stop stop-color="#575757" offset="0.00456620985642076" stop-opacity="1"/>
+   <stop stop-color="#ffffff" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient72" gradientUnits="objectBoundingBox" x1="0.414644150716966" y1="-0.219298302842005" x2="0.510773893509508" y2="0.661134666496707" spreadMethod="pad">
+   <stop stop-color="#7c0618" offset="0.00456620985642076" stop-opacity="1"/>
+   <stop stop-color="#b01b00" offset="0.990867555141449" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient73" gradientUnits="objectBoundingBox" x1="0.299501899195879" y1="-0.272283010296466" x2="0.576075847282094" y2="1.25922211990533" spreadMethod="pad">
+   <stop stop-color="#b01b00" offset="0.00913241971284151" stop-opacity="1"/>
+   <stop stop-color="#7c0618" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient74" gradientUnits="objectBoundingBox" x1="0.496600577453677" y1="-0.106547717766865" x2="0.425445941427304" y2="1.06779098542917" spreadMethod="pad">
+   <stop stop-color="#ffffff" offset="0.00913241971284151" stop-opacity="1"/>
+   <stop stop-color="#5e5c5c" offset="0.986301362514496" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient75" gradientUnits="objectBoundingBox" x1="0.678883487018079" y1="-0.910568459589959" x2="0.656395103419165" y2="1.30332837859499" spreadMethod="pad">
+   <stop stop-color="#575757" offset="0.00456620985642076" stop-opacity="1"/>
+   <stop stop-color="#ffffff" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient76" gradientUnits="objectBoundingBox" x1="0.414644150716966" y1="-0.219298302842005" x2="0.510773893509508" y2="0.661134666496707" spreadMethod="pad">
+   <stop stop-color="#7c0618" offset="0.00456620985642076" stop-opacity="1"/>
+   <stop stop-color="#b01b00" offset="0.990867555141449" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient77" gradientUnits="objectBoundingBox" x1="0.299501899195879" y1="-0.272283010296466" x2="0.576075847282094" y2="1.25922211990533" spreadMethod="pad">
+   <stop stop-color="#b01b00" offset="0.00913241971284151" stop-opacity="1"/>
+   <stop stop-color="#7c0618" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient78" gradientUnits="objectBoundingBox" x1="0.496600577453677" y1="-0.106547717766865" x2="0.425445941427304" y2="1.06779098542917" spreadMethod="pad">
+   <stop stop-color="#ffffff" offset="0.00913241971284151" stop-opacity="1"/>
+   <stop stop-color="#5e5c5c" offset="0.986301362514496" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient79" gradientUnits="objectBoundingBox" x1="0.678883487018079" y1="-0.910568459589959" x2="0.656395103419165" y2="1.30332837859499" spreadMethod="pad">
+   <stop stop-color="#575757" offset="0.00456620985642076" stop-opacity="1"/>
+   <stop stop-color="#ffffff" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient80" gradientUnits="objectBoundingBox" x1="0.414644150716966" y1="-0.219298302842005" x2="0.510773893509508" y2="0.661134666496707" spreadMethod="pad">
+   <stop stop-color="#7c0618" offset="0.00456620985642076" stop-opacity="1"/>
+   <stop stop-color="#b01b00" offset="0.990867555141449" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient81" gradientUnits="objectBoundingBox" x1="0.299501899195879" y1="-0.272283010296466" x2="0.576075847282094" y2="1.25922211990533" spreadMethod="pad">
+   <stop stop-color="#b01b00" offset="0.00913241971284151" stop-opacity="1"/>
+   <stop stop-color="#7c0618" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient82" gradientUnits="objectBoundingBox" x1="0.496600577453677" y1="-0.106547717766865" x2="0.425445941427304" y2="1.06779098542917" spreadMethod="pad">
+   <stop stop-color="#ffffff" offset="0.00913241971284151" stop-opacity="1"/>
+   <stop stop-color="#5e5c5c" offset="0.986301362514496" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient83" gradientUnits="objectBoundingBox" x1="0.678883487018079" y1="-0.910568459589959" x2="0.656395103419165" y2="1.30332837859499" spreadMethod="pad">
+   <stop stop-color="#575757" offset="0.00456620985642076" stop-opacity="1"/>
+   <stop stop-color="#ffffff" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient84" gradientUnits="objectBoundingBox" x1="0.414644150716966" y1="-0.219298302842005" x2="0.510773893509508" y2="0.661134666496707" spreadMethod="pad">
+   <stop stop-color="#7c0618" offset="0.00456620985642076" stop-opacity="1"/>
+   <stop stop-color="#b01b00" offset="0.990867555141449" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient85" gradientUnits="objectBoundingBox" x1="0.299501899195879" y1="-0.272283010296466" x2="0.576075847282094" y2="1.25922211990533" spreadMethod="pad">
+   <stop stop-color="#b01b00" offset="0.00913241971284151" stop-opacity="1"/>
+   <stop stop-color="#7c0618" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient86" gradientUnits="objectBoundingBox" x1="0.496600577453677" y1="-0.106547717766865" x2="0.425445941427304" y2="1.06779098542917" spreadMethod="pad">
+   <stop stop-color="#ffffff" offset="0.00913241971284151" stop-opacity="1"/>
+   <stop stop-color="#5e5c5c" offset="0.986301362514496" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient87" gradientUnits="objectBoundingBox" x1="0.678883487018079" y1="-0.910568459589959" x2="0.656395103419165" y2="1.30332837859499" spreadMethod="pad">
+   <stop stop-color="#575757" offset="0.00456620985642076" stop-opacity="1"/>
+   <stop stop-color="#ffffff" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient88" gradientUnits="objectBoundingBox" x1="0.414644150716966" y1="-0.219298302842005" x2="0.510773893509508" y2="0.661134666496707" spreadMethod="pad">
+   <stop stop-color="#7c0618" offset="0.00456620985642076" stop-opacity="1"/>
+   <stop stop-color="#b01b00" offset="0.990867555141449" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient89" gradientUnits="objectBoundingBox" x1="0.299501899195879" y1="-0.272283010296466" x2="0.576075847282094" y2="1.25922211990533" spreadMethod="pad">
+   <stop stop-color="#b01b00" offset="0.00913241971284151" stop-opacity="1"/>
+   <stop stop-color="#7c0618" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient90" gradientUnits="objectBoundingBox" x1="0.496600577453677" y1="-0.106547717766865" x2="0.425445941427304" y2="1.06779098542917" spreadMethod="pad">
+   <stop stop-color="#ffffff" offset="0.00913241971284151" stop-opacity="1"/>
+   <stop stop-color="#5e5c5c" offset="0.986301362514496" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient91" gradientUnits="objectBoundingBox" x1="0.678883487018079" y1="-0.910568459589959" x2="0.656395103419165" y2="1.30332837859499" spreadMethod="pad">
+   <stop stop-color="#575757" offset="0.00456620985642076" stop-opacity="1"/>
+   <stop stop-color="#ffffff" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient92" gradientUnits="objectBoundingBox" x1="0.414644150716966" y1="-0.219298302842005" x2="0.510773893509508" y2="0.661134666496707" spreadMethod="pad">
+   <stop stop-color="#7c0618" offset="0.00456620985642076" stop-opacity="1"/>
+   <stop stop-color="#b01b00" offset="0.990867555141449" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient93" gradientUnits="objectBoundingBox" x1="0.299501899195879" y1="-0.272283010296466" x2="0.576075847282094" y2="1.25922211990533" spreadMethod="pad">
+   <stop stop-color="#b01b00" offset="0.00913241971284151" stop-opacity="1"/>
+   <stop stop-color="#7c0618" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient94" gradientUnits="objectBoundingBox" x1="0.496600577453677" y1="-0.106547717766865" x2="0.425445941427304" y2="1.06779098542917" spreadMethod="pad">
+   <stop stop-color="#ffffff" offset="0.00913241971284151" stop-opacity="1"/>
+   <stop stop-color="#5e5c5c" offset="0.986301362514496" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient95" gradientUnits="objectBoundingBox" x1="0.678883487018079" y1="-0.910568459589959" x2="0.656395103419165" y2="1.30332837859499" spreadMethod="pad">
+   <stop stop-color="#575757" offset="0.00456620985642076" stop-opacity="1"/>
+   <stop stop-color="#ffffff" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient96" gradientUnits="objectBoundingBox" x1="0.414644150716966" y1="-0.219298302842005" x2="0.510773893509508" y2="0.661134666496707" spreadMethod="pad">
+   <stop stop-color="#7c0618" offset="0.00456620985642076" stop-opacity="1"/>
+   <stop stop-color="#b01b00" offset="0.990867555141449" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient97" gradientUnits="objectBoundingBox" x1="0.299501899195879" y1="-0.272283010296466" x2="0.576075847282094" y2="1.25922211990533" spreadMethod="pad">
+   <stop stop-color="#b01b00" offset="0.00913241971284151" stop-opacity="1"/>
+   <stop stop-color="#7c0618" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient98" gradientUnits="objectBoundingBox" x1="0.496600577453677" y1="-0.106547717766865" x2="0.425445941427304" y2="1.06779098542917" spreadMethod="pad">
+   <stop stop-color="#ffffff" offset="0.00913241971284151" stop-opacity="1"/>
+   <stop stop-color="#5e5c5c" offset="0.986301362514496" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient99" gradientUnits="objectBoundingBox" x1="0.678883487018079" y1="-0.910568459589959" x2="0.656395103419165" y2="1.30332837859499" spreadMethod="pad">
+   <stop stop-color="#575757" offset="0.00456620985642076" stop-opacity="1"/>
+   <stop stop-color="#ffffff" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient100" gradientUnits="objectBoundingBox" x1="0.414644150716966" y1="-0.219298302842005" x2="0.510773893509508" y2="0.661134666496707" spreadMethod="pad">
+   <stop stop-color="#7c0618" offset="0.00456620985642076" stop-opacity="1"/>
+   <stop stop-color="#b01b00" offset="0.990867555141449" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient101" gradientUnits="objectBoundingBox" x1="0.299501899195879" y1="-0.272283010296466" x2="0.576075847282094" y2="1.25922211990533" spreadMethod="pad">
+   <stop stop-color="#b01b00" offset="0.00913241971284151" stop-opacity="1"/>
+   <stop stop-color="#7c0618" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient102" gradientUnits="objectBoundingBox" x1="0.496600577453677" y1="-0.106547717766865" x2="0.425445941427304" y2="1.06779098542917" spreadMethod="pad">
+   <stop stop-color="#ffffff" offset="0.00913241971284151" stop-opacity="1"/>
+   <stop stop-color="#5e5c5c" offset="0.986301362514496" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient103" gradientUnits="objectBoundingBox" x1="0.678883487018079" y1="-0.910568459589959" x2="0.656395103419165" y2="1.30332837859499" spreadMethod="pad">
+   <stop stop-color="#575757" offset="0.00456620985642076" stop-opacity="1"/>
+   <stop stop-color="#ffffff" offset="1" stop-opacity="1"/>
+  </linearGradient>
+ </defs>
+<rect id="shape0" transform="translate(-33.12, -28.8)" fill="#36a4fb" fill-rule="evenodd" width="649.44" height="901.44"/><g id="group0" transform="matrix(0.307179217483058 0 0 0.388905754118556 233.609858202284 241.956685221065)" fill="none">
+  <path id="shape01" transform="matrix(-0.982424307840068 -0.18666140298678 0.18666140298678 -0.982424307840068 375.61886657239 287.2185813485)" sodipodi:type="arc" sodipodi:rx="191.16" sodipodi:ry="134.04" sodipodi:cx="191.17862740455" sodipodi:cy="85.6625564496111" sodipodi:start="5.58988112711123" sodipodi:end="3.35716488337814" sodipodi:open="true" d="M4.44319 56.9905C-14.6919 118.264 29.3331 180.649 110.412 207.151C191.49 233.653 287.938 217.184 342.562 167.511C397.186 117.838 395.376 48.2446 338.207 0" fill="url(#gradient0)" fill-rule="evenodd" stroke="url(#gradient1)" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape1" transform="translate(74.5568814716349, 86.1340490074452)" rx="16.68" ry="18.48" cx="16.68" cy="18.48" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape2" transform="translate(210.876881471635, 51.8140490074451)" rx="11.04" ry="16.68" cx="11.04" cy="16.68" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape3" transform="translate(326.316881471635, 156.214049007445)" rx="18" ry="16.2" cx="18" cy="16.2" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape4" transform="translate(179.436881471635, 176.374049007445)" rx="15.72" ry="10.68" cx="15.72" cy="10.68" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape5" transform="translate(45.0368814716348, 189.334049007445)" rx="10.68" ry="9" cx="10.68" cy="9" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape6" transform="translate(140.796881471635, 76.7740490074452)" rx="24.6" ry="25.56" cx="24.6" cy="25.56" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape7" transform="translate(107.676881471635, 168.934049007445)" rx="8.16000000000001" ry="6.48000000000002" cx="8.16000000000001" cy="6.48000000000002" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape8" transform="translate(296.556881471635, 84.9340490074453)" rx="7.44" ry="8.28" cx="7.44" cy="8.28" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape9" transform="translate(264.636881471635, 187.654049007445)" rx="12.84" ry="19.56" cx="12.84" cy="19.56" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <path id="shape10" transform="translate(94.4026578801853, 290.307590642919)" fill="url(#gradient2)" fill-rule="evenodd" stroke="#ffffff" stroke-width="0.24" stroke-linecap="square" stroke-linejoin="bevel" d="M61.4459 18.6956C60.7298 18.6956 57.299 37.476 56.2206 40.5726C48.0521 64.0277 38.6187 88.3109 27.3439 110.493C-13.8213 191.483 -22.481 296.769 102.332 292.685C121.52 292.057 142.366 294.335 160.818 287.967C288.245 243.988 220.437 154.485 179.244 75.6305C168.97 55.9622 173.059 28.9474 160.452 11.3253C150.654 -2.36857 98.5975 -1.31125 84.3639 2.47304C78.8904 3.92827 69.7736 6.55832 65.3878 9.10245C62.5695 10.7373 56.9695 19.0348 58.8791 16.3948C60.3797 14.3201 61.7232 12.5494 63.1877 10.2723" sodipodi:nodetypes="ccccccccccc"/>
+  <path id="shape11" transform="translate(105.612342081546, 226.774049007445)" fill="url(#gradient3)" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" d="M39.6939 0L0 108.981L52.253 96.1899L105.265 133.705L150.342 95.5269L217.171 131.911L145.3 0L39.6939 0" sodipodi:nodetypes="cccccccc"/>
+ </g><g id="group01" transform="matrix(-0.235620595973171 -0.197083754801742 0.249518853891589 -0.298308610568239 466.345943033173 268.876503612954)" fill="none">
+  <path id="shape011" transform="matrix(-0.982424307840068 -0.18666140298678 0.18666140298678 -0.982424307840068 375.61886657239 287.2185813485)" sodipodi:type="arc" sodipodi:rx="191.16" sodipodi:ry="134.04" sodipodi:cx="191.17862740455" sodipodi:cy="85.6625564496111" sodipodi:start="5.58988112711123" sodipodi:end="3.35716488337814" sodipodi:open="true" d="M4.44319 56.9905C-14.6919 118.264 29.3331 180.649 110.412 207.151C191.49 233.653 287.938 217.184 342.562 167.511C397.186 117.838 395.376 48.2446 338.207 0" fill="url(#gradient4)" fill-rule="evenodd" stroke="url(#gradient5)" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape12" transform="translate(74.5568814716345, 86.1340490074452)" rx="16.68" ry="18.48" cx="16.68" cy="18.48" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape21" transform="translate(210.876881471635, 51.8140490074452)" rx="11.04" ry="16.68" cx="11.04" cy="16.68" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape31" transform="translate(326.316881471635, 156.214049007445)" rx="18" ry="16.2" cx="18" cy="16.2" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape41" transform="translate(179.436881471635, 176.374049007445)" rx="15.72" ry="10.68" cx="15.72" cy="10.68" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape51" transform="translate(45.0368814716344, 189.334049007445)" rx="10.68" ry="9" cx="10.68" cy="9" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape61" transform="translate(140.796881471635, 76.7740490074452)" rx="24.6" ry="25.56" cx="24.6" cy="25.56" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape71" transform="translate(107.676881471635, 168.934049007445)" rx="8.16000000000001" ry="6.48000000000002" cx="8.16000000000001" cy="6.48000000000002" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape81" transform="translate(296.556881471635, 84.9340490074454)" rx="7.44" ry="8.28" cx="7.44" cy="8.28" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape91" transform="translate(264.636881471635, 187.654049007445)" rx="12.84" ry="19.56" cx="12.84" cy="19.56" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <path id="shape101" transform="translate(94.4026613918551, 290.307594664827)" fill="url(#gradient6)" fill-rule="evenodd" stroke="#ffffff" stroke-width="0.24" stroke-linecap="square" stroke-linejoin="bevel" d="M61.4459 18.6956C60.7298 18.6956 57.299 37.476 56.2206 40.5726C48.0521 64.0277 38.6187 88.3109 27.3439 110.493C-13.8213 191.483 -22.481 296.769 102.332 292.685C121.52 292.057 142.366 294.335 160.818 287.967C288.245 243.988 220.437 154.485 179.244 75.6305C168.97 55.9622 173.059 28.9474 160.452 11.3253C150.654 -2.36857 98.5975 -1.31125 84.3639 2.47304C78.8904 3.92827 69.7736 6.55832 65.3878 9.10245C62.5695 10.7373 56.9695 19.0348 58.8791 16.3948C60.3797 14.3201 61.7232 12.5494 63.1877 10.2723" sodipodi:nodetypes="ccccccccccc"/>
+  <path id="shape111" transform="translate(105.612342081546, 226.774049007445)" fill="url(#gradient7)" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" d="M39.6939 0L0 108.981L52.253 96.1899L105.265 133.705L150.342 95.5269L217.171 131.911L145.3 0L39.6939 0" sodipodi:nodetypes="cccccccc"/>
+ </g><g id="group02" transform="matrix(0.270360676265142 -0.14582241385658 0.184619181899599 0.342291459521335 22.6186773827018 11.5298661561797)" fill="none">
+  <path id="shape02" transform="matrix(-0.982424307840068 -0.18666140298678 0.18666140298678 -0.982424307840068 375.61886657239 287.2185813485)" sodipodi:type="arc" sodipodi:rx="191.16" sodipodi:ry="134.04" sodipodi:cx="191.17862740455" sodipodi:cy="85.6625564496111" sodipodi:start="5.58988112711123" sodipodi:end="3.35716488337814" sodipodi:open="true" d="M4.44319 56.9905C-14.6919 118.264 29.3331 180.649 110.412 207.151C191.49 233.653 287.938 217.184 342.562 167.511C397.186 117.838 395.376 48.2446 338.207 0" fill="url(#gradient8)" fill-rule="evenodd" stroke="url(#gradient9)" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape13" transform="translate(74.5568814716349, 86.1340490074452)" rx="16.68" ry="18.48" cx="16.68" cy="18.48" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape22" transform="translate(210.876881471635, 51.8140490074452)" rx="11.04" ry="16.68" cx="11.04" cy="16.68" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape32" transform="translate(326.316881471635, 156.214049007445)" rx="18" ry="16.2" cx="18" cy="16.2" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape42" transform="translate(179.436881471635, 176.374049007445)" rx="15.72" ry="10.68" cx="15.72" cy="10.68" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape52" transform="translate(45.0368814716349, 189.334049007445)" rx="10.68" ry="9" cx="10.68" cy="9" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape62" transform="translate(140.796881471635, 76.7740490074452)" rx="24.6" ry="25.56" cx="24.6" cy="25.56" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape72" transform="translate(107.676881471635, 168.934049007445)" rx="8.16000000000001" ry="6.48000000000002" cx="8.16000000000001" cy="6.48000000000002" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape82" transform="translate(296.556881471635, 84.9340490074453)" rx="7.44" ry="8.28" cx="7.44" cy="8.28" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape92" transform="translate(264.636881471635, 187.654049007445)" rx="12.84" ry="19.56" cx="12.84" cy="19.56" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <path id="shape102" transform="translate(94.4026613918554, 290.307594664827)" fill="url(#gradient10)" fill-rule="evenodd" stroke="#ffffff" stroke-width="0.24" stroke-linecap="square" stroke-linejoin="bevel" d="M61.4459 18.6956C60.7298 18.6956 57.299 37.476 56.2206 40.5726C48.0521 64.0277 38.6187 88.3109 27.3439 110.493C-13.8213 191.483 -22.481 296.769 102.332 292.685C121.52 292.057 142.366 294.335 160.818 287.967C288.245 243.988 220.437 154.485 179.244 75.6305C168.97 55.9622 173.059 28.9474 160.452 11.3253C150.654 -2.36857 98.5975 -1.31125 84.3639 2.47304C78.8904 3.92827 69.7736 6.55832 65.3878 9.10245C62.5695 10.7373 56.9695 19.0348 58.8791 16.3948C60.3797 14.3201 61.7232 12.5494 63.1877 10.2723" sodipodi:nodetypes="ccccccccccc"/>
+  <path id="shape112" transform="translate(105.612342081546, 226.774049007445)" fill="url(#gradient11)" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" d="M39.6939 0L0 108.981L52.253 96.1899L105.265 133.705L150.342 95.5269L217.171 131.911L145.3 0L39.6939 0" sodipodi:nodetypes="cccccccc"/>
+ </g><g id="group03" transform="matrix(0.233282547365616 0.0611934125397199 -0.0727968632880031 0.277517415735377 461.376338875196 295.04735219288)" fill="none">
+  <path id="shape03" transform="matrix(-0.982424307840068 -0.18666140298678 0.18666140298678 -0.982424307840068 375.61886657239 287.2185813485)" sodipodi:type="arc" sodipodi:rx="191.16" sodipodi:ry="134.04" sodipodi:cx="191.17862740455" sodipodi:cy="85.6625564496111" sodipodi:start="5.58988112711123" sodipodi:end="3.35716488337814" sodipodi:open="true" d="M4.44319 56.9905C-14.6919 118.264 29.3331 180.649 110.412 207.151C191.49 233.653 287.938 217.184 342.562 167.511C397.186 117.838 395.376 48.2446 338.207 0" fill="url(#gradient12)" fill-rule="evenodd" stroke="url(#gradient13)" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape14" transform="translate(74.5568814716356, 86.1340490074453)" rx="16.68" ry="18.48" cx="16.68" cy="18.48" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape23" transform="translate(210.876881471635, 51.8140490074453)" rx="11.04" ry="16.68" cx="11.04" cy="16.68" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape33" transform="translate(326.316881471635, 156.214049007445)" rx="18" ry="16.2" cx="18" cy="16.2" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape43" transform="translate(179.436881471635, 176.374049007445)" rx="15.72" ry="10.68" cx="15.72" cy="10.68" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape53" transform="translate(45.0368814716352, 189.334049007445)" rx="10.68" ry="9" cx="10.68" cy="9" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape63" transform="translate(140.796881471635, 76.774049007445)" rx="24.6" ry="25.56" cx="24.6" cy="25.56" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape73" transform="translate(107.676881471635, 168.934049007445)" rx="8.16000000000001" ry="6.48000000000002" cx="8.16000000000001" cy="6.48000000000002" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape83" transform="translate(296.556881471635, 84.9340490074453)" rx="7.44" ry="8.28" cx="7.44" cy="8.28" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape93" transform="translate(264.636881471635, 187.654049007445)" rx="12.84" ry="19.56" cx="12.84" cy="19.56" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <path id="shape103" transform="translate(94.4026613918554, 290.307594664827)" fill="url(#gradient14)" fill-rule="evenodd" stroke="#ffffff" stroke-width="0.24" stroke-linecap="square" stroke-linejoin="bevel" d="M61.4459 18.6956C60.7298 18.6956 57.299 37.476 56.2206 40.5726C48.0521 64.0277 38.6187 88.3109 27.3439 110.493C-13.8213 191.483 -22.481 296.769 102.332 292.685C121.52 292.057 142.366 294.335 160.818 287.967C288.245 243.988 220.437 154.485 179.244 75.6305C168.97 55.9622 173.059 28.9474 160.452 11.3253C150.654 -2.36857 98.5975 -1.31125 84.3639 2.47304C78.8904 3.92827 69.7736 6.55832 65.3878 9.10245C62.5695 10.7373 56.9695 19.0348 58.8791 16.3948C60.3797 14.3201 61.7232 12.5494 63.1877 10.2723" sodipodi:nodetypes="ccccccccccc"/>
+  <path id="shape113" transform="translate(105.612342081546, 226.774049007445)" fill="url(#gradient15)" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" d="M39.6939 0L0 108.981L52.253 96.1899L105.265 133.705L150.342 95.5269L217.171 131.911L145.3 0L39.6939 0" sodipodi:nodetypes="cccccccc"/>
+ </g><g id="group04" transform="matrix(0.296839724794858 -0.0790268905956549 0.100052382236578 0.375815388715403 68.5266599031178 605.117180543274)" fill="none">
+  <path id="shape04" transform="matrix(-0.982424307840068 -0.18666140298678 0.18666140298678 -0.982424307840068 375.61886657239 287.2185813485)" sodipodi:type="arc" sodipodi:rx="191.16" sodipodi:ry="134.04" sodipodi:cx="191.17862740455" sodipodi:cy="85.6625564496111" sodipodi:start="5.58988112711123" sodipodi:end="3.35716488337814" sodipodi:open="true" d="M4.44319 56.9905C-14.6919 118.264 29.3331 180.649 110.412 207.151C191.49 233.653 287.938 217.184 342.562 167.511C397.186 117.838 395.376 48.2446 338.207 0" fill="url(#gradient16)" fill-rule="evenodd" stroke="url(#gradient17)" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape15" transform="translate(74.5568814716349, 86.1340490074451)" rx="16.68" ry="18.48" cx="16.68" cy="18.48" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape24" transform="translate(210.876881471635, 51.8140490074456)" rx="11.04" ry="16.68" cx="11.04" cy="16.68" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape34" transform="translate(326.316881471635, 156.214049007445)" rx="18" ry="16.2" cx="18" cy="16.2" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape44" transform="translate(179.436881471635, 176.374049007445)" rx="15.72" ry="10.68" cx="15.72" cy="10.68" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape54" transform="translate(45.0368814716351, 189.334049007445)" rx="10.68" ry="9" cx="10.68" cy="9" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape64" transform="translate(140.796881471635, 76.7740490074458)" rx="24.6" ry="25.56" cx="24.6" cy="25.56" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape74" transform="translate(107.676881471635, 168.934049007445)" rx="8.16000000000001" ry="6.48000000000002" cx="8.16000000000001" cy="6.48000000000002" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape84" transform="translate(296.556881471635, 84.9340490074454)" rx="7.44" ry="8.28" cx="7.44" cy="8.28" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape94" transform="translate(264.636881471635, 187.654049007445)" rx="12.84" ry="19.56" cx="12.84" cy="19.56" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <path id="shape104" transform="translate(94.4026613918553, 290.307594664827)" fill="url(#gradient18)" fill-rule="evenodd" stroke="#ffffff" stroke-width="0.24" stroke-linecap="square" stroke-linejoin="bevel" d="M61.4459 18.6956C60.7298 18.6956 57.299 37.476 56.2206 40.5726C48.0521 64.0277 38.6187 88.3109 27.3439 110.493C-13.8213 191.483 -22.481 296.769 102.332 292.685C121.52 292.057 142.366 294.335 160.818 287.967C288.245 243.988 220.437 154.485 179.244 75.6305C168.97 55.9622 173.059 28.9474 160.452 11.3253C150.654 -2.36857 98.5975 -1.31125 84.3639 2.47304C78.8904 3.92827 69.7736 6.55832 65.3878 9.10245C62.5695 10.7373 56.9695 19.0348 58.8791 16.3948C60.3797 14.3201 61.7232 12.5494 63.1877 10.2723" sodipodi:nodetypes="ccccccccccc"/>
+  <path id="shape114" transform="translate(105.612342081546, 226.774049007445)" fill="url(#gradient19)" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" d="M39.6939 0L0 108.981L52.253 96.1899L105.265 133.705L150.342 95.5269L217.171 131.911L145.3 0L39.6939 0" sodipodi:nodetypes="cccccccc"/>
+ </g><g id="group05" transform="matrix(0.178045563805792 0.0691502367262441 -0.0883707074862637 0.227533746566874 57.8921537832873 109.930238228955)" fill="none">
+  <path id="shape05" transform="matrix(-0.982424307840068 -0.18666140298678 0.18666140298678 -0.982424307840068 375.61886657239 287.2185813485)" sodipodi:type="arc" sodipodi:rx="191.16" sodipodi:ry="134.04" sodipodi:cx="191.17862740455" sodipodi:cy="85.6625564496111" sodipodi:start="5.58988112711123" sodipodi:end="3.35716488337814" sodipodi:open="true" d="M4.44319 56.9905C-14.6919 118.264 29.3331 180.649 110.412 207.151C191.49 233.653 287.938 217.184 342.562 167.511C397.186 117.838 395.376 48.2446 338.207 0" fill="url(#gradient20)" fill-rule="evenodd" stroke="url(#gradient21)" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape16" transform="translate(74.5568814716347, 86.134049007445)" rx="16.68" ry="18.48" cx="16.68" cy="18.48" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape25" transform="translate(210.876881471635, 51.8140490074452)" rx="11.04" ry="16.68" cx="11.04" cy="16.68" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape35" transform="translate(326.316881471635, 156.214049007445)" rx="18" ry="16.2" cx="18" cy="16.2" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape45" transform="translate(179.436881471635, 176.374049007445)" rx="15.72" ry="10.68" cx="15.72" cy="10.68" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape55" transform="translate(45.036881471635, 189.334049007445)" rx="10.68" ry="9" cx="10.68" cy="9" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape65" transform="translate(140.796881471635, 76.7740490074451)" rx="24.6" ry="25.56" cx="24.6" cy="25.56" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape75" transform="translate(107.676881471635, 168.934049007445)" rx="8.16000000000001" ry="6.48000000000002" cx="8.16000000000001" cy="6.48000000000002" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape85" transform="translate(296.556881471635, 84.9340490074451)" rx="7.44" ry="8.28" cx="7.44" cy="8.28" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape95" transform="translate(264.636881471635, 187.654049007445)" rx="12.84" ry="19.56" cx="12.84" cy="19.56" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <path id="shape105" transform="translate(94.4026613918554, 290.307594664827)" fill="url(#gradient22)" fill-rule="evenodd" stroke="#ffffff" stroke-width="0.24" stroke-linecap="square" stroke-linejoin="bevel" d="M61.4459 18.6956C60.7298 18.6956 57.299 37.476 56.2206 40.5726C48.0521 64.0277 38.6187 88.3109 27.3439 110.493C-13.8213 191.483 -22.481 296.769 102.332 292.685C121.52 292.057 142.366 294.335 160.818 287.967C288.245 243.988 220.437 154.485 179.244 75.6305C168.97 55.9622 173.059 28.9474 160.452 11.3253C150.654 -2.36857 98.5975 -1.31125 84.3639 2.47304C78.8904 3.92827 69.7736 6.55832 65.3878 9.10245C62.5695 10.7373 56.9695 19.0348 58.8791 16.3948C60.3797 14.3201 61.7232 12.5494 63.1877 10.2723" sodipodi:nodetypes="ccccccccccc"/>
+  <path id="shape115" transform="translate(105.612342081546, 226.774049007445)" fill="url(#gradient23)" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" d="M39.6939 0L0 108.981L52.253 96.1899L105.265 133.705L150.342 95.5269L217.171 131.911L145.3 0L39.6939 0" sodipodi:nodetypes="cccccccc"/>
+ </g><g id="group06" transform="matrix(0.18430280816787 0.0501443210309515 -0.064082052870858 0.235530206700197 366.342313303616 -7.97903090828654)" fill="none">
+  <path id="shape06" transform="matrix(-0.982424307840068 -0.18666140298678 0.18666140298678 -0.982424307840068 375.61886657239 287.2185813485)" sodipodi:type="arc" sodipodi:rx="191.16" sodipodi:ry="134.04" sodipodi:cx="191.17862740455" sodipodi:cy="85.6625564496111" sodipodi:start="5.58988112711123" sodipodi:end="3.35716488337814" sodipodi:open="true" d="M4.44319 56.9905C-14.6919 118.264 29.3331 180.649 110.412 207.151C191.49 233.653 287.938 217.184 342.562 167.511C397.186 117.838 395.376 48.2446 338.207 0" fill="url(#gradient24)" fill-rule="evenodd" stroke="url(#gradient25)" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape17" transform="translate(74.5568814716357, 86.1340490074453)" rx="16.68" ry="18.48" cx="16.68" cy="18.48" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape26" transform="translate(210.876881471635, 51.8140490074452)" rx="11.04" ry="16.68" cx="11.04" cy="16.68" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape36" transform="translate(326.316881471636, 156.214049007445)" rx="18" ry="16.2" cx="18" cy="16.2" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape46" transform="translate(179.436881471635, 176.374049007445)" rx="15.72" ry="10.68" cx="15.72" cy="10.68" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape56" transform="translate(45.0368814716352, 189.334049007445)" rx="10.68" ry="9" cx="10.68" cy="9" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape66" transform="translate(140.796881471635, 76.774049007445)" rx="24.6" ry="25.56" cx="24.6" cy="25.56" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape76" transform="translate(107.676881471635, 168.934049007445)" rx="8.16000000000001" ry="6.48000000000002" cx="8.16000000000001" cy="6.48000000000002" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape86" transform="translate(296.556881471636, 84.9340490074453)" rx="7.44" ry="8.28" cx="7.44" cy="8.28" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape96" transform="translate(264.636881471635, 187.654049007445)" rx="12.84" ry="19.56" cx="12.84" cy="19.56" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <path id="shape106" transform="translate(94.4026649035261, 290.307598686735)" fill="url(#gradient26)" fill-rule="evenodd" stroke="#ffffff" stroke-width="0.24" stroke-linecap="square" stroke-linejoin="bevel" d="M61.4459 18.6956C60.7298 18.6956 57.299 37.476 56.2206 40.5726C48.0521 64.0277 38.6187 88.3109 27.3439 110.493C-13.8213 191.483 -22.481 296.769 102.332 292.685C121.52 292.057 142.366 294.335 160.818 287.967C288.245 243.988 220.437 154.485 179.244 75.6305C168.97 55.9622 173.059 28.9474 160.452 11.3253C150.654 -2.36857 98.5975 -1.31125 84.3639 2.47304C78.8904 3.92827 69.7736 6.55832 65.3878 9.10245C62.5695 10.7373 56.9695 19.0348 58.8791 16.3948C60.3797 14.3201 61.7232 12.5494 63.1877 10.2723" sodipodi:nodetypes="ccccccccccc"/>
+  <path id="shape116" transform="translate(105.612342081546, 226.774049007445)" fill="url(#gradient27)" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" d="M39.6939 0L0 108.981L52.253 96.1899L105.265 133.705L150.342 95.5269L217.171 131.911L145.3 0L39.6939 0" sodipodi:nodetypes="cccccccc"/>
+ </g><g id="group07" transform="matrix(0.179968926287259 0.0639778367970406 -0.0817606268446723 0.229991712168824 57.9647972977522 683.020188301563)" fill="none">
+  <path id="shape07" transform="matrix(-0.982424307840068 -0.18666140298678 0.18666140298678 -0.982424307840068 375.61886657239 287.2185813485)" sodipodi:type="arc" sodipodi:rx="191.16" sodipodi:ry="134.04" sodipodi:cx="191.17862740455" sodipodi:cy="85.6625564496111" sodipodi:start="5.58988112711123" sodipodi:end="3.35716488337814" sodipodi:open="true" d="M4.44319 56.9905C-14.6919 118.264 29.3331 180.649 110.412 207.151C191.49 233.653 287.938 217.184 342.562 167.511C397.186 117.838 395.376 48.2446 338.207 0" fill="url(#gradient28)" fill-rule="evenodd" stroke="url(#gradient29)" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape18" transform="translate(74.5568814716351, 86.1340490074448)" rx="16.68" ry="18.48" cx="16.68" cy="18.48" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape27" transform="translate(210.876881471635, 51.8140490074451)" rx="11.04" ry="16.68" cx="11.04" cy="16.68" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape37" transform="translate(326.316881471635, 156.214049007445)" rx="18" ry="16.2" cx="18" cy="16.2" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape47" transform="translate(179.436881471635, 176.374049007445)" rx="15.72" ry="10.68" cx="15.72" cy="10.68" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape57" transform="translate(45.0368814716354, 189.334049007445)" rx="10.68" ry="9" cx="10.68" cy="9" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape67" transform="translate(140.796881471635, 76.7740490074452)" rx="24.6" ry="25.56" cx="24.6" cy="25.56" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape77" transform="translate(107.676881471635, 168.934049007445)" rx="8.16000000000001" ry="6.48000000000002" cx="8.16000000000001" cy="6.48000000000002" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape87" transform="translate(296.556881471635, 84.9340490074454)" rx="7.44" ry="8.28" cx="7.44" cy="8.28" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape97" transform="translate(264.636881471635, 187.654049007445)" rx="12.84" ry="19.56" cx="12.84" cy="19.56" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <path id="shape107" transform="translate(94.4026649035259, 290.307598686735)" fill="url(#gradient30)" fill-rule="evenodd" stroke="#ffffff" stroke-width="0.24" stroke-linecap="square" stroke-linejoin="bevel" d="M61.4459 18.6956C60.7298 18.6956 57.299 37.476 56.2206 40.5726C48.0521 64.0277 38.6187 88.3109 27.3439 110.493C-13.8213 191.483 -22.481 296.769 102.332 292.685C121.52 292.057 142.366 294.335 160.818 287.967C288.245 243.988 220.437 154.485 179.244 75.6305C168.97 55.9622 173.059 28.9474 160.452 11.3253C150.654 -2.36857 98.5975 -1.31125 84.3639 2.47304C78.8904 3.92827 69.7736 6.55832 65.3878 9.10245C62.5695 10.7373 56.9695 19.0348 58.8791 16.3948C60.3797 14.3201 61.7232 12.5494 63.1877 10.2723" sodipodi:nodetypes="ccccccccccc"/>
+  <path id="shape117" transform="translate(105.612342081546, 226.774049007445)" fill="url(#gradient31)" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" d="M39.6939 0L0 108.981L52.253 96.1899L105.265 133.705L150.342 95.5269L217.171 131.911L145.3 0L39.6939 0" sodipodi:nodetypes="cccccccc"/>
+ </g><g id="group08" transform="matrix(0.0277396463781674 -0.188977485561196 0.241504221657712 0.0354499462606623 265.76776370195 710.463396104913)" fill="none">
+  <path id="shape08" transform="matrix(-0.982424307840068 -0.18666140298678 0.18666140298678 -0.982424307840068 375.618866572391 287.2185813485)" sodipodi:type="arc" sodipodi:rx="191.16" sodipodi:ry="134.04" sodipodi:cx="191.17862740455" sodipodi:cy="85.6625564496111" sodipodi:start="5.58988112711123" sodipodi:end="3.35716488337814" sodipodi:open="true" d="M4.44319 56.9905C-14.6919 118.264 29.3331 180.649 110.412 207.151C191.49 233.653 287.938 217.184 342.562 167.511C397.186 117.838 395.376 48.2446 338.207 0" fill="url(#gradient32)" fill-rule="evenodd" stroke="url(#gradient33)" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape19" transform="translate(74.5568814716352, 86.1340490074447)" rx="16.68" ry="18.48" cx="16.68" cy="18.48" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape28" transform="translate(210.876881471635, 51.814049007445)" rx="11.04" ry="16.68" cx="11.04" cy="16.68" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape38" transform="translate(326.316881471635, 156.214049007445)" rx="18" ry="16.2" cx="18" cy="16.2" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape48" transform="translate(179.436881471635, 176.374049007445)" rx="15.72" ry="10.68" cx="15.72" cy="10.68" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape58" transform="translate(45.0368814716347, 189.334049007445)" rx="10.68" ry="9" cx="10.68" cy="9" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape68" transform="translate(140.796881471635, 76.7740490074452)" rx="24.6" ry="25.56" cx="24.6" cy="25.56" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape78" transform="translate(107.676881471635, 168.934049007445)" rx="8.16000000000001" ry="6.48000000000002" cx="8.16000000000001" cy="6.48000000000002" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape88" transform="translate(296.556881471635, 84.9340490074455)" rx="7.44" ry="8.28" cx="7.44" cy="8.28" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape98" transform="translate(264.636881471636, 187.654049007445)" rx="12.84" ry="19.56" cx="12.84" cy="19.56" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <path id="shape108" transform="translate(94.4026649035268, 290.307598686735)" fill="url(#gradient34)" fill-rule="evenodd" stroke="#ffffff" stroke-width="0.24" stroke-linecap="square" stroke-linejoin="bevel" d="M61.4459 18.6956C60.7298 18.6956 57.299 37.476 56.2206 40.5726C48.0521 64.0277 38.6187 88.3109 27.3439 110.493C-13.8213 191.483 -22.481 296.769 102.332 292.685C121.52 292.057 142.366 294.335 160.818 287.967C288.245 243.988 220.437 154.485 179.244 75.6305C168.97 55.9622 173.059 28.9474 160.452 11.3253C150.654 -2.36857 98.5975 -1.31125 84.3639 2.47304C78.8904 3.92827 69.7736 6.55832 65.3878 9.10245C62.5695 10.7373 56.9695 19.0348 58.8791 16.3948C60.3797 14.3201 61.7232 12.5494 63.1877 10.2723" sodipodi:nodetypes="ccccccccccc"/>
+  <path id="shape118" transform="translate(105.612342081546, 226.774049007445)" fill="url(#gradient35)" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" d="M39.6939 0L0 108.981L52.253 96.1899L105.265 133.705L150.342 95.5269L217.171 131.911L145.3 0L39.6939 0" sodipodi:nodetypes="cccccccc"/>
+ </g><g id="group09" transform="matrix(-0.0807545895851407 -0.0707294213133394 0.097012795645045 -0.110763361997778 59.1385029037729 536.007991505254)" fill="none">
+  <path id="shape09" transform="matrix(-0.982424307840068 -0.18666140298678 0.18666140298678 -0.982424307840068 375.61886657239 287.2185813485)" sodipodi:type="arc" sodipodi:rx="191.16" sodipodi:ry="134.04" sodipodi:cx="191.17862740455" sodipodi:cy="85.6625564496111" sodipodi:start="5.58988112711123" sodipodi:end="3.35716488337814" sodipodi:open="true" d="M4.44319 56.9905C-14.6919 118.264 29.3331 180.649 110.412 207.151C191.49 233.653 287.938 217.184 342.562 167.511C397.186 117.838 395.376 48.2446 338.207 0" fill="url(#gradient36)" fill-rule="evenodd" stroke="url(#gradient37)" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape110" transform="translate(74.5568814716339, 86.134049007444)" rx="16.68" ry="18.48" cx="16.68" cy="18.48" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape29" transform="translate(210.876881471634, 51.8140490074448)" rx="11.04" ry="16.68" cx="11.04" cy="16.68" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape39" transform="translate(326.316881471634, 156.214049007445)" rx="18" ry="16.2" cx="18" cy="16.2" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape49" transform="translate(179.436881471635, 176.374049007445)" rx="15.72" ry="10.68" cx="15.72" cy="10.68" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape59" transform="translate(45.0368814716348, 189.334049007445)" rx="10.68" ry="9" cx="10.68" cy="9" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape69" transform="translate(140.796881471635, 76.7740490074448)" rx="24.6" ry="25.56" cx="24.6" cy="25.56" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape79" transform="translate(107.676881471635, 168.934049007445)" rx="8.16000000000001" ry="6.48000000000002" cx="8.16000000000001" cy="6.48000000000002" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape89" transform="translate(296.556881471634, 84.9340490074451)" rx="7.44" ry="8.28" cx="7.44" cy="8.28" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape99" transform="translate(264.636881471635, 187.654049007445)" rx="12.84" ry="19.56" cx="12.84" cy="19.56" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <path id="shape109" transform="translate(94.4026649035254, 290.307598686733)" fill="url(#gradient38)" fill-rule="evenodd" stroke="#ffffff" stroke-width="0.24" stroke-linecap="square" stroke-linejoin="bevel" d="M61.4459 18.6956C60.7298 18.6956 57.299 37.476 56.2206 40.5726C48.0521 64.0277 38.6187 88.3109 27.3439 110.493C-13.8213 191.483 -22.481 296.769 102.332 292.685C121.52 292.057 142.366 294.335 160.818 287.967C288.245 243.988 220.437 154.485 179.244 75.6305C168.97 55.9622 173.059 28.9474 160.452 11.3253C150.654 -2.36857 98.5975 -1.31125 84.3639 2.47304C78.8904 3.92827 69.7736 6.55832 65.3878 9.10245C62.5695 10.7373 56.9695 19.0348 58.8791 16.3948C60.3797 14.3201 61.7232 12.5494 63.1877 10.2723" sodipodi:nodetypes="ccccccccccc"/>
+  <path id="shape119" transform="translate(105.612342081546, 226.774049007445)" fill="url(#gradient39)" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" d="M39.6939 0L0 108.981L52.253 96.1899L105.265 133.705L150.342 95.5269L217.171 131.911L145.3 0L39.6939 0" sodipodi:nodetypes="cccccccc"/>
+ </g><g id="group010" transform="matrix(-0.153583329473154 -0.113552362098543 0.1451145079244 -0.196272176729766 513.336608391821 848.804956736781)" fill="none">
+  <path id="shape010" transform="matrix(-0.982424307840068 -0.18666140298678 0.18666140298678 -0.982424307840068 375.61886657239 287.2185813485)" sodipodi:type="arc" sodipodi:rx="191.16" sodipodi:ry="134.04" sodipodi:cx="191.17862740455" sodipodi:cy="85.6625564496111" sodipodi:start="5.58988112711123" sodipodi:end="3.35716488337814" sodipodi:open="true" d="M4.44319 56.9905C-14.6919 118.264 29.3331 180.649 110.412 207.151C191.49 233.653 287.938 217.184 342.562 167.511C397.186 117.838 395.376 48.2446 338.207 0" fill="url(#gradient40)" fill-rule="evenodd" stroke="url(#gradient41)" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape120" transform="translate(74.5568814716344, 86.1340490074459)" rx="16.68" ry="18.48" cx="16.68" cy="18.48" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape210" transform="translate(210.876881471634, 51.8140490074452)" rx="11.04" ry="16.68" cx="11.04" cy="16.68" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape310" transform="translate(326.316881471635, 156.214049007445)" rx="18" ry="16.2" cx="18" cy="16.2" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape410" transform="translate(179.436881471635, 176.374049007445)" rx="15.72" ry="10.68" cx="15.72" cy="10.68" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape510" transform="translate(45.0368814716348, 189.334049007445)" rx="10.68" ry="9" cx="10.68" cy="9" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape610" transform="translate(140.796881471636, 76.7740490074449)" rx="24.6" ry="25.56" cx="24.6" cy="25.56" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape710" transform="translate(107.676881471635, 168.934049007445)" rx="8.16000000000001" ry="6.48000000000002" cx="8.16000000000001" cy="6.48000000000002" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape810" transform="translate(296.556881471635, 84.9340490074453)" rx="7.44" ry="8.28" cx="7.44" cy="8.28" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape910" transform="translate(264.636881471635, 187.654049007445)" rx="12.84" ry="19.56" cx="12.84" cy="19.56" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <path id="shape1010" transform="translate(94.4026649035249, 290.307598686735)" fill="url(#gradient42)" fill-rule="evenodd" stroke="#ffffff" stroke-width="0.24" stroke-linecap="square" stroke-linejoin="bevel" d="M61.4459 18.6956C60.7298 18.6956 57.299 37.476 56.2206 40.5726C48.0521 64.0277 38.6187 88.3109 27.3439 110.493C-13.8213 191.483 -22.481 296.769 102.332 292.685C121.52 292.057 142.366 294.335 160.818 287.967C288.245 243.988 220.437 154.485 179.244 75.6305C168.97 55.9622 173.059 28.9474 160.452 11.3253C150.654 -2.36857 98.5975 -1.31125 84.3639 2.47304C78.8904 3.92827 69.7736 6.55832 65.3878 9.10245C62.5695 10.7373 56.9695 19.0348 58.8791 16.3948C60.3797 14.3201 61.7232 12.5494 63.1877 10.2723" sodipodi:nodetypes="ccccccccccc"/>
+  <path id="shape1110" transform="translate(105.612342081546, 226.774049007445)" fill="url(#gradient43)" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" d="M39.6939 0L0 108.981L52.253 96.1899L105.265 133.705L150.342 95.5269L217.171 131.911L145.3 0L39.6939 0" sodipodi:nodetypes="cccccccc"/>
+ </g><g id="group011" transform="matrix(0.107349684575151 0 0 0.147241315125606 234.332016576462 56.2261651629168)" fill="none">
+  <path id="shape0111" transform="matrix(-0.982424307840068 -0.18666140298678 0.18666140298678 -0.982424307840068 375.61886657239 287.2185813485)" sodipodi:type="arc" sodipodi:rx="191.16" sodipodi:ry="134.04" sodipodi:cx="191.17862740455" sodipodi:cy="85.6625564496111" sodipodi:start="5.58988112711123" sodipodi:end="3.35716488337814" sodipodi:open="true" d="M4.44319 56.9905C-14.6919 118.264 29.3331 180.649 110.412 207.151C191.49 233.653 287.938 217.184 342.562 167.511C397.186 117.838 395.376 48.2446 338.207 0" fill="url(#gradient44)" fill-rule="evenodd" stroke="url(#gradient45)" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape121" transform="translate(74.5568814716348, 86.1340490074455)" rx="16.68" ry="18.48" cx="16.68" cy="18.48" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape211" transform="translate(210.876881471635, 51.8140490074452)" rx="11.04" ry="16.68" cx="11.04" cy="16.68" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape311" transform="translate(326.316881471635, 156.214049007445)" rx="18" ry="16.2" cx="18" cy="16.2" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape411" transform="translate(179.436881471635, 176.374049007445)" rx="15.72" ry="10.68" cx="15.72" cy="10.68" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape511" transform="translate(45.0368814716344, 189.334049007445)" rx="10.68" ry="9" cx="10.68" cy="9" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape611" transform="translate(140.796881471635, 76.7740490074452)" rx="24.6" ry="25.56" cx="24.6" cy="25.56" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape711" transform="translate(107.676881471635, 168.934049007445)" rx="8.16000000000001" ry="6.48000000000002" cx="8.16000000000001" cy="6.48000000000002" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape811" transform="translate(296.556881471633, 84.934049007445)" rx="7.44" ry="8.28" cx="7.44" cy="8.28" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape911" transform="translate(264.636881471635, 187.654049007445)" rx="12.84" ry="19.56" cx="12.84" cy="19.56" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <path id="shape1011" transform="translate(94.4026684151945, 290.307602708643)" fill="url(#gradient46)" fill-rule="evenodd" stroke="#ffffff" stroke-width="0.24" stroke-linecap="square" stroke-linejoin="bevel" d="M61.4459 18.6956C60.7298 18.6956 57.299 37.476 56.2206 40.5726C48.0521 64.0277 38.6187 88.3109 27.3439 110.493C-13.8213 191.483 -22.481 296.769 102.332 292.685C121.52 292.057 142.366 294.335 160.818 287.967C288.245 243.988 220.437 154.485 179.244 75.6305C168.97 55.9622 173.059 28.9474 160.452 11.3253C150.654 -2.36857 98.5975 -1.31125 84.3639 2.47304C78.8904 3.92827 69.7736 6.55832 65.3878 9.10245C62.5695 10.7373 56.9695 19.0348 58.8791 16.3948C60.3797 14.3201 61.7232 12.5494 63.1877 10.2723" sodipodi:nodetypes="ccccccccccc"/>
+  <path id="shape1111" transform="translate(105.612342081546, 226.774049007445)" fill="url(#gradient47)" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" d="M39.6939 0L0 108.981L52.253 96.1899L105.265 133.705L150.342 95.5269L217.171 131.911L145.3 0L39.6939 0" sodipodi:nodetypes="cccccccc"/>
+ </g><g id="group012" transform="matrix(0.107349684575151 0 0 0.147241315125606 532.449007573013 187.21546824338)" fill="none">
+  <path id="shape012" transform="matrix(-0.982424307840068 -0.18666140298678 0.18666140298678 -0.982424307840068 375.618866572388 287.2185813485)" sodipodi:type="arc" sodipodi:rx="191.16" sodipodi:ry="134.04" sodipodi:cx="191.17862740455" sodipodi:cy="85.6625564496111" sodipodi:start="5.58988112711123" sodipodi:end="3.35716488337814" sodipodi:open="true" d="M4.44319 56.9905C-14.6919 118.264 29.3331 180.649 110.412 207.151C191.49 233.653 287.938 217.184 342.562 167.511C397.186 117.838 395.376 48.2446 338.207 0" fill="url(#gradient48)" fill-rule="evenodd" stroke="url(#gradient49)" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape122" transform="translate(74.5568814716344, 86.1340490074458)" rx="16.68" ry="18.48" cx="16.68" cy="18.48" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape212" transform="translate(210.876881471635, 51.8140490074456)" rx="11.04" ry="16.68" cx="11.04" cy="16.68" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape312" transform="translate(326.316881471635, 156.214049007445)" rx="18" ry="16.2" cx="18" cy="16.2" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape412" transform="translate(179.436881471634, 176.374049007445)" rx="15.72" ry="10.68" cx="15.72" cy="10.68" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape512" transform="translate(45.0368814716331, 189.334049007445)" rx="10.68" ry="9" cx="10.68" cy="9" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape612" transform="translate(140.796881471635, 76.7740490074452)" rx="24.6" ry="25.56" cx="24.6" cy="25.56" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape712" transform="translate(107.676881471635, 168.934049007445)" rx="8.16000000000001" ry="6.48000000000002" cx="8.16000000000001" cy="6.48000000000002" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape812" transform="translate(296.556881471634, 84.9340490074451)" rx="7.44" ry="8.28" cx="7.44" cy="8.28" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape912" transform="translate(264.636881471635, 187.654049007445)" rx="12.84" ry="19.56" cx="12.84" cy="19.56" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <path id="shape1012" transform="translate(94.4026684151958, 290.307602708643)" fill="url(#gradient50)" fill-rule="evenodd" stroke="#ffffff" stroke-width="0.24" stroke-linecap="square" stroke-linejoin="bevel" d="M61.4459 18.6956C60.7298 18.6956 57.299 37.476 56.2206 40.5726C48.0521 64.0277 38.6187 88.3109 27.3439 110.493C-13.8213 191.483 -22.481 296.769 102.332 292.685C121.52 292.057 142.366 294.335 160.818 287.967C288.245 243.988 220.437 154.485 179.244 75.6305C168.97 55.9622 173.059 28.9474 160.452 11.3253C150.654 -2.36857 98.5975 -1.31125 84.3639 2.47304C78.8904 3.92827 69.7736 6.55832 65.3878 9.10245C62.5695 10.7373 56.9695 19.0348 58.8791 16.3948C60.3797 14.3201 61.7232 12.5494 63.1877 10.2723" sodipodi:nodetypes="ccccccccccc"/>
+  <path id="shape1112" transform="translate(105.612342081546, 226.774049007445)" fill="url(#gradient51)" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" d="M39.6939 0L0 108.981L52.253 96.1899L105.265 133.705L150.342 95.5269L217.171 131.911L145.3 0L39.6939 0" sodipodi:nodetypes="cccccccc"/>
+ </g><g id="group013" transform="matrix(0.0913330604641831 0.056411229774135 -0.0773738990726299 0.125272840720631 544.501724425804 527.066313948872)" fill="none">
+  <path id="shape013" transform="matrix(-0.982424307840068 -0.18666140298678 0.18666140298678 -0.982424307840068 375.618866572388 287.2185813485)" sodipodi:type="arc" sodipodi:rx="191.16" sodipodi:ry="134.04" sodipodi:cx="191.17862740455" sodipodi:cy="85.6625564496111" sodipodi:start="5.58988112711123" sodipodi:end="3.35716488337814" sodipodi:open="true" d="M4.44319 56.9905C-14.6919 118.264 29.3331 180.649 110.412 207.151C191.49 233.653 287.938 217.184 342.562 167.511C397.186 117.838 395.376 48.2446 338.207 0" fill="url(#gradient52)" fill-rule="evenodd" stroke="url(#gradient53)" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape123" transform="translate(74.5568814716345, 86.1340490074452)" rx="16.68" ry="18.48" cx="16.68" cy="18.48" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape213" transform="translate(210.876881471634, 51.8140490074449)" rx="11.04" ry="16.68" cx="11.04" cy="16.68" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape313" transform="translate(326.316881471635, 156.214049007445)" rx="18" ry="16.2" cx="18" cy="16.2" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape413" transform="translate(179.436881471635, 176.374049007445)" rx="15.72" ry="10.68" cx="15.72" cy="10.68" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape513" transform="translate(45.0368814716312, 189.334049007445)" rx="10.68" ry="9" cx="10.68" cy="9" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape613" transform="translate(140.796881471633, 76.7740490074447)" rx="24.6" ry="25.56" cx="24.6" cy="25.56" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape713" transform="translate(107.676881471632, 168.934049007445)" rx="8.16000000000001" ry="6.48000000000002" cx="8.16000000000001" cy="6.48000000000002" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape813" transform="translate(296.556881471633, 84.9340490074447)" rx="7.44" ry="8.28" cx="7.44" cy="8.28" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape913" transform="translate(264.636881471633, 187.654049007444)" rx="12.84" ry="19.56" cx="12.84" cy="19.56" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <path id="shape1013" transform="translate(94.402668415196, 290.307602708642)" fill="url(#gradient54)" fill-rule="evenodd" stroke="#ffffff" stroke-width="0.24" stroke-linecap="square" stroke-linejoin="bevel" d="M61.4459 18.6956C60.7298 18.6956 57.299 37.476 56.2206 40.5726C48.0521 64.0277 38.6187 88.3109 27.3439 110.493C-13.8213 191.483 -22.481 296.769 102.332 292.685C121.52 292.057 142.366 294.335 160.818 287.967C288.245 243.988 220.437 154.485 179.244 75.6305C168.97 55.9622 173.059 28.9474 160.452 11.3253C150.654 -2.36857 98.5975 -1.31125 84.3639 2.47304C78.8904 3.92827 69.7736 6.55832 65.3878 9.10245C62.5695 10.7373 56.9695 19.0348 58.8791 16.3948C60.3797 14.3201 61.7232 12.5494 63.1877 10.2723" sodipodi:nodetypes="ccccccccccc"/>
+  <path id="shape1113" transform="translate(105.612342081546, 226.774049007445)" fill="url(#gradient55)" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" d="M39.6939 0L0 108.981L52.253 96.1899L105.265 133.705L150.342 95.5269L217.171 131.911L145.3 0L39.6939 0" sodipodi:nodetypes="cccccccc"/>
+ </g><g id="group014" transform="matrix(0.0888830864430985 0.0601976056229244 -0.0825673093908996 0.121912445221419 154.26222723721 288.052650491056)" fill="none">
+  <path id="shape014" transform="matrix(-0.982424307840068 -0.18666140298678 0.18666140298678 -0.982424307840068 375.61886657239 287.2185813485)" sodipodi:type="arc" sodipodi:rx="191.16" sodipodi:ry="134.04" sodipodi:cx="191.17862740455" sodipodi:cy="85.6625564496111" sodipodi:start="5.58988112711123" sodipodi:end="3.35716488337814" sodipodi:open="true" d="M4.44319 56.9905C-14.6919 118.264 29.3331 180.649 110.412 207.151C191.49 233.653 287.938 217.184 342.562 167.511C397.186 117.838 395.376 48.2446 338.207 0" fill="url(#gradient56)" fill-rule="evenodd" stroke="url(#gradient57)" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape124" transform="translate(74.5568814716353, 86.1340490074451)" rx="16.68" ry="18.48" cx="16.68" cy="18.48" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape214" transform="translate(210.876881471636, 51.8140490074447)" rx="11.04" ry="16.68" cx="11.04" cy="16.68" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape314" transform="translate(326.316881471635, 156.214049007445)" rx="18" ry="16.2" cx="18" cy="16.2" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape414" transform="translate(179.436881471635, 176.374049007445)" rx="15.72" ry="10.68" cx="15.72" cy="10.68" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape514" transform="translate(45.0368814716348, 189.334049007445)" rx="10.68" ry="9" cx="10.68" cy="9" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape614" transform="translate(140.796881471635, 76.7740490074446)" rx="24.6" ry="25.56" cx="24.6" cy="25.56" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape714" transform="translate(107.676881471635, 168.934049007445)" rx="8.16000000000001" ry="6.48000000000002" cx="8.16000000000001" cy="6.48000000000002" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape814" transform="translate(296.556881471635, 84.9340490074454)" rx="7.44" ry="8.28" cx="7.44" cy="8.28" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape914" transform="translate(264.636881471635, 187.654049007445)" rx="12.84" ry="19.56" cx="12.84" cy="19.56" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <path id="shape1014" transform="translate(94.4026684151959, 290.307602708642)" fill="url(#gradient58)" fill-rule="evenodd" stroke="#ffffff" stroke-width="0.24" stroke-linecap="square" stroke-linejoin="bevel" d="M61.4459 18.6956C60.7298 18.6956 57.299 37.476 56.2206 40.5726C48.0521 64.0277 38.6187 88.3109 27.3439 110.493C-13.8213 191.483 -22.481 296.769 102.332 292.685C121.52 292.057 142.366 294.335 160.818 287.967C288.245 243.988 220.437 154.485 179.244 75.6305C168.97 55.9622 173.059 28.9474 160.452 11.3253C150.654 -2.36857 98.5975 -1.31125 84.3639 2.47304C78.8904 3.92827 69.7736 6.55832 65.3878 9.10245C62.5695 10.7373 56.9695 19.0348 58.8791 16.3948C60.3797 14.3201 61.7232 12.5494 63.1877 10.2723" sodipodi:nodetypes="ccccccccccc"/>
+  <path id="shape1114" transform="translate(105.612342081546, 226.774049007445)" fill="url(#gradient59)" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" d="M39.6939 0L0 108.981L52.253 96.1899L105.265 133.705L150.342 95.5269L217.171 131.911L145.3 0L39.6939 0" sodipodi:nodetypes="cccccccc"/>
+ </g><g id="group015" transform="matrix(0.0963657006744563 0.047303345673488 -0.0648814838568959 0.132175632899734 338.427724336483 745.682557713188)" fill="none">
+  <path id="shape015" transform="matrix(-0.982424307840068 -0.18666140298678 0.18666140298678 -0.982424307840068 375.61886657239 287.2185813485)" sodipodi:type="arc" sodipodi:rx="191.16" sodipodi:ry="134.04" sodipodi:cx="191.17862740455" sodipodi:cy="85.6625564496111" sodipodi:start="5.58988112711123" sodipodi:end="3.35716488337814" sodipodi:open="true" d="M4.44319 56.9905C-14.6919 118.264 29.3331 180.649 110.412 207.151C191.49 233.653 287.938 217.184 342.562 167.511C397.186 117.838 395.376 48.2446 338.207 0" fill="url(#gradient60)" fill-rule="evenodd" stroke="url(#gradient61)" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape125" transform="translate(74.5568814716363, 86.1340490074463)" rx="16.68" ry="18.48" cx="16.68" cy="18.48" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape215" transform="translate(210.876881471637, 51.8140490074453)" rx="11.04" ry="16.68" cx="11.04" cy="16.68" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape315" transform="translate(326.316881471636, 156.214049007445)" rx="18" ry="16.2" cx="18" cy="16.2" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape415" transform="translate(179.436881471635, 176.374049007445)" rx="15.72" ry="10.68" cx="15.72" cy="10.68" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape515" transform="translate(45.0368814716358, 189.334049007445)" rx="10.68" ry="9" cx="10.68" cy="9" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape615" transform="translate(140.796881471635, 76.7740490074452)" rx="24.6" ry="25.56" cx="24.6" cy="25.56" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape715" transform="translate(107.676881471635, 168.934049007445)" rx="8.16000000000001" ry="6.48000000000002" cx="8.16000000000001" cy="6.48000000000002" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape815" transform="translate(296.556881471635, 84.9340490074452)" rx="7.44" ry="8.28" cx="7.44" cy="8.28" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape915" transform="translate(264.636881471635, 187.654049007445)" rx="12.84" ry="19.56" cx="12.84" cy="19.56" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <path id="shape1015" transform="translate(94.4026684151959, 290.307602708643)" fill="url(#gradient62)" fill-rule="evenodd" stroke="#ffffff" stroke-width="0.24" stroke-linecap="square" stroke-linejoin="bevel" d="M61.4459 18.6956C60.7298 18.6956 57.299 37.476 56.2206 40.5726C48.0521 64.0277 38.6187 88.3109 27.3439 110.493C-13.8213 191.483 -22.481 296.769 102.332 292.685C121.52 292.057 142.366 294.335 160.818 287.967C288.245 243.988 220.437 154.485 179.244 75.6305C168.97 55.9622 173.059 28.9474 160.452 11.3253C150.654 -2.36857 98.5975 -1.31125 84.3639 2.47304C78.8904 3.92827 69.7736 6.55832 65.3878 9.10245C62.5695 10.7373 56.9695 19.0348 58.8791 16.3948C60.3797 14.3201 61.7232 12.5494 63.1877 10.2723" sodipodi:nodetypes="ccccccccccc"/>
+  <path id="shape1115" transform="translate(105.612342081548, 226.774049007446)" fill="url(#gradient63)" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" d="M39.6939 0L0 108.981L52.253 96.1899L105.265 133.705L150.342 95.5269L217.171 131.911L145.3 0L39.6939 0" sodipodi:nodetypes="cccccccc"/>
+ </g><g id="group016" transform="matrix(0.100267806823995 -0.0383447739997315 0.0525938662443122 0.137527779424353 309.028379278478 184.191528380816)" fill="none">
+  <path id="shape016" transform="matrix(-0.982424307840068 -0.18666140298678 0.18666140298678 -0.982424307840068 375.61886657239 287.2185813485)" sodipodi:type="arc" sodipodi:rx="191.16" sodipodi:ry="134.04" sodipodi:cx="191.17862740455" sodipodi:cy="85.6625564496111" sodipodi:start="5.58988112711123" sodipodi:end="3.35716488337814" sodipodi:open="true" d="M4.44319 56.9905C-14.6919 118.264 29.3331 180.649 110.412 207.151C191.49 233.653 287.938 217.184 342.562 167.511C397.186 117.838 395.376 48.2446 338.207 0" fill="url(#gradient64)" fill-rule="evenodd" stroke="url(#gradient65)" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape126" transform="translate(74.5568814716348, 86.1340490074463)" rx="16.68" ry="18.48" cx="16.68" cy="18.48" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape216" transform="translate(210.876881471635, 51.8140490074458)" rx="11.04" ry="16.68" cx="11.04" cy="16.68" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape316" transform="translate(326.316881471635, 156.214049007445)" rx="18" ry="16.2" cx="18" cy="16.2" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape416" transform="translate(179.436881471635, 176.374049007445)" rx="15.72" ry="10.68" cx="15.72" cy="10.68" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape516" transform="translate(45.036881471634, 189.334049007445)" rx="10.68" ry="9" cx="10.68" cy="9" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape616" transform="translate(140.796881471635, 76.7740490074462)" rx="24.6" ry="25.56" cx="24.6" cy="25.56" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape716" transform="translate(107.676881471635, 168.934049007446)" rx="8.16000000000001" ry="6.48000000000002" cx="8.16000000000001" cy="6.48000000000002" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape816" transform="translate(296.556881471634, 84.934049007446)" rx="7.44" ry="8.28" cx="7.44" cy="8.28" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape916" transform="translate(264.636881471635, 187.654049007445)" rx="12.84" ry="19.56" cx="12.84" cy="19.56" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <path id="shape1016" transform="translate(94.4026684151954, 290.307602708643)" fill="url(#gradient66)" fill-rule="evenodd" stroke="#ffffff" stroke-width="0.24" stroke-linecap="square" stroke-linejoin="bevel" d="M61.4459 18.6956C60.7298 18.6956 57.299 37.476 56.2206 40.5726C48.0521 64.0277 38.6187 88.3109 27.3439 110.493C-13.8213 191.483 -22.481 296.769 102.332 292.685C121.52 292.057 142.366 294.335 160.818 287.967C288.245 243.988 220.437 154.485 179.244 75.6305C168.97 55.9622 173.059 28.9474 160.452 11.3253C150.654 -2.36857 98.5975 -1.31125 84.3639 2.47304C78.8904 3.92827 69.7736 6.55832 65.3878 9.10245C62.5695 10.7373 56.9695 19.0348 58.8791 16.3948C60.3797 14.3201 61.7232 12.5494 63.1877 10.2723" sodipodi:nodetypes="ccccccccccc"/>
+  <path id="shape1116" transform="translate(105.612342081546, 226.774049007447)" fill="url(#gradient67)" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" d="M39.6939 0L0 108.981L52.253 96.1899L105.265 133.705L150.342 95.5269L217.171 131.911L145.3 0L39.6939 0" sodipodi:nodetypes="cccccccc"/>
+ </g><g id="group017" transform="matrix(0.234081250105865 -0.0580633188211173 0.0690732434561489 0.278467567913145 129.612075962037 417.496771441815)" fill="none">
+  <path id="shape017" transform="matrix(-0.982424307840068 -0.18666140298678 0.18666140298678 -0.982424307840068 375.61886657239 287.2185813485)" sodipodi:type="arc" sodipodi:rx="191.16" sodipodi:ry="134.04" sodipodi:cx="191.17862740455" sodipodi:cy="85.6625564496111" sodipodi:start="5.58988112711123" sodipodi:end="3.35716488337814" sodipodi:open="true" d="M4.44319 56.9905C-14.6919 118.264 29.3331 180.649 110.412 207.151C191.49 233.653 287.938 217.184 342.562 167.511C397.186 117.838 395.376 48.2446 338.207 0" fill="url(#gradient68)" fill-rule="evenodd" stroke="url(#gradient69)" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape127" transform="translate(74.5568814716352, 86.1340490074454)" rx="16.68" ry="18.48" cx="16.68" cy="18.48" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape217" transform="translate(210.876881471635, 51.8140490074454)" rx="11.04" ry="16.68" cx="11.04" cy="16.68" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape317" transform="translate(326.316881471635, 156.214049007445)" rx="18" ry="16.2" cx="18" cy="16.2" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape417" transform="translate(179.436881471635, 176.374049007445)" rx="15.72" ry="10.68" cx="15.72" cy="10.68" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape517" transform="translate(45.0368814716353, 189.334049007445)" rx="10.68" ry="9" cx="10.68" cy="9" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape617" transform="translate(140.796881471635, 76.7740490074452)" rx="24.6" ry="25.56" cx="24.6" cy="25.56" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape717" transform="translate(107.676881471635, 168.934049007445)" rx="8.16000000000001" ry="6.48000000000002" cx="8.16000000000001" cy="6.48000000000002" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape817" transform="translate(296.556881471635, 84.9340490074453)" rx="7.44" ry="8.28" cx="7.44" cy="8.28" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape917" transform="translate(264.636881471635, 187.654049007445)" rx="12.84" ry="19.56" cx="12.84" cy="19.56" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <path id="shape1017" transform="translate(94.4026649035251, 290.307598686735)" fill="url(#gradient70)" fill-rule="evenodd" stroke="#ffffff" stroke-width="0.24" stroke-linecap="square" stroke-linejoin="bevel" d="M61.4459 18.6956C60.7298 18.6956 57.299 37.476 56.2206 40.5726C48.0521 64.0277 38.6187 88.3109 27.3439 110.493C-13.8213 191.483 -22.481 296.769 102.332 292.685C121.52 292.057 142.366 294.335 160.818 287.967C288.245 243.988 220.437 154.485 179.244 75.6305C168.97 55.9622 173.059 28.9474 160.452 11.3253C150.654 -2.36857 98.5975 -1.31125 84.3639 2.47304C78.8904 3.92827 69.7736 6.55832 65.3878 9.10245C62.5695 10.7373 56.9695 19.0348 58.8791 16.3948C60.3797 14.3201 61.7232 12.5494 63.1877 10.2723" sodipodi:nodetypes="ccccccccccc"/>
+  <path id="shape1117" transform="translate(105.612342081546, 226.774049007445)" fill="url(#gradient71)" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" d="M39.6939 0L0 108.981L52.253 96.1899L105.265 133.705L150.342 95.5269L217.171 131.911L145.3 0L39.6939 0" sodipodi:nodetypes="cccccccc"/>
+ </g><g id="group018" transform="matrix(-0.235282958309477 0.0529840558355924 -0.0630308542868728 -0.279897143159562 454.747403026496 587.418620534362)" fill="none">
+  <path id="shape018" transform="matrix(-0.982424307840068 -0.18666140298678 0.18666140298678 -0.982424307840068 375.61886657239 287.2185813485)" sodipodi:type="arc" sodipodi:rx="191.16" sodipodi:ry="134.04" sodipodi:cx="191.17862740455" sodipodi:cy="85.6625564496111" sodipodi:start="5.58988112711123" sodipodi:end="3.35716488337814" sodipodi:open="true" d="M4.44319 56.9905C-14.6919 118.264 29.3331 180.649 110.412 207.151C191.49 233.653 287.938 217.184 342.562 167.511C397.186 117.838 395.376 48.2446 338.207 0" fill="url(#gradient72)" fill-rule="evenodd" stroke="url(#gradient73)" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape128" transform="translate(74.5568814716351, 86.1340490074453)" rx="16.68" ry="18.48" cx="16.68" cy="18.48" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape218" transform="translate(210.876881471635, 51.8140490074453)" rx="11.04" ry="16.68" cx="11.04" cy="16.68" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape318" transform="translate(326.316881471635, 156.214049007445)" rx="18" ry="16.2" cx="18" cy="16.2" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape418" transform="translate(179.436881471635, 176.374049007445)" rx="15.72" ry="10.68" cx="15.72" cy="10.68" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape518" transform="translate(45.0368814716353, 189.334049007445)" rx="10.68" ry="9" cx="10.68" cy="9" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape618" transform="translate(140.796881471635, 76.7740490074452)" rx="24.6" ry="25.56" cx="24.6" cy="25.56" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape718" transform="translate(107.676881471635, 168.934049007445)" rx="8.16000000000001" ry="6.48000000000002" cx="8.16000000000001" cy="6.48000000000002" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape818" transform="translate(296.556881471635, 84.9340490074454)" rx="7.44" ry="8.28" cx="7.44" cy="8.28" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape918" transform="translate(264.636881471635, 187.654049007445)" rx="12.84" ry="19.56" cx="12.84" cy="19.56" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <path id="shape1018" transform="translate(94.4026649035255, 290.307598686735)" fill="url(#gradient74)" fill-rule="evenodd" stroke="#ffffff" stroke-width="0.24" stroke-linecap="square" stroke-linejoin="bevel" d="M61.4459 18.6956C60.7298 18.6956 57.299 37.476 56.2206 40.5726C48.0521 64.0277 38.6187 88.3109 27.3439 110.493C-13.8213 191.483 -22.481 296.769 102.332 292.685C121.52 292.057 142.366 294.335 160.818 287.967C288.245 243.988 220.437 154.485 179.244 75.6305C168.97 55.9622 173.059 28.9474 160.452 11.3253C150.654 -2.36857 98.5975 -1.31125 84.3639 2.47304C78.8904 3.92827 69.7736 6.55832 65.3878 9.10245C62.5695 10.7373 56.9695 19.0348 58.8791 16.3948C60.3797 14.3201 61.7232 12.5494 63.1877 10.2723" sodipodi:nodetypes="ccccccccccc"/>
+  <path id="shape1118" transform="translate(105.612342081546, 226.774049007445)" fill="url(#gradient75)" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" d="M39.6939 0L0 108.981L52.253 96.1899L105.265 133.705L150.342 95.5269L217.171 131.911L145.3 0L39.6939 0" sodipodi:nodetypes="cccccccc"/>
+ </g><g id="group019" transform="matrix(0.0588511437111481 0.0398579536484674 -0.0543419531966702 0.080237087064922 201.428598623761 186.903787781401)" fill="none">
+  <path id="shape019" transform="matrix(-0.982424307840068 -0.18666140298678 0.18666140298678 -0.982424307840068 375.618866572392 287.2185813485)" sodipodi:type="arc" sodipodi:rx="191.16" sodipodi:ry="134.04" sodipodi:cx="191.17862740455" sodipodi:cy="85.6625564496111" sodipodi:start="5.58988112711123" sodipodi:end="3.35716488337814" sodipodi:open="true" d="M4.44319 56.9905C-14.6919 118.264 29.3331 180.649 110.412 207.151C191.49 233.653 287.938 217.184 342.562 167.511C397.186 117.838 395.376 48.2446 338.207 0" fill="url(#gradient76)" fill-rule="evenodd" stroke="url(#gradient77)" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape129" transform="translate(74.5568814716348, 86.1340490074449)" rx="16.68" ry="18.48" cx="16.68" cy="18.48" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape219" transform="translate(210.876881471636, 51.8140490074449)" rx="11.04" ry="16.68" cx="11.04" cy="16.68" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape319" transform="translate(326.316881471635, 156.214049007445)" rx="18" ry="16.2" cx="18" cy="16.2" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape419" transform="translate(179.436881471635, 176.374049007445)" rx="15.72" ry="10.68" cx="15.72" cy="10.68" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape519" transform="translate(45.0368814716353, 189.334049007445)" rx="10.68" ry="9" cx="10.68" cy="9" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape619" transform="translate(140.796881471635, 76.7740490074447)" rx="24.6" ry="25.56" cx="24.6" cy="25.56" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape719" transform="translate(107.676881471635, 168.934049007445)" rx="8.16000000000001" ry="6.48000000000002" cx="8.16000000000001" cy="6.48000000000002" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape819" transform="translate(296.556881471637, 84.934049007445)" rx="7.44" ry="8.28" cx="7.44" cy="8.28" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape919" transform="translate(264.636881471637, 187.654049007445)" rx="12.84" ry="19.56" cx="12.84" cy="19.56" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <path id="shape1019" transform="translate(94.4026719268663, 290.307606730551)" fill="url(#gradient78)" fill-rule="evenodd" stroke="#ffffff" stroke-width="0.24" stroke-linecap="square" stroke-linejoin="bevel" d="M61.4459 18.6956C60.7298 18.6956 57.299 37.476 56.2206 40.5726C48.0521 64.0277 38.6187 88.3109 27.3439 110.493C-13.8213 191.483 -22.481 296.769 102.332 292.685C121.52 292.057 142.366 294.335 160.818 287.967C288.245 243.988 220.437 154.485 179.244 75.6305C168.97 55.9622 173.059 28.9474 160.452 11.3253C150.654 -2.36857 98.5975 -1.31125 84.3639 2.47304C78.8904 3.92827 69.7736 6.55832 65.3878 9.10245C62.5695 10.7373 56.9695 19.0348 58.8791 16.3948C60.3797 14.3201 61.7232 12.5494 63.1877 10.2723" sodipodi:nodetypes="ccccccccccc"/>
+  <path id="shape1119" transform="translate(105.612342081546, 226.774049007445)" fill="url(#gradient79)" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" d="M39.6939 0L0 108.981L52.253 96.1899L105.265 133.705L150.342 95.5269L217.171 131.911L145.3 0L39.6939 0" sodipodi:nodetypes="cccccccc"/>
+ </g><g id="group020" transform="matrix(0.0588511437111481 0.0398579536484674 -0.0543419531966702 0.080237087064922 473.890265306824 28.2158170321278)" fill="none">
+  <path id="shape020" transform="matrix(-0.982424307840068 -0.18666140298678 0.18666140298678 -0.982424307840068 375.618866572391 287.2185813485)" sodipodi:type="arc" sodipodi:rx="191.16" sodipodi:ry="134.04" sodipodi:cx="191.17862740455" sodipodi:cy="85.6625564496111" sodipodi:start="5.58988112711123" sodipodi:end="3.35716488337814" sodipodi:open="true" d="M4.44319 56.9905C-14.6919 118.264 29.3331 180.649 110.412 207.151C191.49 233.653 287.938 217.184 342.562 167.511C397.186 117.838 395.376 48.2446 338.207 0" fill="url(#gradient80)" fill-rule="evenodd" stroke="url(#gradient81)" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape130" transform="translate(74.5568814716352, 86.1340490074449)" rx="16.68" ry="18.48" cx="16.68" cy="18.48" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape220" transform="translate(210.876881471636, 51.8140490074452)" rx="11.04" ry="16.68" cx="11.04" cy="16.68" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape320" transform="translate(326.316881471635, 156.214049007445)" rx="18" ry="16.2" cx="18" cy="16.2" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape420" transform="translate(179.436881471635, 176.374049007445)" rx="15.72" ry="10.68" cx="15.72" cy="10.68" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape520" transform="translate(45.0368814716356, 189.334049007445)" rx="10.68" ry="9" cx="10.68" cy="9" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape620" transform="translate(140.796881471635, 76.7740490074452)" rx="24.6" ry="25.56" cx="24.6" cy="25.56" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape720" transform="translate(107.676881471635, 168.934049007445)" rx="8.16000000000001" ry="6.48000000000002" cx="8.16000000000001" cy="6.48000000000002" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape820" transform="translate(296.556881471637, 84.9340490074451)" rx="7.44" ry="8.28" cx="7.44" cy="8.28" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape920" transform="translate(264.636881471636, 187.654049007445)" rx="12.84" ry="19.56" cx="12.84" cy="19.56" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <path id="shape1020" transform="translate(94.4026754385359, 290.307610752459)" fill="url(#gradient82)" fill-rule="evenodd" stroke="#ffffff" stroke-width="0.24" stroke-linecap="square" stroke-linejoin="bevel" d="M61.4459 18.6956C60.7298 18.6956 57.299 37.476 56.2206 40.5726C48.0521 64.0277 38.6187 88.3109 27.3439 110.493C-13.8213 191.483 -22.481 296.769 102.332 292.685C121.52 292.057 142.366 294.335 160.818 287.967C288.245 243.988 220.437 154.485 179.244 75.6305C168.97 55.9622 173.059 28.9474 160.452 11.3253C150.654 -2.36857 98.5975 -1.31125 84.3639 2.47304C78.8904 3.92827 69.7736 6.55832 65.3878 9.10245C62.5695 10.7373 56.9695 19.0348 58.8791 16.3948C60.3797 14.3201 61.7232 12.5494 63.1877 10.2723" sodipodi:nodetypes="ccccccccccc"/>
+  <path id="shape1120" transform="translate(105.612342081546, 226.774049007445)" fill="url(#gradient83)" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" d="M39.6939 0L0 108.981L52.253 96.1899L105.265 133.705L150.342 95.5269L217.171 131.911L145.3 0L39.6939 0" sodipodi:nodetypes="cccccccc"/>
+ </g><g id="group021" transform="matrix(0.0638801178975814 -0.0311679983724448 0.0424941511982113 0.0870935424232855 31.2611475203992 351.2298841654)" fill="none">
+  <path id="shape021" transform="matrix(-0.982424307840068 -0.18666140298678 0.18666140298678 -0.982424307840068 375.618866572391 287.2185813485)" sodipodi:type="arc" sodipodi:rx="191.16" sodipodi:ry="134.04" sodipodi:cx="191.17862740455" sodipodi:cy="85.6625564496111" sodipodi:start="5.58988112711123" sodipodi:end="3.35716488337814" sodipodi:open="true" d="M4.44319 56.9905C-14.6919 118.264 29.3331 180.649 110.412 207.151C191.49 233.653 287.938 217.184 342.562 167.511C397.186 117.838 395.376 48.2446 338.207 0" fill="url(#gradient84)" fill-rule="evenodd" stroke="url(#gradient85)" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape131" transform="translate(74.5568814716351, 86.134049007444)" rx="16.68" ry="18.48" cx="16.68" cy="18.48" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape221" transform="translate(210.876881471636, 51.8140490074452)" rx="11.04" ry="16.68" cx="11.04" cy="16.68" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape321" transform="translate(326.316881471635, 156.214049007445)" rx="18" ry="16.2" cx="18" cy="16.2" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape421" transform="translate(179.436881471635, 176.374049007445)" rx="15.72" ry="10.68" cx="15.72" cy="10.68" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape521" transform="translate(45.0368814716353, 189.334049007445)" rx="10.68" ry="9" cx="10.68" cy="9" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape621" transform="translate(140.796881471635, 76.7740490074448)" rx="24.6" ry="25.56" cx="24.6" cy="25.56" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape721" transform="translate(107.676881471635, 168.934049007445)" rx="8.16000000000001" ry="6.48000000000002" cx="8.16000000000001" cy="6.48000000000002" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape821" transform="translate(296.556881471636, 84.9340490074455)" rx="7.44" ry="8.28" cx="7.44" cy="8.28" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape921" transform="translate(264.636881471636, 187.654049007445)" rx="12.84" ry="19.56" cx="12.84" cy="19.56" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <path id="shape1021" transform="translate(94.4026754385368, 290.307610752458)" fill="url(#gradient86)" fill-rule="evenodd" stroke="#ffffff" stroke-width="0.24" stroke-linecap="square" stroke-linejoin="bevel" d="M61.4459 18.6956C60.7298 18.6956 57.299 37.476 56.2206 40.5726C48.0521 64.0277 38.6187 88.3109 27.3439 110.493C-13.8213 191.483 -22.481 296.769 102.332 292.685C121.52 292.057 142.366 294.335 160.818 287.967C288.245 243.988 220.437 154.485 179.244 75.6305C168.97 55.9622 173.059 28.9474 160.452 11.3253C150.654 -2.36857 98.5975 -1.31125 84.3639 2.47304C78.8904 3.92827 69.7736 6.55832 65.3878 9.10245C62.5695 10.7373 56.9695 19.0348 58.8791 16.3948C60.3797 14.3201 61.7232 12.5494 63.1877 10.2723" sodipodi:nodetypes="ccccccccccc"/>
+  <path id="shape1121" transform="translate(105.612342081547, 226.774049007445)" fill="url(#gradient87)" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" d="M39.6939 0L0 108.981L52.253 96.1899L105.265 133.705L150.342 95.5269L217.171 131.911L145.3 0L39.6939 0" sodipodi:nodetypes="cccccccc"/>
+ </g><g id="group022" transform="matrix(-0.0544668842438629 -0.0456669695285253 0.0622619099475093 -0.0742596295949637 290.793582746249 609.846770470344)" fill="none">
+  <path id="shape022" transform="matrix(-0.982424307840068 -0.18666140298678 0.18666140298678 -0.982424307840068 375.618866572388 287.218581348499)" sodipodi:type="arc" sodipodi:rx="191.16" sodipodi:ry="134.04" sodipodi:cx="191.17862740455" sodipodi:cy="85.6625564496111" sodipodi:start="5.58988112711123" sodipodi:end="3.35716488337814" sodipodi:open="true" d="M4.44319 56.9905C-14.6919 118.264 29.3331 180.649 110.412 207.151C191.49 233.653 287.938 217.184 342.562 167.511C397.186 117.838 395.376 48.2446 338.207 0" fill="url(#gradient88)" fill-rule="evenodd" stroke="url(#gradient89)" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape132" transform="translate(74.5568814716334, 86.1340490074457)" rx="16.68" ry="18.48" cx="16.68" cy="18.48" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape222" transform="translate(210.876881471633, 51.8140490074452)" rx="11.04" ry="16.68" cx="11.04" cy="16.68" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape322" transform="translate(326.316881471632, 156.214049007446)" rx="18" ry="16.2" cx="18" cy="16.2" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape422" transform="translate(179.436881471631, 176.374049007445)" rx="15.72" ry="10.68" cx="15.72" cy="10.68" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape522" transform="translate(45.0368814716312, 189.334049007446)" rx="10.68" ry="9" cx="10.68" cy="9" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape622" transform="translate(140.796881471631, 76.7740490074452)" rx="24.6" ry="25.56" cx="24.6" cy="25.56" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape722" transform="translate(107.676881471631, 168.934049007445)" rx="8.16000000000001" ry="6.48000000000002" cx="8.16000000000001" cy="6.48000000000002" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape822" transform="translate(296.556881471632, 84.9340490074455)" rx="7.44" ry="8.28" cx="7.44" cy="8.28" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape922" transform="translate(264.636881471633, 187.654049007446)" rx="12.84" ry="19.56" cx="12.84" cy="19.56" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <path id="shape1022" transform="translate(94.4026754385323, 290.307610752458)" fill="url(#gradient90)" fill-rule="evenodd" stroke="#ffffff" stroke-width="0.24" stroke-linecap="square" stroke-linejoin="bevel" d="M61.4459 18.6956C60.7298 18.6956 57.299 37.476 56.2206 40.5726C48.0521 64.0277 38.6187 88.3109 27.3439 110.493C-13.8213 191.483 -22.481 296.769 102.332 292.685C121.52 292.057 142.366 294.335 160.818 287.967C288.245 243.988 220.437 154.485 179.244 75.6305C168.97 55.9622 173.059 28.9474 160.452 11.3253C150.654 -2.36857 98.5975 -1.31125 84.3639 2.47304C78.8904 3.92827 69.7736 6.55832 65.3878 9.10245C62.5695 10.7373 56.9695 19.0348 58.8791 16.3948C60.3797 14.3201 61.7232 12.5494 63.1877 10.2723" sodipodi:nodetypes="ccccccccccc"/>
+  <path id="shape1122" transform="translate(105.612342081542, 226.774049007447)" fill="url(#gradient91)" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" d="M39.6939 0L0 108.981L52.253 96.1899L105.265 133.705L150.342 95.5269L217.171 131.911L145.3 0L39.6939 0" sodipodi:nodetypes="cccccccc"/>
+ </g><g id="group023" transform="matrix(0.0588511437111481 0.0398579536484674 -0.0543419531966702 0.080237087064922 405.778049959211 344.087610706361)" fill="none">
+  <path id="shape023" transform="matrix(-0.982424307840068 -0.18666140298678 0.18666140298678 -0.982424307840068 375.61886657239 287.218581348502)" sodipodi:type="arc" sodipodi:rx="191.16" sodipodi:ry="134.04" sodipodi:cx="191.17862740455" sodipodi:cy="85.6625564496111" sodipodi:start="5.58988112711123" sodipodi:end="3.35716488337814" sodipodi:open="true" d="M4.44319 56.9905C-14.6919 118.264 29.3331 180.649 110.412 207.151C191.49 233.653 287.938 217.184 342.562 167.511C397.186 117.838 395.376 48.2446 338.207 0" fill="url(#gradient92)" fill-rule="evenodd" stroke="url(#gradient93)" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape133" transform="translate(74.5568814716343, 86.1340490074458)" rx="16.68" ry="18.48" cx="16.68" cy="18.48" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape223" transform="translate(210.876881471636, 51.8140490074455)" rx="11.04" ry="16.68" cx="11.04" cy="16.68" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape323" transform="translate(326.316881471635, 156.214049007445)" rx="18" ry="16.2" cx="18" cy="16.2" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape423" transform="translate(179.436881471635, 176.374049007445)" rx="15.72" ry="10.68" cx="15.72" cy="10.68" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape523" transform="translate(45.0368814716339, 189.334049007447)" rx="10.68" ry="9" cx="10.68" cy="9" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape623" transform="translate(140.796881471636, 76.7740490074457)" rx="24.6" ry="25.56" cx="24.6" cy="25.56" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape723" transform="translate(107.676881471635, 168.934049007445)" rx="8.16000000000001" ry="6.48000000000002" cx="8.16000000000001" cy="6.48000000000002" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape823" transform="translate(296.556881471636, 84.9340490074455)" rx="7.44" ry="8.28" cx="7.44" cy="8.28" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape923" transform="translate(264.636881471636, 187.654049007445)" rx="12.84" ry="19.56" cx="12.84" cy="19.56" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <path id="shape1023" transform="translate(94.4026754385368, 290.307610752459)" fill="url(#gradient94)" fill-rule="evenodd" stroke="#ffffff" stroke-width="0.24" stroke-linecap="square" stroke-linejoin="bevel" d="M61.4459 18.6956C60.7298 18.6956 57.299 37.476 56.2206 40.5726C48.0521 64.0277 38.6187 88.3109 27.3439 110.493C-13.8213 191.483 -22.481 296.769 102.332 292.685C121.52 292.057 142.366 294.335 160.818 287.967C288.245 243.988 220.437 154.485 179.244 75.6305C168.97 55.9622 173.059 28.9474 160.452 11.3253C150.654 -2.36857 98.5975 -1.31125 84.3639 2.47304C78.8904 3.92827 69.7736 6.55832 65.3878 9.10245C62.5695 10.7373 56.9695 19.0348 58.8791 16.3948C60.3797 14.3201 61.7232 12.5494 63.1877 10.2723" sodipodi:nodetypes="ccccccccccc"/>
+  <path id="shape1123" transform="translate(105.612342081547, 226.774049007445)" fill="url(#gradient95)" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" d="M39.6939 0L0 108.981L52.253 96.1899L105.265 133.705L150.342 95.5269L217.171 131.911L145.3 0L39.6939 0" sodipodi:nodetypes="cccccccc"/>
+ </g><g id="group024" transform="matrix(0.0524453380452538 -0.0479749945541703 0.0654086492163267 0.0715034728218746 446.727966526177 652.413209109141)" fill="none">
+  <path id="shape024" transform="matrix(-0.982424307840068 -0.18666140298678 0.18666140298678 -0.982424307840068 375.618866572388 287.218581348499)" sodipodi:type="arc" sodipodi:rx="191.16" sodipodi:ry="134.04" sodipodi:cx="191.17862740455" sodipodi:cy="85.6625564496111" sodipodi:start="5.58988112711123" sodipodi:end="3.35716488337814" sodipodi:open="true" d="M4.44319 56.9905C-14.6919 118.264 29.3331 180.649 110.412 207.151C191.49 233.653 287.938 217.184 342.562 167.511C397.186 117.838 395.376 48.2446 338.207 0" fill="url(#gradient96)" fill-rule="evenodd" stroke="url(#gradient97)" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape134" transform="translate(74.5568814716341, 86.1340490074452)" rx="16.68" ry="18.48" cx="16.68" cy="18.48" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape224" transform="translate(210.876881471634, 51.8140490074456)" rx="11.04" ry="16.68" cx="11.04" cy="16.68" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape324" transform="translate(326.316881471633, 156.214049007445)" rx="18" ry="16.2" cx="18" cy="16.2" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape424" transform="translate(179.436881471633, 176.374049007443)" rx="15.72" ry="10.68" cx="15.72" cy="10.68" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape524" transform="translate(45.0368814716346, 189.334049007446)" rx="10.68" ry="9" cx="10.68" cy="9" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape624" transform="translate(140.796881471634, 76.7740490074447)" rx="24.6" ry="25.56" cx="24.6" cy="25.56" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape724" transform="translate(107.676881471635, 168.934049007445)" rx="8.16000000000001" ry="6.48000000000002" cx="8.16000000000001" cy="6.48000000000002" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape824" transform="translate(296.556881471635, 84.9340490074446)" rx="7.44" ry="8.28" cx="7.44" cy="8.28" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape924" transform="translate(264.636881471634, 187.654049007446)" rx="12.84" ry="19.56" cx="12.84" cy="19.56" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <path id="shape1024" transform="translate(94.4026754385355, 290.307610752457)" fill="url(#gradient98)" fill-rule="evenodd" stroke="#ffffff" stroke-width="0.24" stroke-linecap="square" stroke-linejoin="bevel" d="M61.4459 18.6956C60.7298 18.6956 57.299 37.476 56.2206 40.5726C48.0521 64.0277 38.6187 88.3109 27.3439 110.493C-13.8213 191.483 -22.481 296.769 102.332 292.685C121.52 292.057 142.366 294.335 160.818 287.967C288.245 243.988 220.437 154.485 179.244 75.6305C168.97 55.9622 173.059 28.9474 160.452 11.3253C150.654 -2.36857 98.5975 -1.31125 84.3639 2.47304C78.8904 3.92827 69.7736 6.55832 65.3878 9.10245C62.5695 10.7373 56.9695 19.0348 58.8791 16.3948C60.3797 14.3201 61.7232 12.5494 63.1877 10.2723" sodipodi:nodetypes="ccccccccccc"/>
+  <path id="shape1124" transform="translate(105.612342081545, 226.774049007445)" fill="url(#gradient99)" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" d="M39.6939 0L0 108.981L52.253 96.1899L105.265 133.705L150.342 95.5269L217.171 131.911L145.3 0L39.6939 0" sodipodi:nodetypes="cccccccc"/>
+ </g><g id="group025" transform="matrix(0.0588511437111481 0.0398579536484674 -0.0543419531966702 0.080237087064922 552.636420062678 442.436828440487)" fill="none">
+  <path id="shape025" transform="matrix(-0.982424307840068 -0.18666140298678 0.18666140298678 -0.982424307840068 375.618866572388 287.218581348498)" sodipodi:type="arc" sodipodi:rx="191.16" sodipodi:ry="134.04" sodipodi:cx="191.17862740455" sodipodi:cy="85.6625564496111" sodipodi:start="5.58988112711123" sodipodi:end="3.35716488337814" sodipodi:open="true" d="M4.44319 56.9905C-14.6919 118.264 29.3331 180.649 110.412 207.151C191.49 233.653 287.938 217.184 342.562 167.511C397.186 117.838 395.376 48.2446 338.207 0" fill="url(#gradient100)" fill-rule="evenodd" stroke="url(#gradient101)" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape135" transform="translate(74.5568814716316, 86.134049007445)" rx="16.68" ry="18.48" cx="16.68" cy="18.48" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape225" transform="translate(210.876881471633, 51.8140490074444)" rx="11.04" ry="16.68" cx="11.04" cy="16.68" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape325" transform="translate(326.316881471634, 156.214049007443)" rx="18" ry="16.2" cx="18" cy="16.2" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape425" transform="translate(179.436881471633, 176.374049007445)" rx="15.72" ry="10.68" cx="15.72" cy="10.68" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape525" transform="translate(45.0368814716311, 189.334049007445)" rx="10.68" ry="9" cx="10.68" cy="9" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape625" transform="translate(140.796881471633, 76.7740490074439)" rx="24.6" ry="25.56" cx="24.6" cy="25.56" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape725" transform="translate(107.676881471632, 168.934049007445)" rx="8.16000000000001" ry="6.48000000000002" cx="8.16000000000001" cy="6.48000000000002" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape825" transform="translate(296.556881471633, 84.9340490074442)" rx="7.44" ry="8.28" cx="7.44" cy="8.28" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape925" transform="translate(264.636881471633, 187.654049007444)" rx="12.84" ry="19.56" cx="12.84" cy="19.56" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <path id="shape1025" transform="translate(94.4026754385339, 290.307610752459)" fill="url(#gradient102)" fill-rule="evenodd" stroke="#ffffff" stroke-width="0.24" stroke-linecap="square" stroke-linejoin="bevel" d="M61.4459 18.6956C60.7298 18.6956 57.299 37.476 56.2206 40.5726C48.0521 64.0277 38.6187 88.3109 27.3439 110.493C-13.8213 191.483 -22.481 296.769 102.332 292.685C121.52 292.057 142.366 294.335 160.818 287.967C288.245 243.988 220.437 154.485 179.244 75.6305C168.97 55.9622 173.059 28.9474 160.452 11.3253C150.654 -2.36857 98.5975 -1.31125 84.3639 2.47304C78.8904 3.92827 69.7736 6.55832 65.3878 9.10245C62.5695 10.7373 56.9695 19.0348 58.8791 16.3948C60.3797 14.3201 61.7232 12.5494 63.1877 10.2723" sodipodi:nodetypes="ccccccccccc"/>
+  <path id="shape1125" transform="translate(105.612342081546, 226.774049007444)" fill="url(#gradient103)" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" d="M39.6939 0L0 108.981L52.253 96.1899L105.265 133.705L150.342 95.5269L217.171 131.911L145.3 0L39.6939 0" sodipodi:nodetypes="cccccccc"/>
+ </g>
+</svg>
