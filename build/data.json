@@ -154,8 +154,8 @@
     "title": "Group project - The Bathhouse",
     "description": "Part of the first group project was also a fictional bathhouse that was part of Grönviksdal municipality.",
     "tools": ["Javascript", "HTML", "CSS"],
-    "link": "https://www.ekenberg-devit.se/agilt-projektarbete-badhuset-main/",
-    "linkToGithub": "https://github.com/tuc-pixel-wizards/agilt-projektarbete-badhuset",
+    "link": "https://www.ekenberg-devit.se//agilt-projektarbete-badhuset-main/",
+    "linkToGithub": "https://github.com/tuc-pixel-wizards/agilt-projektarbete-badhuset-main",
     "image": "./images/badhuset.png"
   },
   {
@@ -163,7 +163,7 @@
     "title": "Group project - Youth Recreation Center",
     "description": "Part of the first group project was the youth recreation center in Grönviksdal municipality.",
     "tools": ["HTML", "CSS"],
-    "link": "https://www.ekenberg-devit.se//agilt-projektarbete-kommunen/agilt-projektarbete-fritidsgarden/",
+    "link": "https://www.ekenberg-devit.se//agilt-projektarbete-fritidsgarden/",
     "linkToGithub": "https://github.com/tuc-pixel-wizards/agilt-projektarbete-fritidsgarden",
     "image": "./images/fritidsgarden.webp"
   },
@@ -172,7 +172,7 @@
     "title": "Group project - Grönviksdal Municipality",
     "description": "My first experience with agile methods and scrum was the group work Grönvikdal Municipality",
     "tools": ["Javascript", "HTML", "CSS"],
-    "link": "https://www.ekenberg-devit.se//agilt-projektarbete-kommunen/index.html",
+    "link": "https://www.ekenberg-devit.se//agilt-projektarbete-kommunen/",
     "linkToGithub": "https://github.com/tuc-pixel-wizards/agilt-projektarbete-kommunen",
     "image": "./images/kommun.webp"
   },
@@ -219,5 +219,6 @@
     "image": "./images/iot.webp"
   }
 ]
+
 
 
