@@ -154,7 +154,7 @@
     "title": "Group project - The Bathhouse",
     "description": "Part of the first group project was also a fictional bathhouse that was part of Grönviksdal municipality.",
     "tools": ["Javascript", "HTML", "CSS"],
-    "link": "https://www.ekenberg-devit.se//agilt-projektarbete-kommunen/agilt-projektarbete-badhuset-main/",
+    "link": "https://www.ekenberg-devit.se/agilt-projektarbete-badhuset-main/",
     "linkToGithub": "https://github.com/tuc-pixel-wizards/agilt-projektarbete-badhuset",
     "image": "./images/badhuset.png"
   },
@@ -219,4 +219,5 @@
     "image": "./images/iot.webp"
   }
 ]
+
 
