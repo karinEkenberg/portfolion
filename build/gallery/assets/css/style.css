@@ -1,0 +1,138 @@
+:root {
+    --blue: #7BD3EA;
+    --green: #A1EEBD;
+    --yellow: #F6F7C4;
+    --pink: #F6D6D6;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: var(--pink);
+}
+
+.img-gallery {
+    background-color: var(--pink);
+    width: 80%;
+    margin: auto;
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+}
+
+.img-gallery img {
+    width: 24%;
+    cursor: pointer;
+    flex: 0 0 20%;
+    margin: auto;
+}
+
+.img-galleries {
+    background-color:var(--pink);
+    width: 80%;
+    margin: auto;
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+}
+
+.img-galleries img {
+    width: 24%;
+    margin: auto;
+    
+    cursor: pointer;
+    flex: 0 0 20%;
+}
+
+.img-gallery img:hover {
+    transform: scale(0.8) rotate(-15deg);
+    border-radius: 20px;
+    box-shadow: 0 32px 75px rgb(red, green, blue);
+}
+
+.img-galleries img:hover {
+    transform: scale(0.8) rotate(-15deg);
+    border-radius: 20px;
+    box-shadow: 0 32px 75px rgb(red, green, blue);
+}
+
+.full-img {
+    width: 100%;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.801);
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    z-index: 100;
+}
+
+.full-img img {
+    width: 90%;
+    max-width: 500px;
+}
+
+.full-img span {
+    position: absolute;
+    top: 5%;
+    right: 5%;
+    color: white;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+header {
+    text-align: center;
+    color: rgb(70, 68, 68);
+    background-color: var(--green);
+    background-image: linear-gradient(var(--blue), var(--green),  var(--yellow), var(--pink));
+    height: 300px;
+}
+
+header h1 {
+    padding-top: 5%;
+    font-size: 3em;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+footer {
+    color: rgb(70, 68, 68);
+    background-color: var(--green);
+    background-image: linear-gradient(var(--pink), var(--yellow),  var(--green), var(--blue));
+    padding: 5%;
+}
+
+.footer-bottom {
+    margin-top: 10%;
+    bottom: 0;
+    align-items: flex-end;
+    text-align: center;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-around;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.footer-section {
+    flex: 1;
+    padding: 0 20px;
+}
+
+.footer-section h2 {
+    color: var(--blue);
+}
+
+.omOss {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+}
