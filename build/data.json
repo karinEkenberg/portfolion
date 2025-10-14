@@ -101,7 +101,7 @@
     "description": "Side project for my creative side that I combine with delving into JavaScript, HTML and CSS.",
     "tools": ["HTML", "CSS", "JS", "Krita"],
     "link": "https://www.ekenberg-devit.se//gallery/index.html",
-    "linkToGithub": "",
+    "linkToGithub": "https://github.com/karinEkenberg/gallery",
     "image": "./images/gallery.webp"
   },
   {
@@ -110,7 +110,7 @@
     "description": "Practice makes perfect, more immersion in JavaScript, try changing colors on the page, calculate BMI or degrees.",
     "tools": ["HTML", "CSS", "JS"],
     "link": "https://www.ekenberg-devit.se//jsFunctions/index.html",
-    "linkToGithub": "",
+    "linkToGithub": "https://github.com/karinEkenberg/jsFunctions",
     "image": "./images/webPulse.png"
   },
   {
@@ -146,7 +146,7 @@
     "description": "When I started my education at TUC to become a webdeveloper I made this simple portfolio with just HTML and CSS.",
     "tools": ["HTML", "CSS"],
     "link": "https://www.ekenberg-devit.se//webb-8/index.html",
-    "linkToGithub": "",
+    "linkToGithub": "https://github.com/karinEkenberg/webb-8",
     "image": "./images/old-portfolio.webp"
   },
   {
@@ -182,7 +182,7 @@
     "description": "The first task during my TUC training I had to make a website about the development of the internet, agile methods and my inspiration",
     "tools": ["HTML", "CSS", "Krita"],
     "link": "https://www.ekenberg-devit.se//webb-3/index.html",
-    "linkToGithub": "",
+    "linkToGithub": "https://github.com/karinEkenberg/webb-3",
     "image": "./images/historia.webp"
   },
   {
@@ -191,7 +191,7 @@
     "description": "As a creative person, I wanted to combine HTML and CSS with writing and illustrating a Webcomic",
     "tools": ["HTML", "CSS", "Krita"],
     "link": "https://www.ekenberg-devit.se//webcomic/",
-    "linkToGithub": "",
+    "linkToGithub": "https://github.com/karinEkenberg/webcomic",
     "image": "./images/bjornOselma.webp"
   },
   {
@@ -210,6 +210,7 @@
     "image": "./images/iot.webp"
   }
 ]
+
 
 
 
