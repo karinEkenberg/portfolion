@@ -3,7 +3,7 @@
     "id": 22,
     "title": "Testing",
     "description": "A simple web project built with Vite, styled with Tailwind CSS, and set up with ESLint for linting. This project demonstrates basic HTML structure, navigation, and responsive images with hover effects. The site is designed for easy deployment on GitHub Pages.",
-    "tools": ["Vite", "HTML", "Tailwind", "Responsive", "ESLint"],
+    "tools": ["Vite", "HTML", "Tailwind", "ESLint"],
     "link": "https://karinekenberg.github.io/testa/",
     "linkToGithub": "https://github.com/karinEkenberg/testa",
     "image": "/images/testa.PNG"
@@ -219,6 +219,7 @@
     "image": "./images/iot.webp"
   }
 ]
+
 
 
 
