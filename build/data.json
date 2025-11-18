@@ -1,12 +1,45 @@
 [
+    {
+    "id": 24,
+    "title": "Ethical Hacking & Security Labs",
+    "description": "A repository documenting my transition to IT Security Engineering. Contains hands-on penetration testing experiments, network traffic analysis, and vulnerability assessments performed in a controlled home lab environment using VMware.",
+    "tools": [
+      "Kali Linux",
+      "Wireshark",
+      "Nmap",
+      "Metasploit",
+      "C#",
+      "React"
+    ]
+    "linkToGithub": "https://github.com/karinEkenberg/Security-labs",
+    "image": "/images/kali.jpg"
+  },
+    {
+    "id": 23,
+"title": "Network Infrastructure Labs",
+    "description": "Academic networking labs simulating complex topologies in Cisco Packet Tracer. Includes configurations for Multi-area OSPF, RIPv2, VLANs (Router-on-a-Stick), and troubleshooting Spanning Tree Protocol (STP) broadcast storms.",
+    "tools": [
+      "Cisco Packet Tracer",
+      "OSPF & RIPv2",
+      "VLAN Configuration",
+      "STP Mitigation",
+      "Network Troubleshooting"
+    ]
+    "linkToGithub": "https://github.com/karinEkenberg/Network-labs",
+    "image": "/images/roas.jpg"
+  },
   {
     "id": 22,
-    "title": "Testing",
-    "description": "A simple web project built with Vite, styled with Tailwind CSS, and set up with ESLint for linting. This project demonstrates basic HTML structure, navigation, and responsive images with hover effects. The site is designed for easy deployment on GitHub Pages.",
-    "tools": ["Vite", "HTML", "Tailwind", "ESLint"],
-    "link": "https://karinekenberg.github.io/testa/",
-    "linkToGithub": "https://github.com/karinEkenberg/testa",
-    "image": "/images/testa.PNG"
+    "title": "Interactive German Learning for Children",
+    "description": "For my thesis project, I am developing an interactive web application designed to help children learn German in a fun and engaging way. The platform incorporates clickable elements and exercises to practice vocabulary and spelling. Built with .NET, the application includes essential MVC features such as user authentication, an admin panel, and unlockable content upon purchase.",
+    "tools": [
+      ".NET",
+      "C#",
+      "Entity Framework Core",
+      "SQL Server",
+      "HTML",
+      "JS",
+      "Bootstrap CSS"
   },
   {
     "id": 21,
@@ -36,16 +69,12 @@
   },
   {
     "id": 19,
-    "title": "Interactive German Learning for Children",
-    "description": "For my thesis project, I am developing an interactive web application designed to help children learn German in a fun and engaging way. The platform incorporates clickable elements and exercises to practice vocabulary and spelling. Built with .NET, the application includes essential MVC features such as user authentication, an admin panel, and unlockable content upon purchase.",
-    "tools": [
-      ".NET",
-      "C#",
-      "Entity Framework Core",
-      "SQL Server",
-      "HTML",
-      "JS",
-      "Bootstrap CSS"
+    "title": "Testing",
+    "description": "A simple web project built with Vite, styled with Tailwind CSS, and set up with ESLint for linting. This project demonstrates basic HTML structure, navigation, and responsive images with hover effects. The site is designed for easy deployment on GitHub Pages.",
+    "tools": ["Vite", "HTML", "Tailwind", "ESLint"],
+    "link": "https://karinekenberg.github.io/testa/",
+    "linkToGithub": "https://github.com/karinEkenberg/testa",
+    "image": "/images/testa.PNG"
     ],
     "link": "",
     "linkToGithub": "https://github.com/karinEkenberg/TyskaForSmaUpptackare",
@@ -219,6 +248,7 @@
     "image": "./images/iot.webp"
   }
 ]
+
 
 
 
