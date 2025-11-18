@@ -40,7 +40,9 @@
       "HTML",
       "JS",
       "Bootstrap CSS"
-    ]
+    ],
+    "linkToGithub": "https://github.com/karinEkenberg/TyskaForSmaUpptackare",
+    "image": "/images/thesis.webp"
   },
   {
     "id": 21,
@@ -245,6 +247,7 @@
     "image": "./images/iot.webp"
   }
 ]
+
 
 
 
