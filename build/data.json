@@ -10,7 +10,7 @@
       "Metasploit",
       "C#",
       "React"
-    ]
+    ],
     "linkToGithub": "https://github.com/karinEkenberg/Security-labs",
     "image": "/images/kali.jpg"
   },
@@ -24,7 +24,7 @@
       "VLAN Configuration",
       "STP Mitigation",
       "Network Troubleshooting"
-    ]
+    ],
     "linkToGithub": "https://github.com/karinEkenberg/Network-labs",
     "image": "/images/roas.jpg"
   },
@@ -39,7 +39,7 @@
       "SQL Server",
       "HTML",
       "JS",
-      "Bootstrap CSS"
+      "Bootstrap CSS"],
   },
   {
     "id": 21,
@@ -76,9 +76,6 @@
     "linkToGithub": "https://github.com/karinEkenberg/testa",
     "image": "/images/testa.PNG"
     ],
-    "link": "",
-    "linkToGithub": "https://github.com/karinEkenberg/TyskaForSmaUpptackare",
-    "image": "./images/thesis.webp"
   },
   {
     "id": 18,
@@ -248,6 +245,7 @@
     "image": "./images/iot.webp"
   }
 ]
+
 
 
 
