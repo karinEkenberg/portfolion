@@ -29,7 +29,7 @@
     "image": "/images/roas.jpg"
   },
   {
-    "id": 22,
+   "id": 22,
     "title": "Interactive German Learning for Children",
     "description": "For my thesis project, I am developing an interactive web application designed to help children learn German in a fun and engaging way. The platform incorporates clickable elements and exercises to practice vocabulary and spelling. Built with .NET, the application includes essential MVC features such as user authentication, an admin panel, and unlockable content upon purchase.",
     "tools": [
@@ -39,7 +39,8 @@
       "SQL Server",
       "HTML",
       "JS",
-      "Bootstrap CSS"],
+      "Bootstrap CSS"
+    ]
   },
   {
     "id": 21,
@@ -244,6 +245,7 @@
     "image": "./images/iot.webp"
   }
 ]
+
 
 
 
