@@ -28,7 +28,7 @@ dynamically manage content like my projects and tech stack.
 3. Open `index.html` in your browser or use a local server.  
 
 ## 📢 Check it out!  
-🔗 [Live Demo](https://www.karinwebdesigner.com)  
+🔗 [Live Demo](https://www.ekenberg-devit.se)  
 
 Feel free to reach out if you have any questions or feedback! 😊  
 
