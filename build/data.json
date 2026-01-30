@@ -1,5 +1,19 @@
 [
     {
+    "id": 26,
+    "title": "Sagan om Björn och Selma: Uppdrag Magivarelser",
+    "description": "Developed a high-performance, interactive digital book with a dual focus on sustainable web development and accessibility. I leveraged Vanilla JavaScript and CSS Grid to achieve perfect 100/100 Lighthouse scores across all metrics, ensuring a seamless mobile-first experience. By prioritizing secure-by-design principles and asset optimization, I reached an A+ Digital Carbon Rating, reducing page load emissions to 0.90g of CO2 and maintaining a minimalist, energy-efficient architecture with zero third-party dependencies.",
+    "tools": [
+      "CSS",
+      "HTML",
+      "JavaScript",
+      "Krita"
+    ],
+    "link": "https://karinekenberg.github.io/webcomic-2/",
+    "linkToGithub": "ttps://github.com/karinEkenberg/webcomic-2",
+    "image": "/images/sbs.png"
+  },
+    {
     "id": 25,
     "title": "Secure Enterprise Network Architecture",
     "description": "Collaborated within a solution architecture team to design a redundant multi-site network infrastructure for a logistics organization (NorthStar). As the Security Lead, I spearheaded the threat modeling, WPA3 implementation, and lifecycle management. I also established Agile workflows (Jira) and version control (Git) to ensure documentation integrity across the group.",
@@ -262,6 +276,7 @@
     "image": "./images/iot.webp"
   }
 ]
+
 
 
 
