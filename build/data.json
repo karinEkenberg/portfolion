@@ -10,7 +10,7 @@
       "Krita"
     ],
     "link": "https://karinekenberg.github.io/webcomic-2/",
-    "linkToGithub": "ttps://github.com/karinEkenberg/webcomic-2",
+    "linkToGithub": "https://github.com/karinEkenberg/webcomic-2",
     "image": "/images/sbs.png"
   },
     {
@@ -276,6 +276,7 @@
     "image": "./images/iot.webp"
   }
 ]
+
 
 
 
