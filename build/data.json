@@ -1,4 +1,21 @@
 [
+{
+    "id": 28,
+"title": "Digital Forensics & Incident Response Lab Portfolio",
+  "description": "A comprehensive collection of hands-on laboratories focused on cybercrime investigation and forensic analysis. The portfolio covers the full investigative lifecycle, including physical acquisition of Android devices, Azure cloud forensics, and disk imaging using Guymager and dd. By documenting technical workflows for virtual disk analysis and log analysis via PowerShell, this project demonstrates a deep-dive approach to identifying digital evidence and understanding adversary tactics in both on-premise and cloud environments.",
+  "tools": [
+    "Guymager",
+    "Azure CLI",
+    "PowerShell",
+    "Andriller",
+    "VMware",
+    "FTK Imager",
+    "Linux/dd"
+  ],
+    "link": "",
+    "linkToGithub": "https://github.com/karinEkenberg/DFIR-Lab-Portfolio",
+    "image": "/images/dfir.png"
+  },
         {
     "id": 27,
     "title": "Scrum Guide for Dummies",
