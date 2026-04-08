@@ -1,4 +1,18 @@
 [
+        {
+    "id": 27,
+    "title": "Scrum Guide for Dummies",
+    "description": "A collaborative academic project for the course 'IT-projekt och agila arbetssätt'. We developed a pedagogical guide that translates Scrum framework concepts into IT security terminology, using analogies such as SOC monitoring and ISO 27001 audits. The project followed a green development process with lightweight Markdown documentation to minimize carbon impact. It demonstrates the practical application of agile methodologies and secure-by-design principles within a self-organizing team.",
+    "tools": [
+      "Markdown",
+      "Git",
+      "Github",
+      "Agile/Scrum"
+    ],
+    "link": "",
+    "linkToGithub": "https://github.com/IT-projects-and-agile-ITS25/scrum-guide-for-dummies",
+    "image": "/images/scrum-guide-for-dummies.png"
+  },
     {
     "id": 26,
     "title": "Sagan om Björn och Selma: Uppdrag Magivarelser",
