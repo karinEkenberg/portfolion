@@ -1,4 +1,21 @@
 [
+    {
+    "id": 29,
+"title": "Critical Infrastructure OT Security Assessment",
+    "description": "A comprehensive security assessment of an Operational Technology (OT) environment for a wind park infrastructure. The project involves conducting a full Asset Inventory, Risk Assessment, and Gap Analysis evaluated against ISA/IEC 62443 standards and the NIS2 Directive. Key deliverables include identifying vulnerabilities in network segmentation using the Purdue model, analyzing access controls, and creating a prioritized security roadmap designed to mitigate lateral movement and safeguard cyber-physical safety and system availability.",
+    "tools": [
+      "ISA/IEC 62443",
+      "NIS2 Directive",
+      "Risk Assessment",
+      "Gap Analysis",
+      "STRIDE",
+      "Asset Inventory"
+    ],
+  ],
+    "link": "",
+    "linkToGithub": "https://github.com/ITS25-OT/Industrial-Control-Systems-Security-Analysis",
+    "image": "/images/OT-course.png"
+  },
 {
     "id": 28,
 "title": "Digital Forensics & Incident Response Lab Portfolio",
