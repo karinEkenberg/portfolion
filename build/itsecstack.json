@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Kali Linux",
+    "img": "./images/kalilinux-svgrepo-com.svg"
+  },
+  {
+    "name": "Linux",
+    "img": "./images/linux-tux-svgrepo-com.svg"
+  },
+  {
+    "name": "Windows Server",
+    "img": "./images/windows-applications-svgrepo-com.svg"
+  },
+  {
+    "name": "Wireshark",
+    "img": "./images/120px-Wireshark_icon.svg.png"
+  },
+  {
+    "name": "Autopsy",
+    "img": "./images/autopsy.svg"
+  },
+  {
+    "name": "FTK Imager",
+    "img": "./images/ftk-imager.svg"
+  },
+  {
+    "name": "Powershell",
+    "img": "./images/powershell-svgrepo-com.svg"
+  },
+  {
+    "name": "Cisco Packet Tracer",
+    "img": "./images/cisco-svgrepo-com.svg"
+  },
+  {
+    "name": "Docker",
+    "img": "./images/docker-svgrepo-com.svg"
+  }
+]
