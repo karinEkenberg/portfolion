@@ -1,5 +1,23 @@
 [
     {
+  "id": 30,
+  "title": "Automated Incident Response Lab",
+  "description": "An automated infrastructure for distributed security monitoring and active threat defense deployed via Infrastructure as Code (IaC). The project provisions a multi-node Wazuh EDR environment across VirtualBox VMs using Vagrant and Ansible. Key implementations include configuring real-time File Integrity Monitoring (FIM) using inotify, centralized authentication log auditing, and simulated brute-force attack scenarios using Hydra to validate automated incident response and IP blocking via iptables.",
+  "tools": [
+    "Wazuh EDR",
+    "Ansible",
+    "Vagrant",
+    "Bash",
+    "Hydra",
+    "VirtualBox",
+    "FIM",
+    "Linux"
+  ],
+  "link": "",
+  "linkToGithub": "https://github.com/VirtuSec-ITS25/automated-incident-response-lab",
+  "image": "/images/automated-incident-response.png"
+},
+    {
     "id": 29,
 "title": "Critical Infrastructure OT Security Assessment",
     "description": "A comprehensive security assessment of an Operational Technology (OT) environment for a wind park infrastructure. The project involves conducting a full Asset Inventory, Risk Assessment, and Gap Analysis evaluated against ISA/IEC 62443 standards and the NIS2 Directive. Key deliverables include identifying vulnerabilities in network segmentation using the Purdue model, analyzing access controls, and creating a prioritized security roadmap designed to mitigate lateral movement and safeguard cyber-physical safety and system availability.",
