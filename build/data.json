@@ -1,5 +1,22 @@
 [
     {
+    "id": 31,
+    "title": "Cybersäkerhetskompassen",
+    "description": "A web-based guidance platform engineered to help aspiring cybersecurity professionals navigate industry domains and role competencies. Built with React and Vite, the application integrates Sanity headless CMS via GROQ to dynamically manage specialized role profiles, interactive roadmap frameworks, and competence-based interview prep. Key implementations include a dynamic client-side matchmaking engine that filters career pathways based on user traits, responsive modular UI components with Tailwind CSS, and resilient client-side chunk-loading error handling.",
+    "tools": [
+      "React",
+      "Vite",
+      "Tailwind CSS",
+      "Sanity CMS",
+      "GROQ",
+      "JavaScript",
+      "Responsive Design"
+    ]
+  },  "link": "https://cybersakerhetskompassen.se/",
+  "linkToGithub": "https://github.com/karinEkenberg/Cybersakerhetskompassen",
+  "image": "/images/cybersakerhetskompassen.webp"
+},
+    {
   "id": 30,
   "title": "Automated Incident Response Lab",
   "description": "An automated infrastructure for distributed security monitoring and active threat defense deployed via Infrastructure as Code (IaC). The project provisions a multi-node Wazuh EDR environment across VirtualBox VMs using Vagrant and Ansible. Key implementations include configuring real-time File Integrity Monitoring (FIM) using inotify, centralized authentication log auditing, and simulated brute-force attack scenarios using Hydra to validate automated incident response and IP blocking via iptables.",
